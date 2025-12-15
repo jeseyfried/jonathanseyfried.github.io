@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+{% include page-header.html %}
+
+<body>
+
+  <div class="left-bar">
+    {% include nav-profile.html %}
+  </div>
+
+  <div class="main-content">
+
+    <div class="container">
+      {{ content }}
+    </div>
+    
+  </div> <!-- main-content -->
+
+  {% include page-js.html %}
+
+</body>
+</html>

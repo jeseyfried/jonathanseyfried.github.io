@@ -1,0 +1,287 @@
+/*****************************************************
+CARDS
+*****************************************************/
+
+.card {
+  /* Display */
+  overflow: hidden;
+  
+  /* Typography */
+  font-family: var(--font-body);
+  
+  /* Visual */
+  background: var(--bg-secondary-light);
+  border-radius: var(--radius-md);
+  opacity: 0.9;
+  
+  /* Interactivity */
+  transition: transform var(--transition-normal), opacity var(--transition-normal), box-shadow var(--transition-normal);
+}
+
+.card:hover {
+  /* Visual */
+  opacity: 1;
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+.card a {
+  /* Typography */
+  text-decoration: none;
+  color: var(--text-primary);
+  
+  /* Visual */
+  border-bottom: 0;
+}
+
+.card-body {
+  /* Box Model */
+  padding: var(--spacing-md);
+  
+  /* Typography */
+  font-family: var(--font-body);
+}
+
+.card h3 {
+  /* Box Model */
+  margin: var(--spacing-xs) 0 var(--spacing-sm) 0;
+  
+  /* Typography */
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--text-primary);
+}
+
+.card-text {
+  /* Typography */
+  font-size: 1rem;
+  font-weight: normal;
+  color: var(--text-secondary);
+}
+
+
+/* Vertical cards for grid layouts */
+.v-card {
+  /* Display */
+  display: flex;
+  flex-direction: column;
+  
+  /* Box Model */
+  height: 100%;
+  min-height: 20rem;
+}
+
+.v-card .card-img-top {
+  /* Box Model */
+  width: 100%;
+  height: 15rem;
+  
+  /* Visual */
+  object-fit: cover;
+}
+
+.v-card .card-body {
+  /* Display */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1 1 auto;
+}
+
+.v-card:hover {
+  /* Visual */
+  transform: scale(1.03);
+}
+
+
+/* Horizontal cards for stacked layouts */
+.h-card {
+  /* Display */
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  
+  /* Box Model */
+  min-height: 12rem;
+  margin-bottom: var(--spacing-md);
+}
+
+.h-card .card-img-left {
+  /* Box Model */
+  flex: 0 0 200px;
+  width: 200px;
+  height: 100%;
+  
+  /* Visual */
+  object-fit: cover;
+}
+
+.h-card .card-body {
+  /* Display */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1 1 auto;
+}
+
+.h-card:hover {
+  /* Visual */
+  transform: translateX(8px);
+}
+
+/* Card link wrapper */
+.h-card a.card-link {
+  /* Display */
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  flex: 1;
+  
+  /* Typography */
+  text-decoration: none;
+  color: inherit;
+}
+
+.h-card a.card-link:hover {
+  /* Typography */
+  text-decoration: none;
+}
+
+/* Tags in cards */
+.card .tags {
+  /* Display */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  
+  /* Box Model */
+  margin-top: 0.75rem;
+}
+
+.card .tags .badge {
+  /* Box Model */
+  padding: 0.35rem 0.65rem;
+  
+  /* Typography */
+  font-size: 0.85rem;
+  font-weight: normal;
+}
+
+
+/* Responsive: horizontal cards become vertical on small screens */
+@media (max-width: 768px) {
+  .h-card {
+    /* Display */
+    flex-direction: column;
+  }
+  
+  .h-card .card-img-left {
+    /* Box Model */
+    flex: 0 0 auto;
+    width: 100%;
+    height: 200px;
+  }
+}
+
+
+
+
+/*****************************************************
+ToC ROWS
+*****************************************************/
+
+.toc-row {
+  /* Display */
+  align-items: center;
+  overflow: hidden;
+
+  /* Box Model */
+  margin-bottom: var(--spacing-sm);
+  padding: var(--spacing-md);
+
+  /* Typography */
+  font-family: var(--font-body);
+  font-weight: 300;
+
+  /* Visual */
+  background: var(--bg-secondary);
+  border-left: 3px solid var(--clay);
+  border-radius: 6px;
+
+  /* Interactivity */
+  transition: all var(--transition-normal);
+}
+
+.toc-row:hover {
+  /* Visual */
+  border-left-color: var(--interactive-hover);
+  
+  /* Interactivity */
+  cursor: pointer;
+}
+
+.toc-row a {
+  /* Typography */
+  font-weight: normal !important;
+  text-decoration: none;
+  color: inherit;
+}
+
+
+.toc-row h3 {
+  /* Box Model */
+  margin-top: 0;
+  
+  /* Typography */
+  font-size: 150%;
+  color: var(--text-primary);
+  text-transform: uppercase;
+}
+
+.toc-row p {
+  /* Box Model */
+  margin-bottom: 0;
+  
+  /* Typography */
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+.toc-row-flex {
+  /* Display */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.toc-body {
+  /* Display */
+  flex: 1;
+}
+
+.toc-arrow {
+  /* Display */
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  
+  /* Box Model */
+  margin-left: var(--spacing-lg);
+  
+  /* Visual */
+  opacity: 0.7;
+  
+  /* Interactivity */
+  transition: opacity var(--transition-normal);
+}
+
+.toc-arrow svg {
+  /* Box Model */
+  width: 4rem;
+  height: 4rem;
+}
+
+.toc-row:hover .toc-arrow {
+  /* Visual */
+  opacity: 1;
+}

@@ -1,0 +1,363 @@
+/* Modern font pairing - Inter (headings) + Crimson Pro (body) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;700&display=swap');
+
+
+@media screen {
+
+/*****************************************************
+TYPOGRAPHY
+*****************************************************/
+
+html, body {
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  line-height: 1.3em;
+  color: var(--text-primary);
+}
+
+h1, h2, h3, h4, h5 {
+  /* Typography */
+  font-family: var(--font-heading);
+  font-weight: 600;
+  text-align: left;
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  /* Box Model */
+  margin-top: var(--spacing-lg);
+  margin-bottom: var(--spacing-xs);
+  
+  /* Typography */
+  font-size: 2.8rem;
+}
+
+h2 {
+  /* Box Model */
+  margin-top: var(--spacing-lg);
+  margin-bottom: var(--spacing-xs);
+  
+  /* Typography */
+  font-size: 2.2rem;
+}
+
+h3 {
+  /* Box Model */
+  margin-top: var(--spacing-lg);
+  margin-bottom: var(--spacing-xs);
+  
+  /* Typography */
+  font-size: 1.7rem;
+}
+
+h4 {
+  /* Box Model */
+  margin-top: var(--spacing-md);
+  margin-bottom: 0.8rem;
+  
+  /* Typography */
+  font-size: 1.3rem;
+}
+
+h5 {
+  /* Box Model */
+  margin-top: var(--spacing-sm);
+  margin-bottom: var(--spacing-xs);
+  
+  /* Typography */
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+hr {
+  /* Display */
+  display: block;
+  
+  /* Box Model */
+  height: 0;
+  margin: var(--spacing-xl) 0;
+  clear: both;
+  
+  /* Visual */
+  border: 4px solid var(--text-primary);
+}
+
+p {
+  /* Box Model */
+  margin-bottom: var(--spacing-md);
+  
+  /* Typography */
+  line-height: 1.6em;
+  text-align: justify;
+}
+
+a {
+  /* Typography */
+  text-decoration: none;
+  color: var(--text-link);
+  
+  /* Visual */
+  border-bottom: 1px dotted var(--text-link);
+}
+
+a:visited {
+  /* Typography */
+  color: var(--text-link);
+  
+  /* Visual */
+  border-bottom: 1px dotted var(--text-link);
+}
+
+a:hover {
+  /* Typography */
+  text-decoration: none;
+}
+
+.map-card {
+  /* Box Model */
+  margin-top: var(--spacing-xs);
+  
+  /* Typography */
+  font-family: var(--font-body);
+  font-weight: normal;
+  font-size: 0.9rem;
+  line-height: 1.2rem;
+  text-align: justify;
+  color: var(--text-primary);
+}
+
+.container li {
+  /* Box Model */
+  margin: 0 0 var(--spacing-xs) 0;
+  padding: 0;
+  
+  /* Typography */
+  line-height: 1.7rem;
+}
+
+/*****************************************************
+CODE BLOCKS
+*****************************************************/
+
+.highlight {
+  /* Display */
+  overflow-x: auto;
+  
+  /* Box Model */
+  margin: var(--spacing-sm) 0;
+  padding: var(--spacing-xs);
+  
+  /* Visual */
+  background: var(--sage);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+}
+
+.highlight pre {
+  /* Box Model */
+  margin: 0;
+  padding: 0;
+  
+  /* Typography */
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+  color: var(--text-primary);
+}
+
+
+/*****************************************************
+FOOTNOTE STYLING
+*****************************************************/
+
+.littlefoot__button {
+  /* Display & Positioning */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  
+  /* Box Model */
+  width: 1rem;
+  height: 1rem;
+  padding: 0;
+  
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  text-decoration: none;
+  color: white;
+  
+  /* Visual */
+  background: var(--clay);
+  border: none;
+  border-radius: 50%;
+  box-shadow: var(--shadow-sm);
+  opacity: 0.6;
+  
+  /* Interactivity */
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+
+.littlefoot__button:hover,
+.littlefoot__button:focus {
+  /* Typography */
+  color: white;
+  
+  /* Visual */
+  background: var(--text-primary);
+  outline: none;
+}
+
+
+
+/*****************************************************
+BLOCKQUOTE
+*****************************************************/
+
+blockquote {
+  /* Box Model */
+  max-width: 80%;
+  margin: var(--spacing-sm) auto;
+  padding: var(--spacing-xs);
+  
+  /* Typography */
+  font-size: 120%;
+  font-style: italic;
+  quotes: """ """ "'" "'";
+  
+  /* Visual */
+  border-left: 4px solid var(--text-muted);
+}
+
+
+
+/*****************************************************
+PULLQUOTES
+*****************************************************/
+
+.pullquote {
+  /* Box Model */
+  margin: 1em auto;
+  padding: 1em;
+  
+  /* Typography */
+  color: #486B76;
+  
+  /* Visual */
+  border-top: 6px solid var(--info);
+  border-bottom: 6px solid var(--info);
+}
+
+.pullquote p {
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 1.4rem;
+  line-height: 1.4rem;
+  text-align: justify;
+}
+
+
+
+/*****************************************************
+BLOCKQUOTE
+*****************************************************/
+
+blockquote {
+  border-left: 4px solid darkgrey;
+  max-width: 80%;
+  margin: 1rem auto;
+  padding: 0.5rem .5rem;
+  font-size: 120%;
+  font-style: italic;
+  quotes: "“" "”" "‘" "’";
+}
+
+
+
+/*****************************************************
+PULLQUOTES
+*****************************************************/
+
+.pullquote {
+  border-top: 6px solid #005999;
+  border-bottom: 6px solid #005999;
+  color: #486B76;
+  margin: 1em auto;
+  padding: 1em;
+}
+
+
+.pullquote p {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 1.4rem;
+  line-height: 1.4rem;
+  text-align: justify;
+}
+
+
+} /* end regular styles */
+
+
+/* tablet styles */
+@media screen and (min-width: 34em) {
+  .pullquote {
+    float: left;
+    width: 50%;
+    padding: 1.2em 0 1.2em 0;
+    margin: .8em 2em .8em 0;
+  }
+}
+
+
+/* desktop styles */
+@media screen and (min-width: 1280px) {
+  .pullquote {
+    margin-left: -10%;
+  }
+
+  aside.right {
+    margin-left: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  aside p {
+    margin: 0;
+  }
+
+}
+
+
+
+/*****************************************************************************/
+/*
+/* SMALL SCREEN
+/*
+/*****************************************************************************/
+
+@media (max-width: 768px) {
+
+  aside {
+    position:relative;
+    width:100%;
+    padding: .4em;
+    border:1px solid #ccc;
+    background:#fefefe;
+    margin-bottom:1em;
+  }
+
+  aside.aside-right {
+    margin-left:0;
+    left:0;
+    width:100%;
+  }
+
+  aside p{
+    margin:0;
+  }
+}

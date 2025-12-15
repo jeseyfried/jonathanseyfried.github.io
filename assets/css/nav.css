@@ -1,0 +1,236 @@
+/*****************************************************
+NAVIGATION
+*****************************************************/
+
+@media screen {
+
+/*****************************************************
+TOPNAV
+*****************************************************/
+
+.navbar {
+  /* Box Model */
+  padding: var(--spacing-xs) var(--spacing-sm);
+  
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: var(--text-tertiary) !important;
+  
+  /* Visual */
+  background-color: var(--bg-tertiary) !important;
+  border-bottom: 1px solid var(--border-primary);
+}
+
+.navbar-brand {
+  /* Typography */
+  font-size: 1.1rem;
+  font-weight: 600 !important;
+  color: var(--text-tertiary) !important;  /* Explicit color for template users */
+  text-decoration: none;
+  
+  /* Visual */
+  border-bottom: none;
+}
+
+.navbar-brand:hover {
+  /* Typography */
+  color: var(--text-tertiary) !important;
+}
+
+.navbar-nav {
+  /* Display */
+  display: flex;
+  list-style: none;
+  gap: var(--spacing-sm);
+}
+
+.navbar-nav a {
+  /* Box Model */
+  padding: var(--spacing-xs) var(--spacing-sm);
+  
+  /* Typography */
+  text-decoration: none;
+  color: var(--text-tertiary);
+  
+  /* Visual */
+  border-radius: var(--radius-sm);
+  
+  /* Interactivity */
+  transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+.navbar-nav a:hover,
+.navbar-nav a.active {
+  /* Typography */
+  color: var(--text-tertiary);
+  
+  /* Visual */
+  background: var(--interactive-hover);
+}
+
+ul .dropdown-menu {
+  /* Visual */
+  background-color: var(--bg-tertiary) !important;
+}
+
+.nav-link.dropdown-toggle.show {
+  /* Typography */
+  color: var(--text-tertiary);
+  
+  /* Visual */
+  background-color: var(--interactive-hover);
+}
+
+/*****************************************************
+SIDENAV
+*****************************************************/
+.left-bar {
+  /* Positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  
+  /* Box Model */
+  width: 25vw;
+  height: 100vh;
+  padding: var(--spacing-lg) var(--spacing-sm);
+  overflow-y: auto;
+  
+  /* Visual */
+  background: var(--bg-secondary);
+  border-right: 1px solid var(--border-primary);
+  box-shadow: var(--shadow-md);
+}
+
+h2.left-bar-nav-section {
+  /* Box Model */
+  margin-top: 1.3rem;
+  padding-left: 0;
+  
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 1.2rem;
+  letter-spacing: -0.02rem;
+  color: var(--text-primary);
+  
+  /* Visual */
+  border-bottom: 1px solid var(--border-primary);
+}
+
+.left-bar ul {
+  /* Box Model */
+  margin: 0 0 0 var(--spacing-sm);
+  padding: 0;
+  
+  /* Display */
+  list-style: none;
+}
+
+.left-bar-nav-item {
+  /* Box Model */
+  margin: 0 0 var(--spacing-sm) 0;
+  padding: 0;
+}
+
+.left-bar-nav-item a {
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: normal;
+  text-decoration: none;
+  color: var(--text-primary);
+  
+  /* Visual */
+  border-bottom: none;
+  border-radius: 6px;
+  
+  /* Interactivity */
+  transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+.left-bar-nav-item a:hover,
+.left-bar-nav-item a.active {
+  /* Typography */
+  text-decoration: underline;
+  color: var(--text-link);
+}
+
+.main-content {
+  /* Box Model */
+  margin-left: 25vw;
+}
+
+
+/*****************************************************
+BREADCRUMB NAVIGATION
+*****************************************************/
+.breadcrumb-nav-list {
+  /* Display */
+  display: flex;
+  list-style: none;
+  gap: 8px;
+  
+  /* Box Model */
+  margin: 0 0 16px 0;
+  padding: 0;
+}
+
+.breadcrumb-nav-list-item a {
+  /* Typography */
+  font-size: 1rem;
+  text-decoration: none;
+  color: var(--info);
+}
+
+.breadcrumb-nav-list-item span {
+  /* Typography */
+  font-size: 1rem;
+  color: var(--text-secondary);
+}
+
+
+} /* end media screen */
+
+
+.navbar-workshop-toggle {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  padding: 0 1rem;
+}
+
+.navbar-workshop-toggle .form-switch {
+  margin: 0;
+}
+
+.navbar-workshop-toggle .form-check-input {
+  cursor: pointer;
+}
+
+.navbar-workshop-toggle .form-check-label {
+  cursor: pointer;
+  margin-left: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--bs-navbar-color);
+}
+
+/* Adjust for mobile */
+@media (max-width: 768px) {
+  .navbar-workshop-toggle {
+    padding: 0.5rem 1rem;
+    border-top: 1px solid rgba(0,0,0,.1);
+  }
+}
+
+
+/*****************************************************************************/
+/*
+/* SMALL SCREEN
+/*
+/*****************************************************************************/
+
+  @media (max-width: 768px) {
+
+}

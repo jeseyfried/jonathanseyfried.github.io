@@ -1,0 +1,64 @@
+
+- title: "Instructions"
+  items:
+    - title: "Getting Started"
+      url: "/guides/getting-started"
+    - title: "Understanding Folders"
+      url: "/guides/understanding-folders"
+    - title: "Understanding Pages"
+      url: "/guides/understanding-pages"
+    - title: "Editing Your Site"
+      url: "/guides/editing-your-site"
+    - title: "Adding Images"    
+      url: "/guides/adding-images"
+    - title: "Working Locally"    
+      url: "/guides/working-locally"
+    - title: "Troubleshooting"
+      url: "/guides/troubleshooting"
+
+- title: "Navigation"
+  items:
+    - title: "Top Navbar"
+      url: "/navigation/top-nav"
+    - title: "Cards"
+      url: "/navigation/cards"
+    - title: "Left Navbar Demo"
+      url: "/navigation/left-nav-demo"
+    - title: "Left Profile Demo"
+      url: "/navigation/left-profile-demo"
+    - title: "Map"
+      url: "/map"
+
+
+- title: "Page components"
+  items:
+    - title: "Typography"
+      url: "/components/typography"
+    - title: "Images"
+      url: "/components/images"
+    - title: "Headers"
+      url: "/components/headers"
+    - divider: true
+    - title: "Backgrounds with scrolly boxes"
+      url: "/components/bg-scrollbox"
+    - title: "Background switching with scrolly boxes"
+      url: "/components/bg-switch"
+    - title: "Side scrolling text"
+      url: "/components/side-scroll"
+      
+
+- title: "ScrollStories"
+  items:
+    - title: "Overview"
+      url: "/scrollstories"
+    - title: "Seedling Essay"
+      url: "/scrollstories/seedling"
+    - title: "Sapling Essay"
+      url: "/scrollstories/sapling"
+    - title: "Forest Essay"
+      url: "/scrollstories/forest"
+
+      
+
+- title: "FAQs"
+  url: "/faqs"
