@@ -24,7 +24,7 @@ PAGE SETUP
   --dark-evergreen: #0E2A23;
   --green-teal: #143A34;
   --black-charcoal: #0A0F0E;
-  --green-acid: #7CFF6B;
+  --green-acid: #6be05c;
   --mossy-mid-green: #5E8F7B;
   --green-border: #3A5A52;
   --warm-candle: #E6E3C8;
@@ -40,19 +40,19 @@ PAGE SETUP
   /* Text colors */
   --text-primary: var(--mossy-mid-green); /*text for H1s and primary text */
   --text-secondary: var(--mossy-mid-green); /*text for captions */
-  --text-tertiary: var(--green-acid); /*text for navbar brand after visited */
-  --text-accent: var(--green-acid); /*text for navbar text and footer text */
-  --text-link: var(--green-acid); /*text for navbar brand before visited */
+  --text-tertiary: var(--warm-candle); /*text for navbar brand after visited */
+  --text-accent: var(--warm-candle); /*text for navbar text and footer text */
+  --text-link: var(--warm-candle); /*text for navbar brand before visited */
   --text-muted: #666; /* used only in carousel captions */
 
   /* Border colors */
-  --border-primary: var(--brown); /* color lines that separate navbar and footer */
+  --border-primary: var(--black-charcoal); /* color lines that separate navbar and footer */
   --border-secondary: #ccc; /* not used in this css */
   --border-light: rgba(0, 0, 0, 0.1); /* not used in this css */
 
   /* Interactive states */
-  --interactive-hover: var(--clay);
-  --interactive-active: var(--brown);
+  --interactive-hover: var(--green-acid);
+  --interactive-active: var(--green-acid);
 
   /* Semantic status colors */
   --success: #28a745;
