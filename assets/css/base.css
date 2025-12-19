@@ -51,8 +51,8 @@ PAGE SETUP
   --border-light: rgba(0, 0, 0, 0.1); /* not used in this css */
 
   /* Interactive states */
-  --interactive-hover: var(--green-acid);
-  --interactive-active: var(--green-acid);
+  --interactive-hover: var(--green-teal);
+  --interactive-active: var(--green-teal);
 
   /* Semantic status colors */
   --success: #28a745;

@@ -4,7 +4,7 @@ profile:
   image_url: /assets/images/site/js-photo-3.jpeg
   alt_text: "Profile photo of Jonathan"
   name: Jonathan Seyfried
-  description: History PhD Student at the University of New Mexico
+  description: History PhD Candidate at the University of New Mexico
 links:
   - title: UNM Profile
     url: https://history.unm.edu/people/graduate-students/profiles/jonathan-seyfried.html
