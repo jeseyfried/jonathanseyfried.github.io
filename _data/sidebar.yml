@@ -1,7 +1,7 @@
 settings:
   links_font_weight: normal
 profile:
-  image_url: /assets/images/site/js-photo-3.jpeg
+  image_url: /assets/images/js-photo-3.jpeg
   alt_text: "Profile photo of Jonathan"
   name: Jonathan Seyfried
   description: History PhD Candidate at the University of New Mexico
