@@ -31,24 +31,24 @@ PAGE SETUP
 
 
   /* Background colors */
-  --bg-primary: var(--dark-evergreen);
-  --bg-secondary: var(--sand);
-  --bg-secondary-light: var(--sand-light);
-  --bg-tertiary: var(--dark);
-  --bg-accent: var(--clay);
+  --bg-primary: var(--dark-evergreen); /* background for main body */
+  --bg-secondary: var(--sand); /* used only in carousels */
+  --bg-secondary-light: var(--sand-light); /* used only in carousels */
+  --bg-tertiary: var(--dark-evergreen); /* background for navbar and footer */
+  --bg-accent: var(--clay); /* not used in this css */
 
   /* Text colors */
-  --text-primary: var(--mossy-mid-green);
-  --text-secondary: var(--green-acid);
-  --text-tertiary: var(--sand);
-  --text-accent: var(--clay);
-  --text-link: var(--clay);
-  --text-muted: #666;
+  --text-primary: var(--mossy-mid-green); /*text for H1s and primary text */
+  --text-secondary: var(--mossy-mid-green); /*text for captions */
+  --text-tertiary: var(--green-acid); /*text for navbar brand after visited */
+  --text-accent: var(--green-acid); /*text for navbar text and footer text */
+  --text-link: var(--green-acid); /*text for navbar brand before visited */
+  --text-muted: #666; /* used only in carousel captions */
 
   /* Border colors */
-  --border-primary: var(--brown);
-  --border-secondary: #ccc;
-  --border-light: rgba(0, 0, 0, 0.1);
+  --border-primary: var(--brown); /* color lines that separate navbar and footer */
+  --border-secondary: #ccc; /* not used in this css */
+  --border-light: rgba(0, 0, 0, 0.1); /* not used in this css */
 
   /* Interactive states */
   --interactive-hover: var(--clay);
