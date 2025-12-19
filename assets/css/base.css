@@ -20,17 +20,26 @@ PAGE SETUP
   --brown: #925737;
   --bone: #F5EFE6;
   --dark: #1b0b02;
+  --darkest-green: #004b23; 
+  --dark-evergreen: #0E2A23;
+  --green-teal: #143A34;
+  --black-charcoal: #0A0F0E;
+  --green-acid: #7CFF6B;
+  --mossy-mid-green: #5E8F7B;
+  --green-border: #3A5A52;
+  --warm-candle: #E6E3C8;
+
 
   /* Background colors */
-  --bg-primary: var(--bone);
+  --bg-primary: var(--dark-evergreen);
   --bg-secondary: var(--sand);
   --bg-secondary-light: var(--sand-light);
   --bg-tertiary: var(--dark);
   --bg-accent: var(--clay);
 
   /* Text colors */
-  --text-primary: #3a1602;
-  --text-secondary: #413b31;
+  --text-primary: var(--mossy-mid-green);
+  --text-secondary: var(--green-acid);
   --text-tertiary: var(--sand);
   --text-accent: var(--clay);
   --text-link: var(--clay);
