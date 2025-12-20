@@ -8,7 +8,7 @@
 - title: "Podcasts"
   items:
     - title: "Overview"
-      url: "/podcasts/"
+      url: "/podcasts"
     - title: "The Historian's Notebook"
       url: "/podcasts/historiansnotebook"
     - title: "A Socialist Reads Atlas Shrugged"
