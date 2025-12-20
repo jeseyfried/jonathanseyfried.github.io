@@ -107,6 +107,14 @@ body:has(.sidebar-wrapper) .container {
   max-width: calc(100% - 20vw - var(--spacing-lg) * 2);
 }
 
+body:has(.sidebar-wrapper) .navbar {
+  margin-left: calc(20vw + var(--spacing-md));
+}
+
+body:has(.sidebar-wrapper) footer {
+  margin-left: calc(20vw + var(--spacing-md));
+}
+
 /* Responsive adjustments */
 @media (max-width: 992px) {
   .sidebar-wrapper {
@@ -118,6 +126,14 @@ body:has(.sidebar-wrapper) .container {
     margin-left: calc(25vw + var(--spacing-lg));
     margin-right: auto;
     max-width: calc(100% - 25vw - var(--spacing-lg) * 2);
+  }
+  
+  body:has(.sidebar-wrapper) .navbar {
+    margin-left: calc(25vw + var(--spacing-md));
+  }
+  
+  body:has(.sidebar-wrapper) footer {
+    margin-left: calc(25vw + var(--spacing-md));
   }
 }
 
@@ -131,5 +147,13 @@ body:has(.sidebar-wrapper) .container {
     margin-left: auto;
     margin-right: auto;
     max-width: 52rem;
+  }
+  
+  body:has(.sidebar-wrapper) .navbar {
+    margin-left: 0;
+  }
+  
+  body:has(.sidebar-wrapper) footer {
+    margin-left: 0;
   }
 }
