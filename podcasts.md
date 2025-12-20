@@ -7,7 +7,7 @@ date: 2025-08-23
 ---
 
 ## Overview of My Podcasts
-My current podcast project is *The Historian's Notebook* which has its own [companion section within this website](/historiansnotebook). In 2023, I did a 45-episode podcast titled *A Socialist Reads Atlas Shrugged*. You can listen to both of these podcasts from popular audio streaming platforms like iTunes or Spotify. On this page you'll find embedded audio players as well. 
+My current podcast project is *The Historian's Notebook* which has its own [companion section within this website](/historiansnotebook). In 2023, I did a 45-episode podcast titled *A Socialist Reads Atlas Shrugged*. You can listen to both of these podcasts from popular audio streaming platforms like iTunes or Spotify. On this page you'll find embedded audio players as well. On this page you will find summaries of both these projects.
 
 ### The Historian's Notebook
 
@@ -17,8 +17,11 @@ Season 1, titled *Molt Cara Companyona*, will be a daily podcast coming in 2026!
 
 <iframe src="https://player.rss.com/the-historians-notebook?theme=color&v=2" width="100%" height="393px" title="The Historian's Notebook" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/the-historians-notebook">The Historian's Notebook | RSS.com</a></iframe>
 
-
 ### A Socialist Reads Atlas Shrugged
 I created this podcast before starting my current graduate program. The inspiration for it came from how I noticed that *Atlas Shrugged* operates as a type of ur-text for a lot of Republican Party policies and conservative ideology. Many leftists dismiss the book, and Ayn Rand in general, as unworthy of attention due to Rand's eccentricities and the melodrama of her prose style. However, many people have read *Atlas Shrugged* and find great value in its ideas. I wanted to explore the arguments in the book and offer a response that would help people to move beyond the caricature of socialism presented in it. 
 
 <div id='buzzsprout-large-player'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/1933058.js?container_id=buzzsprout-large-player&player=large&order=date'></script>
+
+<br style="clear: both">
+<br style="clear: both">
+<br style="clear: both">
