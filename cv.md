@@ -21,7 +21,7 @@ date: 2025-12-20
 
 **Secondary Education, History and Social Studies Teacher**, 2007-2022. Grades 7-12. Subjects taught: AP World History, AP US History, AP Government, Economics, New Mexico History.
 
-**Library Information Specialist**, 2000-2009 and 2022-2025. University of California, San Francisco, Kalmanovitz Health Sciences Library, Brandeis Day School, San Francisco, and the University of New Mexico Health Sciences Library and Informatics Center.
+**Library Information Specialist**, 2000-2009 and 2022-2025. University of California, San Francisco, Kalmanovitz Health Sciences Library, Brandeis Day School in San Francisco, and the University of New Mexico Health Sciences Library and Informatics Center in Albuquerque.
 
 ### Areas of Research Interest
 - Public History
@@ -34,7 +34,7 @@ date: 2025-12-20
 
 ### Publications
 
-'Medieval Hypebeast: The Conspicuous Consumption of Joan I of Aragon,' *Quidditas*, Vol. 45 (2024). Published in conjunction with the Allen D. Breck Award. (6600 words)
+'Medieval Hypebeast: The Conspicuous Consumption of Joan I of Aragon,' *Quidditas*, Vol. 45 (2024). Published in conjunction with the Alan DuPont Breck Award. (6600 words)
 
 Forthcoming: 'The Social Networks of Violant de Bar,' *Medieval People*, Vol. 40 (2025). (9600 words)
 
