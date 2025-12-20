@@ -54,6 +54,7 @@
 .sidebar .profile p {
   /* Typography */
   font-size: 0.85rem;
+  text-align: left;
   color: var(--text-secondary);
   margin: 0;
 }

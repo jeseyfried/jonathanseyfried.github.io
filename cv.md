@@ -1,86 +1,91 @@
 ---
-title: Curriculum Vitae
 layout: base
+title: Seyfried CV
+subtitle: 
+author: Jonathan Seyfried
+date: 2025-12-20
 ---
 
-# Alexandra Ruiz
-Email: aruiz@university.edu • Phone: (505) 555-3482  
-Website: [www.alexruizdh.com](http://www.alexruizdh.com) • [LinkedIn](http://linkedin.com/in/alexruizdh)  
+## Jonathan Seyfried Curriculum Vitae
+<br style="clear: both">
+### Education
+**Doctor of Philosophy (expected 2028)**, Medieval History, Department of History, University of New Mexico, Albuquerque, NM, – Advisor Dr. Fred Gibbs
 
----
+**Master of Arts in Education**, Stanford University, Stanford, CA. June 2010.
 
-## Education
+**Bachelor of Arts in English Literature and Sociology**, University of Michigan, Ann Arbor, MI. May 2000.
 
-### Ph.D. Candidate, Digital Humanities
-*Southwest State University, Department of History and Digital Studies*  
-2021–present  
-- Dissertation (in progress): *Reimagining the Archive: Virtual Museums and Public Engagement in the U.S. Southwest*  
-- Advisor: Dr. Michael Tran  
 
-### M.A. Public History
-*University of the Desert*  
-2018–2020  
-- Thesis: *Digitizing Memory: Community-Driven Archives in Borderlands History*  
+### Professional Experience
+**Studio Manager**, Amaranth Digital Humanities Studio, 2025-Present. University of New Mexico, Department of History, Research Assistantship.
 
-### B.A. History, Minor in Computer Science
-*Canyon State College*  
-2014–2018  
+**Secondary Education, History and Social Studies Teacher**, 2007-2022. Grades 7-12. Subjects taught: AP World History, AP US History, AP Government, Economics, New Mexico History.
 
----
+**Library Information Specialist**, 2000-2009 and 2022-2025. University of California, San Francisco, Kalmanovitz Health Sciences Library, Brandeis Day School, San Francisco, and the University of New Mexico Health Sciences Library and Informatics Center.
 
-## Areas of Interest
-- Digital public history and virtual museums  
-- Humanistic computing and community engagement  
-- Archival digitization and data visualization  
-- History of the U.S. Southwest and borderlands studies  
-- Pedagogy and digital literacy in the humanities  
+### Areas of Research Interest
+- Public History
+- Digital Humanities
+- Gender and Sexuality
+- Medieval Iberia, Provençal, and Italy
+- Economic History
 
----
+<br style="clear: both">
 
-## Professional Experience
+### Publications
 
-### Graduate Research Assistant, Digital Heritage Lab
-*Southwest State University*  
-2021–present  
-- Developed interactive 3D reconstructions of historic sites for virtual museum exhibitions.  
-- Managed metadata and digitization workflows for oral history collections.  
-- Co-designed community workshops on digital storytelling.  
+'Medieval Hypebeast: The Conspicuous Consumption of Joan I of Aragon,' *Quidditas*, Vol. 45 (2024). Published in conjunction with the Allen D. Breck Award. (6600 words)
 
-### Public History Intern, Borderlands History Museum
-*El Paso, TX*  
-2019–2020  
-- Assisted in curating an online exhibit on migration narratives.  
-- Coordinated community digitization days with local families.  
-- Designed educational activities integrating GIS maps with oral histories.  
+Forthcoming: 'The Social Networks of Violant de Bar,' *Medieval People*, Vol. 40 (2025). (9600 words)
 
-### Teaching Assistant, Introduction to Public History
-*University of the Desert*  
-2018–2019  
-- Taught discussion sections; developed digital resources for students.  
+<br style="clear: both">
 
----
+### Conference Presentations and Roundtable Participation
 
-## Conferences & Presentations
-- *“Virtual Museums and Public Engagement in the Digital Age”* — Digital Humanities Southwest Conference, Albuquerque, NM (2023).  
-- *“Reframing Migration Histories: Community Archives Online”* — American Historical Association Annual Meeting (2022).  
-- *“Augmented Reality in Teaching Regional History”* — THATCamp Southwest (2021).  
+'Sugar, Emeralds, and Unicorn Horn: Merchants and Spicers as Agents of Medicinal Knowledge Transfer in the Late Middle Ages,' 32nd Annual International Medieval Congress, Leeds, UK. Monday, July 7th, 2025.
 
----
+'Teaching Premodern Europe in the American Southwest: A Roundtable Discussion,' 32nd Annual International Medieval Congress, Leeds, UK. Monday, July 7th, 2025.
 
-## Publications
-- Ruiz, Alexandra. *“Digitizing the Borderlands: A Case Study in Community-Driven Archiving.”* *Journal of Public History and Technology* 12, no. 2 (2022): 45–62.  
-- Ruiz, Alexandra, and Michael Tran. *“Reimagining the Museum: Collaborative 3D Reconstruction as Public History.”* In *Digital Heritage in Practice*, ed. L. Johnson, Desert University Press, 2023.  
+'Using Transkribus to Automate Paleographical Transcription for Medieval Catalan,' 57th Annual Rocky Mountain Medieval and Renaissance Association Conference, Logan, UT. Friday, May 30th, 2025.
 
----
+'Gaya Sciencia: The Heterotopias of Joan I of Aragon,' 60th Annual Congress on Medieval Studies, Kalamazoo, MI. Thursday, May 8th, 2025.
 
-## Awards & Fellowships
-- Graduate Research Fellowship, Southwest State University, 2022–2024  
-- Emerging Scholar Award, Digital Humanities Southwest Conference, 2023  
-- Outstanding Master’s Thesis Award, University of the Desert, 2020  
+'Trophies and Trifles: The Masculinity of Elite Hunting in the Middle Ages and Present-Day Global Culture,' 34th Annual Texas Medieval Association Conference, Austin, Texas. Saturday, February 1st, 2025.
 
----
+'Medieval Hypebeast: The Conspicuous Consumption of Joan I of Aragon,' 56th Annual Conference of the Rocky Mountain Medieval and Renaissance Association, Cedar City, UT. Tuesday, August 6, 2024.
 
-## Extracurricular Activities
-- Co-organizer, *DH Praxis Workshop* for graduate students across disciplines (2022–present)  
-- Volunteer, *Code for Community* initiative, offering coding workshops for local high school students (2021–present)  
-- Member, Digital Public History Working Group, National Council on Public History  
+'The Promotion of French Poetry and Music Through Social Networks in Late Medieval Iberia,' 59th Annual Congress on Medieval Studies, Kalamazoo, MI. Saturday, May 11th, 2024.
+
+<br style="clear: both">
+
+### Awards and Fellowships
+
+2025-2026 **University Innovation Alliance Doctoral Research Fellow** 
+
+2024 **Alan DuPont Breck Award**, Rocky Mountain Medieval and Renaissance Association. Most distinguished paper given by a junior scholar at the annual conference. 
+
+<br style="clear: both">
+
+### Professional Skills Seminars
+
+'Reading Aljamiado Texts,' 2025 Mediterranean Summer Skills Seminar, *The Mediterranean Seminar*, Instructor: Nuria de Castilla.
+
+'Reading Archival Latin,' 2024 Mediterranean Summer Skills Seminar, *The Mediterranean Seminar*, Instructor: Brian A. Catlos. 
+
+<br style="clear: both">
+
+### Assistantships
+
+2025, Spring-Fall: Studio Director, Amaranth Digital Humanities Studio
+
+2025, Spring: Graduate Assistant: HIST 1150-003: Western Civilization to 1648
+
+<br style="clear: both">
+
+### Professional Service and Editorial Experience
+- Treasurer for the UNM History Graduate Students Association, 2024-Present
+- Guest Editor for the [Books of Duchesses](https://booksofduchesses.com) database, 2024
+- Vice Chair of UNM Health Sciences Library and Informatics Center’s Committee for Justice, Equity and Inclusion, 2023-2025
+
+<br style="clear: both">
+<br style="clear: both">
