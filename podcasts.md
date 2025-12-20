@@ -13,6 +13,8 @@ date: 2025-08-23
 
 Season 1, titled *Molt Cara Companyona*, will be a daily podcast coming in 2026! This podcast starts on December 25 because in the Crown of Aragon in 1387 Christmas was also New Years Day. Starting on that day, on each daily episdoe I will present a letter or document from each day of the first year of the reign of King Joan I of Aragon and Queen Violant de Bar. They reigned from 1387-1396 and their first tumultuous year included near-death illness, court scandals, and troubadour parties. In addition to learning more about these two fascinating medieval monarchs, listeners will gain an insight into the surprising abundance of the digitized Archives of the Crown of Aragon.
 
+<iframe src="https://player.rss.com/the-historians-notebook?theme=color&v=2" width="100%" height="393px" title="The Historian's Notebook" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen scrolling="no"><a href="https://rss.com/podcasts/the-historians-notebook">The Historian's Notebook | RSS.com</a></iframe>
+
 <br style="clear: both">
 
 ### A Socialist Reads Atlas Shrugged
