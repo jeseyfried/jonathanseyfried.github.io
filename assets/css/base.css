@@ -42,7 +42,7 @@ PAGE SETUP
   --text-secondary: var(--mossy-mid-green); /*text for captions */
   --text-tertiary: var(--warm-candle); /*text for navbar brand after visited */
   --text-accent: var(--warm-candle); /*text for navbar text and footer text */
-  --text-link: var(--warm-candle); /*text for navbar brand before visited */
+  --text-link: var(--warm-candle); /*text used for links in main body and for navbar brand before visited */
   --text-muted: #666; /* used only in carousel captions */
 
   /* Border colors */

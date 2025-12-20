@@ -9,7 +9,7 @@ date: 2025-12-20
 ## Jonathan Seyfried Curriculum Vitae
 <br style="clear: both">
 ### Education
-**Doctor of Philosophy (expected 2028)**, Medieval History, Department of History, University of New Mexico, Albuquerque, NM, – Advisor Dr. Fred Gibbs
+**Doctor of Philosophy (expected 2028)**, Public History, Department of History, University of New Mexico, Albuquerque, NM, – Advisor Dr. Fred Gibbs
 
 **Master of Arts in Education**, Stanford University, Stanford, CA. June 2010.
 

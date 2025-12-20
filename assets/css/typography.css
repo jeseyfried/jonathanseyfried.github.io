@@ -101,16 +101,12 @@ a {
   text-decoration: none;
   color: var(--text-link);
   
-  /* Visual */
-  border-bottom: 1px dotted var(--text-link);
 }
 
 a:visited {
   /* Typography */
   color: var(--text-link);
   
-  /* Visual */
-  border-bottom: 1px dotted var(--text-link);
 }
 
 a:hover {
