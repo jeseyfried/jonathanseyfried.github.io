@@ -102,7 +102,8 @@
 
 /* Adjust main content when sidebar is present */
 body:has(.sidebar-wrapper) .container {
-  margin-right: calc(20vw + var(--spacing-md));
+  margin-left: calc(20vw + var(--spacing-lg));
+  margin-right: auto;
   max-width: calc(100% - 20vw - var(--spacing-lg) * 2);
 }
 
@@ -114,7 +115,8 @@ body:has(.sidebar-wrapper) .container {
   }
   
   body:has(.sidebar-wrapper) .container {
-    margin-right: calc(25vw + var(--spacing-md));
+    margin-left: calc(25vw + var(--spacing-lg));
+    margin-right: auto;
     max-width: calc(100% - 25vw - var(--spacing-lg) * 2);
   }
 }
@@ -126,7 +128,8 @@ body:has(.sidebar-wrapper) .container {
   }
   
   body:has(.sidebar-wrapper) .container {
+    margin-left: auto;
     margin-right: auto;
-    max-width: 100%;
+    max-width: 52rem;
   }
 }
