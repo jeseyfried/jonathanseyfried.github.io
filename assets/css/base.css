@@ -281,6 +281,165 @@ p.carousel-caption {
 
 
 /*****************************************************
+FORMS
+*****************************************************/
+
+.fs-form {
+  /* Box Model */
+  max-width: 600px;
+  margin: var(--spacing-xl) auto;
+  padding: var(--spacing-lg);
+  
+  /* Visual */
+  background-color: rgba(94, 143, 123, 0.08);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--green-border);
+}
+
+.fs-field {
+  /* Box Model */
+  margin-bottom: var(--spacing-lg);
+}
+
+.fs-label {
+  /* Display */
+  display: block;
+  
+  /* Box Model */
+  margin-bottom: var(--spacing-xs);
+  
+  /* Typography */
+  font-family: var(--font-heading);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  letter-spacing: 0.01em;
+}
+
+.fs-input,
+.fs-textarea {
+  /* Display */
+  display: block;
+  
+  /* Box Model */
+  width: 100%;
+  padding: 0.75rem 1rem;
+  
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--text-primary);
+  
+  /* Visual */
+  background-color: var(--warm-candle);
+  border: 2px solid var(--green-border);
+  border-radius: var(--radius-md);
+  
+  /* Interactivity */
+  transition: border-color var(--transition-normal), box-shadow var(--transition-normal);
+}
+
+.fs-input:focus,
+.fs-textarea:focus {
+  /* Visual */
+  outline: none;
+  border-color: var(--mossy-mid-green);
+  box-shadow: 0 0 0 3px rgba(94, 143, 123, 0.2);
+}
+
+.fs-input::placeholder,
+.fs-textarea::placeholder {
+  /* Typography */
+  color: rgba(94, 143, 123, 0.5);
+}
+
+.fs-textarea {
+  /* Box Model */
+  min-height: 150px;
+  resize: vertical;
+}
+
+.fs-description {
+  /* Box Model */
+  margin-top: var(--spacing-xs);
+  margin-bottom: 0;
+  
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+  line-height: 1.4;
+  color: var(--mossy-mid-green);
+  opacity: 0.8;
+}
+
+.fs-button-group {
+  /* Box Model */
+  margin-top: var(--spacing-xl);
+}
+
+.fs-button {
+  /* Display */
+  display: inline-block;
+  
+  /* Box Model */
+  padding: 0.875rem 2rem;
+  
+  /* Typography */
+  font-family: var(--font-heading);
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-accent);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  
+  /* Visual */
+  background-color: var(--mossy-mid-green);
+  border: 2px solid var(--green-border);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  
+  /* Interactivity */
+  transition: all var(--transition-normal);
+}
+
+.fs-button:hover {
+  /* Visual */
+  background-color: var(--green-teal);
+  border-color: var(--black-charcoal);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.fs-button:active {
+  /* Visual */
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.fs-button:focus {
+  /* Visual */
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(94, 143, 123, 0.3);
+}
+
+/* Responsive adjustments for forms */
+@media (max-width: 768px) {
+  .fs-form {
+    /* Box Model */
+    padding: var(--spacing-md);
+    margin: var(--spacing-lg) var(--spacing-sm);
+  }
+  
+  .fs-button {
+    /* Box Model */
+    width: 100%;
+    padding: 1rem;
+  }
+}
+
+
+/*****************************************************
 FOOTER
 *****************************************************/
 
