@@ -9,8 +9,9 @@ date: 2025-08-23
 ## Podcasts
 <br style="clear: both">
 
-### Molt Cara Companyona
-A daily podcast coming in 2026! Starting on January 1, I will present a letter or document from each day of the first year of the reign of King Joan I of Aragon and Queen Violant de Bar. They reigned from 1387-1396 and their first tumultuous year included near-death illness, court scandals, and troubadour parties. In addition to learning more about these two fascinating medieval monarchs, listeners will gain an insight into the surprising abundance of the digitized Archives of the Crown of Aragon.
+### The Historian's Notebook
+
+Season 1, titled *Molt Cara Companyona*, will be a daily podcast coming in 2026! This podcast starts on December 25 because in the Crown of Aragon in 1387 Christmas was also New Years Day. Starting on that day, on each daily episdoe I will present a letter or document from each day of the first year of the reign of King Joan I of Aragon and Queen Violant de Bar. They reigned from 1387-1396 and their first tumultuous year included near-death illness, court scandals, and troubadour parties. In addition to learning more about these two fascinating medieval monarchs, listeners will gain an insight into the surprising abundance of the digitized Archives of the Crown of Aragon.
 
 <br style="clear: both">
 
