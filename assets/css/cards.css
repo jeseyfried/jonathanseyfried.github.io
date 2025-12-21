@@ -102,14 +102,14 @@ CARDS
   align-items: stretch;
   
   /* Box Model */
-  min-height: 12rem;
+  min-height: 6rem;
   margin-bottom: var(--spacing-md);
 }
 
 .h-card .card-img-left {
   /* Box Model */
-  flex: 0 0 200px;
-  width: 200px;
+  flex: 0 0 100px;
+  width: 100px;
   height: 100%;
   
   /* Visual */
@@ -179,7 +179,7 @@ CARDS
     /* Box Model */
     flex: 0 0 auto;
     width: 100%;
-    height: 200px;
+    height: 100px;
   }
 }
 
