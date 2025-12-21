@@ -96,6 +96,10 @@
   text-decoration: underline;
 }
 
+.sidebar-link:visited {
+  color: var(--text-primary) !important;
+}
+
 .sidebar-link i {
   /* Box Model */
   width: 20px;

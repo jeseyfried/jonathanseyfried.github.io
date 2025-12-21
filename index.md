@@ -10,7 +10,7 @@ Welcome to the website of Jonathan Seyfried. I am a PhD Candidate in History at 
 
 My new podcast, *The Historian's Notebook*, debuts on December 25, 2025.
 
-{% assign stories = site.pages | where_exp: "page", "page.path contains 'historians-notebook-landing/'" %}
+{% assign stories = site.pages | where_exp: "page", "page.path contains 'historians-notebook/'" %}
 
 {% include card-stack.html cards = stories %}
 
