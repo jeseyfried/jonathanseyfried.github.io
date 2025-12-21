@@ -1,5 +1,5 @@
 ---
-title: My First Podcast
+title: 
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /assets/images/historians-notebook-resized.png
@@ -7,9 +7,7 @@ summary: The Historian's Notebook will take you on a series of journeys into how
 date: 2025-12-21
 layout: scrollstory
 tags:
-  - history
-  - technology
-  - education
+
 ---
 
 # The Historian's Notebook
