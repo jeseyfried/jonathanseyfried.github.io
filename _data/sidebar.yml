@@ -9,6 +9,9 @@ links:
   - title: UNM Profile
     url: https://history.unm.edu/people/graduate-students/profiles/jonathan-seyfried.html
     icon: fas fa-university
+  - title: UNM Amaranth Digital Humanities Studio
+    url: https://amaranth.unm.edu/
+    icon: fas fa-university
   - title: ORCID
     url: https://orcid.org/0009-0000-4117-3416
     icon: fab fa-orcid
