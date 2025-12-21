@@ -16,7 +16,7 @@ tags:
 # Season 1, Episode 1
 <a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px rgba(0,0,0,0.1); text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
   <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to episodes list" style="width:200px;height:auto; display:block; margin:0 auto;">
-  <p style="font-size:0.9em; color:#E6E3C8; margin-top:10px; margin-bottom:0;">Return to episodes list</p>
+  <span style="font-size:0.9em; color:#E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
 It's December 25, 1387. Happy New Year!
