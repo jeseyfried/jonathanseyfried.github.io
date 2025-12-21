@@ -5,7 +5,7 @@ location: Albuquerque, NM
 thumbnail: /assets/images/historians-notebook-card.png
 summary: Visit the podcast home page for episodes, source notes, and an image of each day's document. 
 date: 2025-12-21
-header-image: /assets/images/hn-lower.png
+header-image: /assets/images/hn-lower2.png
 layout: scrollstory
 tags:
 
