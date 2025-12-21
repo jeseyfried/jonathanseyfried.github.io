@@ -18,7 +18,7 @@ Welcome to the website for *The Historian's Notebook* podcast. Here you will fin
 
 {% assign stories = site.pages | where_exp: "page", "page.path contains 'historians-notebook-s1-episodes/'" %}
 
-{% include card-stack.html cards = stories %}
+{% include card-toc.html cards = stories %}
 
 
 
