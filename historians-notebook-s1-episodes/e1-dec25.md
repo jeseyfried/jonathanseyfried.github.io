@@ -6,6 +6,7 @@ thumbnail: /historians-notebook-s1-episodes/images/dec-25-aca-cr-r1822-f117v-vio
 summary: December 25, 1387 
 date: 2025-12-21
 layout: scrollstory
+header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg
 tags:
  - introductory
  - violant
