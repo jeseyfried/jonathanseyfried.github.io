@@ -7,7 +7,7 @@ date: 2025-08-23
 ---
 
 ## Overview of My Podcasts
-My current podcast project is *The Historian's Notebook* which has its own [companion section within this website](/historiansnotebook). In 2023, I did a 45-episode podcast titled *A Socialist Reads Atlas Shrugged*. You can listen to both of these podcasts from popular audio streaming platforms like iTunes or Spotify. On this page you'll find embedded audio players and summaries of both these projects.
+My current podcast project is *The Historian's Notebook* which has its own [companion section within this website](/historians-notebook-landing). In 2023, I did a 45-episode podcast titled *A Socialist Reads Atlas Shrugged*. You can listen to both of these podcasts from popular audio streaming platforms like iTunes or Spotify. On this page you'll find embedded audio players and summaries of both these projects.
 
 ### The Historian's Notebook
 
