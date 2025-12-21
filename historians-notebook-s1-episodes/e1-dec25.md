@@ -6,7 +6,7 @@ thumbnail: /historians-notebook-s1-episodes/images/dec-25-aca-cr-r1822-f117v-vio
 summary: December 25, 1387 
 date: 2025-12-21
 layout: scrollstory
-header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg
+header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.jpg
 tags:
  - introductory
  - violant
@@ -14,6 +14,10 @@ tags:
 ---
 
 # Season 1, Episode 1
+<a href="/historians-notebook/" target="Return to episodes list">
+  <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to episodes list" style="width:50px;height:auto;">
+</a>
+
 
 It's December 25, 1387. Happy New Year!
 
