@@ -2,7 +2,7 @@
 title: A podcast about how history is made
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /assets/images/historians-notebook-resized.png
+thumbnail: /assets/images/historians-notebook-card.png
 summary: Visit the podcast home page for episodes, source notes, and an image of each day's document. 
 date: 2025-12-21
 layout: scrollstory
