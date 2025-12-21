@@ -1,9 +1,9 @@
 ---
-title: The Historian's Notebook
+title: A podcast about how history is made
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /assets/images/historians-notebook-resized.png
-summary: A podcast that takes you on a series of journeys into how history is made. 
+summary: Visit the podcast home page for episodes, source notes, and an image of each day's document. 
 date: 2025-12-21
 layout: scrollstory
 tags:
