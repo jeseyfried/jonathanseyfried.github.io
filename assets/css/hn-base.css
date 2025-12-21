@@ -1,0 +1,432 @@
+
+
+@media screen {
+/*****************************************************
+PAGE SETUP
+*****************************************************/
+
+/* --- Reset & Base --- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+  :root {
+  /* Base color palette */
+  --clay: #b8614b;
+  --sage: #bbb89c;
+  --sand: #dbceb6;
+  --sand-light: #eae4d7;
+  --brown: #925737;
+  --bone: #F5EFE6;
+  --dark: #1b0b02;
+
+  /* Background colors */
+  --bg-primary: var(--bone);
+  --bg-secondary: var(--sand);
+  --bg-secondary-light: var(--sand-light);
+  --bg-tertiary: var(--dark);
+  --bg-accent: var(--clay);
+
+  /* Text colors */
+  --text-primary: #3a1602;
+  --text-secondary: #413b31;
+  --text-tertiary: var(--sand);
+  --text-accent: var(--clay);
+  --text-link: var(--clay);
+  --text-muted: #666;
+
+  /* Border colors */
+  --border-primary: var(--brown);
+  --border-secondary: #ccc;
+  --border-light: rgba(0, 0, 0, 0.1);
+
+  /* Interactive states */
+  --interactive-hover: var(--clay);
+  --interactive-active: var(--brown);
+
+  /* Semantic status colors */
+  --success: #28a745;
+  --warning: #ffc107;
+  --error: #dc3545;
+  --info: #5b9aa0; /* Desert sky teal */
+
+  /* Shadows */
+  --shadow-sm: 0 1px 4px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 4px 12px rgba(0, 0, 0, 0.1);
+  --shadow-hover: 0 4px 12px rgba(255, 193, 7, 0.4);
+
+  /* Fonts */
+  --font-heading: 'Inter', sans-serif;
+  --font-body: 'Source Sans 3', sans-serif;
+  --font-serif: 'Lora', serif;
+  --font-mono: 'Fira Mono', 'Consolas', 'Menlo', monospace;
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+
+  /* Border radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 1s ease-in-out;
+}
+
+
+html, body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+}
+
+.page-wrap {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 52rem;
+  margin: 0 auto;
+  clear: both;
+}
+
+
+/*****************************************************
+JUMBOTRON
+*****************************************************/
+.jumbotron {
+  /* Display & Positioning */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  /* Box Model */
+  width: 100%;
+  
+  /* Typography */
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
+  
+  /* Visual */
+  background-size: cover; 
+  background-repeat: no-repeat;
+  opacity: 1;
+}
+
+.jumbotron p {
+  text-align: center;
+}
+
+
+/*****************************************************
+IMAGES
+*****************************************************/
+
+figure {
+  /* Box Model */
+  margin: 0;
+  margin-bottom: var(--spacing-md);
+  
+  /* Positioning */
+  clear: none;
+}
+
+.right {
+  /* Positioning */
+  float: right;
+  
+  /* Box Model */
+  margin-left: var(--spacing-lg);
+  margin-right: 0;
+  margin-bottom: var(--spacing-md);
+  
+  /* Typography */
+  text-align: left;
+}
+
+.left {
+  /* Positioning */
+  float: left;
+  
+  /* Box Model */
+  margin-left: 0;
+  margin-right: 1rem;
+  margin-bottom: var(--spacing-md);
+}
+
+.center {
+  /* Display */
+  display: block;
+  
+  /* Box Model */
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: var(--spacing-md);
+  
+  /* Positioning */
+  clear: both;
+  
+  /* Typography */
+  text-align: center;
+}
+
+figcaption {
+  /* Display */
+  display: block;
+  
+  /* Box Model */
+  margin: 0.4rem 0 1rem 0;
+  padding: 0;
+  clear: both;
+  
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  line-height: 1.1rem;
+  text-align: justify;
+  color: var(--text-secondary);
+}
+
+figcaption p {
+  /* Box Model */
+  margin: 0;
+  padding: 0;
+  
+  /* Typography */
+  font-size: 0.8rem;
+  line-height: 1.2rem;
+}
+
+figcaption a {
+  /* Typography */
+  font-weight: normal;
+  
+  /* Visual */
+  opacity: 0.5;
+}
+
+/*****************************************************
+IMAGE CAROUSEL
+*****************************************************/
+
+.carousel {
+  /* Display */
+  overflow: hidden;
+  
+  /* Box Model */
+  width: 100%;
+  max-width: 800px;
+  height: 400px;
+  margin: 0 auto;
+  
+  /* Visual */
+  background: var(--bg-secondary-light);
+  border-radius: var(--radius-lg);
+}
+
+.carousel-item img {
+  /* Display */
+  display: block;
+  
+  /* Box Model */
+  width: auto;
+  height: auto;
+  max-height: 400px;
+  margin: 0 auto;
+  
+  /* Visual */
+  background: var(--bg-secondary-light);
+  object-fit: contain;
+}
+
+p.carousel-caption {
+  /* Positioning */
+  position: relative;
+  z-index: 2;
+  
+  /* Box Model */
+  width: 100%;
+  margin: 0.5rem 0 0 var(--spacing-lg);
+  padding: 0;
+  border: 0;
+  
+  /* Typography */
+  font-family: var(--font-body);
+  font-size: 1.4rem;
+  line-height: 1.8rem;
+  text-align: left;
+  text-shadow: none;
+  color: var(--text-muted);
+}
+
+
+/*****************************************************
+FOOTER
+*****************************************************/
+
+footer {
+  /* Display & Positioning */
+  display: flex;
+  justify-content: center;
+  vertical-align: center;
+  margin-top: auto;
+  
+  /* Box Model */
+  padding: var(--spacing-lg);
+  
+  /* Typography */
+  color: var(--text-tertiary);
+  
+  /* Visual */
+  background-color: var(--bg-tertiary);
+  border-top: 2px solid var(--border-primary);
+}
+
+.site-footer {
+  /* Box Model */
+  margin-top: 32px;
+  padding-top: 16px;
+  
+  /* Typography */
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  
+  /* Visual */
+  border-top: 1px solid var(--border-primary);
+}
+
+
+/*****************************************************
+WORKSHOP BULLET HIGHLIGHTING
+*****************************************************/
+
+ul li {
+  /* Box Model */
+  margin: 0.2rem 0;
+  padding: var(--spacing-xs);
+  
+  /* Visual */
+  border-radius: var(--radius-sm);
+  
+  /* Interactivity */
+  transition: all var(--transition-normal);
+}
+
+ul li.highlighted {
+  /* Box Model */
+  margin: var(--spacing-xs) 0;
+  padding: var(--spacing-sm) var(--spacing-md);
+  
+  /* Typography */
+  font-size: 1.15em;
+  font-weight: 600;
+  
+  /* Visual */
+  background-color: #fff3cd;
+  border: 3px solid var(--warning);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-hover);
+  transform: translateX(12px);
+}
+
+ul li.highlighted::marker {
+  /* Typography */
+  font-weight: bold;
+  color: var(--warning);
+}
+
+.workshop-controls {
+  /* Positioning */
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  
+  /* Box Model */
+  padding: 10px 15px;
+  
+  /* Typography */
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: white;
+  
+  /* Visual */
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: var(--radius-md);
+  opacity: 0;
+  
+  /* Interactivity */
+  transition: opacity var(--transition-normal);
+}
+
+.workshop-controls.visible {
+  opacity: 1;
+}
+
+.workshop-controls.fade-out {
+  opacity: 0;
+}
+
+} /* end media screen */
+
+
+/*****************************************************
+BOOTSTRAP OVERRIDES
+*****************************************************/
+
+/* Override Bootstrap alert colors to use theme variables */
+.alert-info {
+  /* Visual */
+  background-color: rgba(91, 154, 160, 0.15);
+  border-color: var(--info);
+  color: #2d5154;
+}
+
+.alert-info .alert-link {
+  /* Typography */
+  color: #1e3638;
+}
+
+.alert-warning {
+  /* Visual */
+  background-color: rgba(255, 193, 7, 0.15);
+  border-color: var(--warning);
+  color: #664d03;
+}
+
+.alert-success {
+  /* Visual */
+  background-color: rgba(40, 167, 69, 0.15);
+  border-color: var(--success);
+  color: #0f5132;
+}
+
+.alert-danger {
+  /* Visual */
+  background-color: rgba(220, 53, 69, 0.15);
+  border-color: var(--error);
+  color: #842029;
+}
+
+
+/*****************************************************************************/
+/*
+/* SMALL SCREEN
+/*
+/*****************************************************************************/
+
+@media (max-width: 768px) {
+
+}
