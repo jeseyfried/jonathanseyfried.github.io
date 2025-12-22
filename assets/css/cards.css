@@ -108,9 +108,9 @@ CARDS
 
 .h-card .card-img-left {
   /* Box Model */
-  flex: 0 0 6rem;
-  width: 6rem;
-  height: 6rem;
+  flex: 0 0 20%;
+  width: 20%;
+  aspect-ratio: 1 / 1;
   
   /* Display */
   overflow: hidden;
