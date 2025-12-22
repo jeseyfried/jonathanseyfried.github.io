@@ -108,12 +108,15 @@ CARDS
 
 .h-card .card-img-left {
   /* Box Model */
-  flex: 0 0 200px;
-  width: 200px;
-  height: 100%;
+  flex: 0 0 6rem;
+  width: 6rem;
+  height: 6rem;
   
   /* Visual */
-  object-fit: cover;
+  object-fit: none;
+  object-position: top left;
+  transform: scale(2);
+  transform-origin: top left;
 }
 
 .h-card .card-body {

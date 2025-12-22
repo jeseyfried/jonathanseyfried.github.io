@@ -18,7 +18,21 @@
     <div class="card-body">
       <h3>{{ card.title }}</h3>
       <p class="card-text">{{ card.summary | default: card.description }}</p>
-      
+
+      <!-- Media player (audio) -->
+      {% if card.audio %}
+      <div class="card-player mt-3">
+        {% capture card_audio_url %}
+        {% include image-path.html image-path=card.audio page-dir=card.dir %}
+        {% endcapture %}
+        {% assign card_audio_url = card_audio_url | strip %}
+        <audio controls preload="none" class="w-100" aria-label="Audio player for {{ card.title }}">
+          <source src="{{ card_audio_url }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+      {% endif %}      
+
       <!-- Display tags if they exist -->
       {% if card.tags %}
       <div class="tags mt-2">
