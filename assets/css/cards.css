@@ -116,10 +116,8 @@ CARDS
   overflow: hidden;
   
   /* Visual */
-  object-fit: none;
-  object-position: top left;
-  transform: scale(1.1);
-  transform-origin: top left;
+  object-fit: cover;
+  object-position: center;
 }
 
 .h-card .card-body {
