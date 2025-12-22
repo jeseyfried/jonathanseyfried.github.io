@@ -1,5 +1,5 @@
 ---
-title: Episode 1
+title: Episode 1 - audio is the series trailer until December 25th
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/dec-25-aca-cr-r1822-f117v-violant.JPG

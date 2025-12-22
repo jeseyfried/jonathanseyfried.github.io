@@ -103,6 +103,7 @@ CARDS
   
   /* Box Model */
   min-height: 6rem;
+  max-height: 18rem;
   margin-bottom: var(--spacing-md);
 }
 
