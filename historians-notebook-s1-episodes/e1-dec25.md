@@ -1,5 +1,5 @@
 ---
-title: Episode 1 - audio is the series trailer until December 25th
+title: Episode 1 - audio is the season trailer until December 25th
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/dec-25-aca-cr-r1822-f117v-violant.JPG
@@ -7,7 +7,7 @@ summary: December 25, 1387
 date: 2025-12-21
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/soft-jazz-trailer.mp3
+audio: /historians-notebook-s1-episodes/audio/season1-trailer.mp3
 tags:
  - introductory
  - violant
