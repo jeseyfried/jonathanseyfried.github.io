@@ -20,6 +20,8 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
+<br style="clear: both">
+
 ### Why is motto of The Historian's Notebook 'dissatisfaction guaranteed'?
 If you read anything historical and in the end you feel satisfied that all has been answered, then you are reading bad history! As Sam Wineburg writes, 'True historical inquiry must end where it begins: with a question mark.'[^wineburg] It's not that we can't ever make strong arguments about what happened in the past - of course we can! The heart of a historian's expertise is in their ability to use evidence, archival and beyond, to lay out a narrative of what happened. At the same time, only a tiny sliver of the past remains for us in archives. Just think of how much you do in your daily life that's never recored, despite the likelihood that you have a recording device with you during all your waking hours. The exciting part about making the attempt to relate what happened in the past is that it is forever shrouded in mystery. Also, certain people and events got deliberately silenced or never got recorded due to ideas in their time, or later, that they were not worth remembering. These absences create all kinds of questions, for historical events in recent times as well as in the distant past. So, keep accumulating questions and enjoy being dissatisfied. It means you are getting a more accurate picture of what we can understand about the past. 
 
@@ -80,3 +82,12 @@ Lastly, if you start poking around in PARES, you will see that there are some do
 Yes, but with some really important caveats and warnings. First, I am using AI for help with translation. I have enough facility with Catalan and Latin to piece together how AI arrived at its translation and also (this is the most important part) how to identify potential translation errors. AI Chatbots can also help me to parse phrases in long sentences. [Here is an example](/historians-notebook-s1-episodes/pdfs/e1-chatgpt-translation-help.pdf), using the document from Episode 1. 
 
 I also use [Transkribus](https://www.transkribus.org/), a handwritten text recognition application available as a webapp. Transkribus uses AI to power its machine learning of images of handwritten text. I have been steadily working on creating a model for late fourteenth-century Gothic secretarial hand. If the Handwritten Text Recognition (HTR) model works, then I will be able to get an automatic transcription of documents, making them keyword searchable. This could greatly assist in my effort to locate documents by date or by subjects of higher interest.
+
+<br style="clear: both">
+<br style="clear: both">
+<a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
+  <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to Season 1 Episodes" style="width:200px;height:auto; display:block; margin:0 auto;">
+  <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
+</a>
+
+<br style="clear: both">
