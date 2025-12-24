@@ -104,6 +104,10 @@
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
+  .scrollstory-container {
+    padding: 0 var(--spacing-sm);
+  }
+  
   .story-section {
     /* Box Model */
     padding: 1rem;
@@ -117,5 +121,22 @@
   .story-step {
     /* Box Model */
     padding: 2rem 1rem;
+  }
+  
+  /* Audio player card mobile styles */
+  .audio-player-card {
+    padding: var(--spacing-md) !important;
+    margin: var(--spacing-md) 0 !important;
+  }
+  
+  .audio-player-card .audio-title {
+    font-size: 1rem !important;
+    color: #E6E3C8 !important;
+  }
+  
+  .audio-player-card audio {
+    width: 100% !important;
+    height: 40px !important;
+    display: block !important;
   }
 }
