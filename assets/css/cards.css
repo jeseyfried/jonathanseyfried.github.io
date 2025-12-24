@@ -178,13 +178,62 @@ CARDS
   .h-card {
     /* Display */
     flex-direction: column;
+    
+    /* Box Model */
+    max-height: none; /* Remove height constraint on mobile */
+    margin-bottom: var(--spacing-lg); /* More spacing between cards */
   }
   
   .h-card .card-img-left {
     /* Box Model */
     flex: 0 0 auto;
     width: 100%;
-    height: 100px;
+    height: 200px; /* Larger image on mobile */
+    max-height: 250px;
+  }
+  
+  .card h3 {
+    /* Typography */
+    font-size: 1.25rem; /* Slightly smaller on mobile */
+    line-height: 1.3;
+  }
+  
+  .card-text {
+    /* Typography */
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+  
+  .card-body {
+    /* Box Model */
+    padding: var(--spacing-md) var(--spacing-sm); /* Less horizontal padding on mobile */
+  }
+  
+  /* Ensure adequate touch targets */
+  .h-card a.card-link {
+    /* Box Model */
+    min-height: 44px; /* Minimum touch target */
+  }
+  
+  /* Audio player spacing on mobile */
+  .card-player {
+    /* Box Model */
+    margin-top: var(--spacing-sm);
+  }
+  
+  /* Tags spacing on mobile */
+  .card .tags {
+    /* Box Model */
+    margin-top: var(--spacing-sm);
+    gap: 0.4rem;
+  }
+  
+  .card .tags .badge {
+    /* Typography */
+    font-size: 0.75rem;
+    
+    /* Box Model */
+    padding: 0.25rem 0.5rem;
   }
 }
 
