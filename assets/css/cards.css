@@ -186,6 +186,13 @@ CARDS
     min-height: auto;
   }
   
+  /* Critical: Change card link to column layout on mobile */
+  .h-card a.card-link {
+    /* Display */
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
   .h-card .card-img-left {
     /* Box Model */
     flex: 0 0 auto;
