@@ -33,8 +33,8 @@ A recommendation letter for Bernardo Maloll
 {% include figure.html
   class="right"
   width="60%"
-  caption="ACA CR R1822 f117v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/description/4801971)"
-  image-path="/historians-notebook-s1-episodes/images/dec-25-aca-cr-r1822-f117v-violant.JPG"
+  caption="ACA CR R1675 f19v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801318)"
+  image-path="/historians-notebook-s1-episodes/images/dec-26-aca-cr-r1675-f19v-joan.JPG"
 %}
 
 ## Today’s Document 
@@ -45,7 +45,7 @@ A recommendation letter for Bernardo Maloll
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801318)
 - Place: Girona
 - Sender: Joan, Duke of Girona
-- Recipient: Juan Fernández de Heredia, Master of Rhodes, head of the Hospitallers
+- Recipient: [Juan Fernández de Heredia](https://en.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_de_Heredia), Master of Rhodes, head of the Hospitallers
 
 ## Historical Thinking Notes
 -	Sourcing: written by the duke, the second most powerful person in the kingdom; ascension imminent; the recipient is a longtime correspondent of both Joan and Violant
