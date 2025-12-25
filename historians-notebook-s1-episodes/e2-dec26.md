@@ -62,7 +62,7 @@ A recommendation letter for Bernardo Maloll
 -	Did the Pope involve himself in appointments at this level?
 
 ## Bibliography
-These two publications provide a good start for understanindg the organization of the Archive of the Crown of Aragon. 
+These two publications provide a good start for understanding the organization of the Archive of the Crown of Aragon. 
 - McCrank, Lawrence J. “Documenting Reconquest and Reform: The Growth of Archives in the Medieval Crown of Aragon.” *The American Archivist* 56, no. 2 (1993): 256–318.
 - Udina i Martorell, Frederic. *Guía histórica y descriptiva del Archivo de la Corona de Aragón.* Ministerio de Cultura, Dirección General de Bellas Artes y Archivos, Dirección de los Archivos Estatales, 1986.
 
