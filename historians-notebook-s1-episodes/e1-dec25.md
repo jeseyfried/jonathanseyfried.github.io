@@ -7,7 +7,7 @@ summary: December 25, 1387
 date: 2025-12-21
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/season1-trailer.mp3
+audio: /historians-notebook-s1-episodes/audio/s1e1-dec25.mp3
 tags:
  - introductory
  - violant
