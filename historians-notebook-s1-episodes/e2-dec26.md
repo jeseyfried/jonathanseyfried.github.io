@@ -7,7 +7,7 @@ summary: December 26, 1387
 date: 2025-12-26
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: 
+audio: /historians-notebook-s1-episodes/audio/s1e2-dec26.mp3
 tags:
  - introductory
  - joan
