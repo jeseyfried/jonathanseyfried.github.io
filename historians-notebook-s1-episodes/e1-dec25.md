@@ -22,6 +22,31 @@ tags:
 
 It's December 25, 1387. Happy New Year!
 
+<div class="audio-player-card">
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e1-dec25.mp3" title="Episode 1" %}
+</div>
+<style>
+.audio-player-card {
+  border: 1px solid #212529;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+  width: 50%;
+  background-color: #355145ff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.audio-player-card .audio-title {
+  margin: 0 0 10px 0;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.audio-player-card audio {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
 
 <br style="clear: both">
 

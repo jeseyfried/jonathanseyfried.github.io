@@ -30,6 +30,9 @@ If you read anything historical and in the end you feel satisfied that all has b
 ### Why is the podcast structured as daily short episodes?
 I want to bring listeners into the process of how history is made. I hope others are inspired to chronicle their historical research journey like this, or in a way akin to what I'm doing on the podcast. The more people see how historians must operate within uncertainty, the more people will understand that anyone attempting to tell you what happened must justify their version of events with the elements of good argumentation. The impression that historians just immediately create refined conclusions hides a lot of what makes professional historians worthy of heightened trust. I'm able to approach these documents in the way that I do because of years of education, training and mentorship. I hope that The Historian's Notebook inspires people to begin their journey into historical thinking, but I also hope that listeners understand that expertise takes time to achieve.
 
+### Can you put the image of each day's document into the YouTube video of the podcast?
+Unfortunately, this is a difficult think to do because of the way that my podcast distribution program automatically uploads to YouTube. I might be able to expand the YouTube presence of *The Historian's Notebook* in the future, but I need to hold off on this until I can figure out if I have enough time to take that on. 
+
 ### Who were Joan and Violant?
 Joan is the Catalan form of the name John, and is pronounced like Johan, but with a zh sound for the j and without the h. The Latin name used for Joan in the titles of his records in the archive is Iohannis.
 
