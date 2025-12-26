@@ -1,6 +1,6 @@
 title: jonathanseyfried.net
 description: Personal and academic website for Jonathan Seyfried
-url: http://jonathanseyfried.net
+url: https://jonathanseyfried.net
 permalink: :categories/:title
 safe: true
 markdown: kramdown
