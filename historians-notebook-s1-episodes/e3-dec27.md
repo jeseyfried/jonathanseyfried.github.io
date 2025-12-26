@@ -42,13 +42,13 @@ Another recommendation letter for Bernardo Maloll
 - Date: December 27, 1387
 - Day of the Week: Wednesday
 - Archival Reference Number: ACA CR R1822 f118r
-- [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801318)
+- [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801971)
 - Place: Girona
 - Sender: Violant, Duchess of Girona
 - Recipient: [Juan Fernández de Heredia](https://en.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_de_Heredia), Master of Rhodes, head of the Hospitallers
 
 ## Historical Thinking Notes
-- Sourcing: written by the duchess one day after Joan’s letter; purpose is to support a job candidate for an ecclesiastical post; Violant adds no new information in this letter and it’s possible that its actual composition is not hers, that she told the scribes to simply copy Joan’s letter and send it under her name; her connections to French authorities augment her influence with the Avignon papacy, led by a pope, Clement VII (https://en.wikipedia.org/wiki/Antipope_Clement_VII) born and educated in France. 
+- Sourcing: written by the duchess one day after Joan’s letter; purpose is to support a job candidate for an ecclesiastical post; Violant adds no new information in this letter and it’s possible that its actual composition is not hers, that she told the scribes to simply copy Joan’s letter and send it under her name; her connections to French authorities augment her influence with the Avignon papacy, led by a pope, [Clement VII](https://en.wikipedia.org/wiki/Antipope_Clement_VII) born and educated in France. 
 
 - Contextualization: Western Schism of 1378, Pere attempted neutrality and Joan sided with Avignon; Violant also favored Avignon due to her French background; the monasteries in the letter are in Catalonia (Santa Creus) and Aragon (Santa Fe is near Zaragoza); Hospitallers have a lot of clout in the Mediterranean; 
 
