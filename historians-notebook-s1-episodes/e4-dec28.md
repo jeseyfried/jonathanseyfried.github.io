@@ -77,6 +77,9 @@ Letter to the archdiocese of Huesca regarding a vacant bishopric.
 %}
 In this episode, I shared some information about an excellent source that's helping me on this project, the Itinerary of Joan written by [Daniel Girona i Llagostera](https://www.galeriametges.cat/galeria-fitxa.php?icod=EKLE) in 1923. The [Catalan Renaixença](https://en.wikipedia.org/wiki/Renaixen%C3%A7a) began in the early nineteenth century and by the time Girona i Llagostera arrived on the scene, he could benefit from a lot of previous scholarship. He almost certainly interacted with [Antoni de Bofarull](https://www.reus.cat/en/services/biographical-profile-dantoni-de-bofarull), the archivist of the Archive of the Crown of Aragon and wrote selveral books on the Crown of Aragon of the fourteenth century. Then Girona i Llagostera decided to track the location of the kings of the Crown of Aragon by assembling an example of a document from each day of their reign, and in some cases during their time before ascending to the throne. Girona i Llagostera's Itinerary for Joan made it so that I could be confident that I would be able to do a document for each day, at least for Joan. It is important to observe that no one completed itineraries for any of the royal women. 
 
+## AI Usage
+I relied quite a lot on help from Chat GPT for today's document for both translation and transcription. However, I confirmed translations in Whitaker's Words and treated Chat GPT's suggestions with caution, as indicated in [the transcript](/historians-notebook-s1-episodes/pdfs/e4-chatgpt-latin-help.pdf) of my chat. 
+
 ## Bibliography
 - Bisson, Thomas N. *Medieval Crown of Aragon: A Short History*. Clarendon Press, 1986.
 
