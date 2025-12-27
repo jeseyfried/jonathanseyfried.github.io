@@ -7,12 +7,12 @@ summary: December 27, 1387
 date: 2025-12-26
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: 
+audio: /historians-notebook-s1-episodes/audio/s1e3-dec27b.mp3
 tags:
  - introductory
- - violant
+ - Violant
  - ecclesiastical
- - heredia
+ - Juan Fernández de Heredia
  - papacy
  - hospitallers
 ---
@@ -41,7 +41,7 @@ Another recommendation letter for Bernardo Maloll
 ## Today’s Document 
 - Subject: Violant recommends Bernardo Maloll for an ecclesiastical post
 - Date: December 27, 1387
-- Day of the Week: Wednesday
+- Day of the Week: Thursday
 - Archival Reference Number: ACA CR R1822 f118r
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801971)
 - Place: Girona

@@ -10,9 +10,9 @@ header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e2-dec26.mp3
 tags:
  - introductory
- - joan
+ - Joan
  - ecclesiastical
- - heredia
+ - Juan Fernández de Heredia
  - papacy
  - hospitallers
 ---

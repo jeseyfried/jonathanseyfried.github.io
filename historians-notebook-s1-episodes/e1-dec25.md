@@ -10,8 +10,8 @@ header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e1-dec25.mp3
 tags:
  - introductory
- - violant
- - montpellier
+ - Violant
+ - Montpellier
 ---
 
 # Season 1, Episode 1
