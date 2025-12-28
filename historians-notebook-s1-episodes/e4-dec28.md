@@ -7,7 +7,7 @@ summary: December 28, 1387
 date: 2025-12-26
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: 
+audio: /historians-notebook-s1-episodes/audio/s1e4-dec28.mp3
 tags:
  - Daniel Girona i Llagostera
  - itinerary
@@ -25,6 +25,32 @@ tags:
 
 Letter to the archdiocese of Huesca regarding a vacant bishopric. 
 
+<div class="audio-player-card">
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e4-dec28.mp3" title="Episode 3" %}
+</div>
+<style>
+.audio-player-card {
+  border: 1px solid #212529;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+  width: 50%;
+  background-color: #355145ff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.audio-player-card .audio-title {
+  margin: 0 0 10px 0;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.audio-player-card audio {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+<br style="clear: both">
 
 
 <br style="clear: both">
