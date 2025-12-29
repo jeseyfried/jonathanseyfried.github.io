@@ -7,7 +7,7 @@ summary: December 29, 1387
 date: 2025-12-26
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: 
+audio: /historians-notebook-s1-episodes/audio/s1e5-dec29.mp3
 tags:
  - Violant
  - Johan Callos
@@ -30,7 +30,30 @@ The silence in Violant's register of letters hides what must have been a very ac
 
 With a bunch of Joan's letters just ahead, today's document returns to Violant and introduces into the podcast another type of record in the Archive of the Crown of Aragon, the registers of the finances of the royal family. These treasury records, known as the Patrimonio Real, the Royal Patriomony, offer tantalizing glimpses into the lives of Joan and Violant.
 
-
+<div class="audio-player-card">
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e5-dec29.mp3" title="Episode 5" %}
+</div>
+<style>
+.audio-player-card {
+  border: 1px solid #212529;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+  width: 50%;
+  background-color: #355145ff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.audio-player-card .audio-title {
+  margin: 0 0 10px 0;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.audio-player-card audio {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+</style>
 
 <br style="clear: both">
 

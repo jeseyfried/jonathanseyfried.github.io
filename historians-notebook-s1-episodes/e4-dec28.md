@@ -26,7 +26,7 @@ tags:
 Letter to the archdiocese of Huesca regarding a vacant bishopric. 
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e4-dec28.mp3" title="Episode 3" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e4-dec28.mp3" title="Episode 4" %}
 </div>
 <style>
 .audio-player-card {
