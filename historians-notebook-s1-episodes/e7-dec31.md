@@ -29,7 +29,7 @@ Joan fulfills administrative responsibilities in a region within his portfolio a
 {% include figure.html
   class="right"
   width="60%"
-  caption="ACA CR R1752 f23r 2a [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801767)"
+  caption="ACA CR R1752 f23r 2a, note that this register has a second round of page numbers [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801767)"
   image-path="/historians-notebook-s1-episodes/images/dec-31-aca-cr-r1752-f23r2a-joan.JPG"
 %}
 
