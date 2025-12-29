@@ -61,9 +61,9 @@ As the current king nears his last day, his son and heir transfers all the prope
 - Recipients: All of the officials in charge of the properties and collection of rents
 
 ## Historical Thinking Notes
-- Sourcing: even before the death of his father, Joan created this charter for the purpose of disempowering his stepmother, the current queen; we are seeing power players making their moves
+- Sourcing: even before the death of his father, Joan created this charter for the purpose of disempowering his stepmother, the current queen; we are seeing power players making their moves; speaking of power, Joan's power to dispossess Sibilla has gendered dimensions, much as an inverse of Sibilla's new vulnerability now that she lacks Pere's protection
 
-- Contextualization: fearing ill treatment at the hands of Pere's children, Sibilla had fled Barcelona on the night of December 29th; there were examples of queen dowagers in the fourteenth century who suffered vengeance from newly ascending monarchs, and Núria Silleras Fernández points out that this episode with Sibilla has a parallel in the episode of Pere's ascension to the thone in 1336, when Pere's stepmother Elionor de Castilla fled with her sons and then fostered a rebellion[^nsf]
+- Contextualization: fearing ill treatment at the hands of Pere's children, Sibilla had fled Barcelona on the night of December 29th; there were examples of queen dowagers in the fourteenth century who suffered vengeance from newly ascending monarchs, and Núria Silleras Fernández points out that this episode with Sibilla has a parallel in the episode of Pere's ascension to the thone in 1336, when Pere's stepmother Elionor de Castilla fled with her sons and then fostered a rebellion;[^nsf] consider the gender dynamics involved, as Sibilla's flight from Barcelona triggers the misogynist trope of the coniving faithless woman who betrays her husband and cannot be trusted - this trope is found in a great many cultural products of the time, such as the Arthurian legends and *La Roman de la Rose*
 
 [^nsf]:Núria Silleras Fernández, “Money Isn’t Everything: Concubinage, Class, and the Rise and Fall of Sibil.La de Fortià, Queen of Aragon (1377-87),” in Women and Wealth in Late Medieval Europe, ed. Theresa Earenfight (Palgrave Macmillan, 2010), 67-88, at 80.
 
