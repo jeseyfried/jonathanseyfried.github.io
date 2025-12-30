@@ -82,6 +82,7 @@ This document proved extremely challenging for me, as I thought that 'manumissor
 
 ## Bibliography
 
+- Girona y Llagostera, Daniel. “Itinerari de l’Infant En Joan, Fill Del Rei En Pere III. 1350-1387.” III Congreso de Historia de La Corona de Aragón (Valencia), Hijo de F. Vives Mora, 1923, 169–592. [Available on Google Books](https://books.google.com/books?id=ntJTOjpltb0C), accessed December 26, 2025.
 - Roca, Josep M. *Johan I d’Aragó.* Barcelona: Institució Patxot, 1929.
 - Ruiz Domingo, Lledó. “Surrounding the Future Queen of the Crown of Aragon: Violant of Bar’s Household as Duchess of Girona (1384–1386).” *Royal Studies Journal* 10, no. 1 (2023): 96-135.
 - Tasis i Marca, Rafael. *Joan I: el rei caçador i músic.* Editorial Aedos, 1959.
