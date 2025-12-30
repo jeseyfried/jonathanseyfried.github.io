@@ -12,6 +12,7 @@ tags:
  - Joan
  - Roussillon
  - portfolio
+ - Daniel Girona i Llagostera
 
 ---
 
@@ -71,6 +72,13 @@ Despite his father's artistic efforts, the poem did not convince Joan to abandon
 ## AI Usage
 This document proved extremely challenging for me, as I thought that 'manumissoria' meant the freeing of someone, possibly a captive of war. Nope! Instead, variations of the term manumission here relate to the execution of a last will. I also had a difficult time understanding the place names, in this document written in Latin versions. I went through a long process with ChatGPT in order to figure this out, and to be honest I would have been completely stumped by this document without the help of the AI chatbot. You can see my process in [the transcript](/historians-notebook-s1-episodes/pdfs/e7-chatgpt-illa-canet-help.pdf) of my chat. 
 
+## Map of the Crown of Aragon Territories with Dates
+{% include figure.html
+  class="center"
+  width="80%"
+  caption="This map provides a general idea of the addition of different territories into the Crown of Aragon over time [Source: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_of_the_Crown_of_Aragon.svg)"
+  image-path="/historians-notebook-s1-episodes/images/crown-of-aragon-map.png"
+%}
 
 ## Bibliography
 

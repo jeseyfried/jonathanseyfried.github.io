@@ -36,7 +36,14 @@ Unfortunately, this is a difficult think to do because of the way that my podcas
 ### Who were Joan and Violant?
 Joan is the Catalan form of the name John, and is pronounced like Johan, but with a zh sound for the j and without the h. The Latin name used for Joan in the titles of his records in the archive is Iohannis.
 
-Joan, born in 1350, grew up as the oldest son of Pere the Ceremonious, one of the longest-ruling monarchs of the Middle Ages. The most important thing to know about Joan is that he lacked his father's interest in conquest and politics. Joan loved music, literature, and astrology. He also loved hunting, but the luxury of elite medieval hunting complicates our idea of what this means in terms of understanding his masculinity. 
+Joan, born in 1350, grew up as the oldest son of Pere the Ceremonious, one of the longest-ruling monarchs of the Middle Ages. The most important thing to know about Joan is that he lacked his father's interest in conquest and politics. Joan loved music, literature, and astrology. He also loved hunting, but the luxury of elite medieval hunting complicates our idea of what this means in terms of understanding his masculinity. At the start of his reign, the [Crown of Aragon](https://en.wikipedia.org/wiki/Crown_of_Aragon) was at its apex as a Mediterranean power.
+
+{% include figure.html
+  class="right"
+  width="60%"
+  caption="This map provides a general idea of the addition of different territories into the Crown of Aragon over time [Source: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Map_of_the_Crown_of_Aragon.svg)"
+  image-path="/historians-notebook-s1-episodes/images/crown-of-aragon-map.png"
+%}
 
 Violant is the Catalan form of the name Yolande, and both correspond to the name Violet in English. The Latin name used for Violant in the titles of her records in the archive is Iolantis.
 
