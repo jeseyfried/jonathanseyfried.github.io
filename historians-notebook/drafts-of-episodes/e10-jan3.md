@@ -2,7 +2,7 @@
 title: Episode 10
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/
+thumbnail: /historians-notebook-s1-episodes/images/jan-3rd-aca-cr-r1952-f11v-joan.jpg
 summary: January 3, 1387 
 date: 2025-12-30
 layout: scrollstory
@@ -10,8 +10,10 @@ header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: 
 tags:
  - Joan
- - Martí
- - cultural
+ - Barcelona
+ - Barcelona Council
+ - mail delivery
+ - illness
 
 ---
 
@@ -21,62 +23,49 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-Joan asks his brother to secure some of their father's objects.
-
+Joan tells the leadership in Barcelona that he is on his way there, but will *jaure*, rest, in [Bella Donna](https://costabrava.villas/casa-rural-la-belladona-10-habitaciones). He also tells them that he has received their letter dated January 2nd, at the hour of 3:00. 
 
 <br style="clear: both">
 
 {% include figure.html
   class="figure"
   width="40%"
-  caption="ACA CR R1952 f5r [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
-%}
-
-{% include figure.html
-  class="figure"
-  width="40%"
-  caption="ACA CR R1952 f5v [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
+  caption="ACA CR R1952 f11v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12777462)"
+  image-path="/historians-notebook-s1-episodes/images/jan-3rd-aca-cr-r1952-f11v-joan.jpg"
 %}
 
 ## Today’s Document 
-- Subject: 
-- Date: January , 1387
+- Subject: Joan's communication with the leadership of Barcelona about Pere's grave illness
+- Date: January 3, 1387
 - Day of the Week: Wednesday
-- Archival Reference Number: ACA CR R
-- [Link to PARES]()
-- Place: 
-- Sender: 
-- Recipients: 
+- Archival Reference Number: ACA CR R1952 f11v
+- [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12777462)
+- Place: Girona
+- Sender: Joan
+- Recipients: Prohomens of Barcelona
 
 ## Historical Thinking Notes
-- Sourcing: 
+- Sourcing: Joan must perceive the potential for trouble if the transition of power goes poorly and so remaining in contact with the city leaders in Barcelona remains paramount; if he already knows he's getting sick, then this raises thos stakes even higher
 
-- Contextualization: 
+- Contextualization: Joan battled a severe illness in the autumn of 1386 and so he might be in a weakened state at this moment; during the previous decades, Joan never had a great relationship with the town councilors of the cities in the Crown of Aragon and over the course of his reign this deteriorates even more
 
-- Corroboration: 
+- Corroboration: I would really like to find the letters that mention Joan's illness in January but I haven't yet found archival reference numbers for documents about it in the secondary literature; most of the scholarship relies on Tasis i Marca and his book does not have footnotes
 
-- Close-Reading: 
+- Close-Reading: I got very interested in Joan's choice of the word 'accidents' for his father's illness and the entry from [the online dictionary](https://bdlex.iec.cat/scripts/Qorth1av.asp?diccFixat=@DCVB) at the Institut d'Estudis Catalans helped greatly to see how this word could mean misfortune with illness in particular; 
 
 ## What is this document doing?
-- This document 
-- The document 
+- This document attempts to maintain the appearance of stability for the upcoming succession as Joan promises that he will present himself in Barcelona soon
+- The document elides any mention of Joan's own health condition
 
 ## Questions
-- Was 
-- How 
-
-## Additional Notes
-Notes
-
-## AI Usage
-
+- What symptoms was Joan experiencing on January 3rd?
+- What was the speed of mail delivery at the time? Could it be delivered faster than overnight?
+- When does Violant decide that she will proceed to Barcelona separately?
 
 
 ## Bibliography
 
-- 
+- Tasis i Marca, Rafael. *Joan I: el rei caçador i músic.* Editorial Aedos, 1959.
 
 
 
