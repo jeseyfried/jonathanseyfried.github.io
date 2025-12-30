@@ -13,6 +13,12 @@ tags:
  - Martí
  - cultural
  - Antonio Rubió i Lluch
+ - Catalan Humanism
+ - Bernat Metge
+ - astrolabes
+ - bezoar stone
+ - Livy
+ - Valerius Maximus
 
 ---
 
