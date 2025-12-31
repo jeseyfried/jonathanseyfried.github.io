@@ -11,9 +11,10 @@ audio: /historians-notebook-s1-episodes/audio/s1e5-dec29.mp3
 tags:
  - Violant
  - Johan Callos
- - Treasury
- - Finances
- - Bakery
+ - treasury
+ - finances
+ - solidis
+ - bakery
  - Simon de Fornells
  - Succession
  - Sibilla de Fortià
@@ -93,7 +94,7 @@ With a bunch of Joan's letters just ahead, today's document returns to Violant a
 ## Questions
 - Was Simon de Fornells a chief baker or one of several bakers on staff?
 - Did this baker stay in Girona or accompany Violant to Barcelona?
-- Was the payment of 356 sous for three months of work and goods a high or low amount for a 'panier'?
+- Was the payment of 356 sous (solidis) for three months of work and goods a high or low amount for a 'panier'?
 - What subtleties in this document might exist as evidence of the major change of Violant's status from duchess to queen?
 
 ## Additional Notes

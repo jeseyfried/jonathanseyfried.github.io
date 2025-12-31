@@ -1,31 +1,30 @@
 ---
-title: Episode 12
+title: Episode 
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/
-summary: January 5, 1387 
+summary: January , 1387 
 date: 2025-12-29
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/
 tags:
  - Joan
- - petition
- - chancery
- - solidis
+ - Martí
+ - cultural
 
 ---
 
-# Season 1, Episode 12
+# Season 1, Episode 
 <a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
   <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to episodes list" style="width:200px;height:auto; display:block; margin:0 auto;">
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-Joan makes a ruling on a petition sent to him regarding a financial dispute connected to a dowry. Franescha, he wife of Guillermi, is in a dispute with Bernardo and Pedro.
+A sentence or two summarizing the document.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e12-jan5.mp3" title="Episode 12" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/" title="Episode 10" %}
 </div>
 <style>
 .audio-player-card {
@@ -53,35 +52,22 @@ Joan makes a ruling on a petition sent to him regarding a financial dispute conn
 <br style="clear: both">
 
 {% include figure.html
-  class="figure"
-  width="30%"
+  class="right"
+  width="40%"
   caption="ACA CR R1952 f5r [Source: PARES]()"
   image-path="/historians-notebook-s1-episodes/images/"
 %}
 
-{% include figure.html
-  class="figure"
-  width="30%"
-  caption="ACA CR R1952 f5v [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
-%}
-
-{% include figure.html
-  class="figure"
-  width="30%"
-  caption="ACA CR R1952 f5v [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
-%}
 
 ## Today’s Document 
-- Subject: Joan rules on a petition
-- Date: January 5, 1387
-- Day of the Week: Saturday
-- Archival Reference Number: ACA CR R1786 f259v-260r
+- Subject: 
+- Date: January , 1387
+- Day of the Week: day
+- Archival Reference Number: ACA CR R
 - [Link to PARES]()
-- Place: Girona, ostensibly
-- Sender: Joan
-- Recipients: petitioners
+- Place: 
+- Sender: 
+- Recipients: 
 
 ## Historical Thinking Notes
 - Sourcing: 
