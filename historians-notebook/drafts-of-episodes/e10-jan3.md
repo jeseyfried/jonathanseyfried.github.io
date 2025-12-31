@@ -53,7 +53,7 @@ Joan tells the leadership in Barcelona that he is on his way there, but will *ja
 <br style="clear: both">
 
 {% include figure.html
-  class="figure"
+  class="right"
   width="40%"
   caption="ACA CR R1952 f11v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12777462)"
   image-path="/historians-notebook-s1-episodes/images/jan-3rd-aca-cr-r1952-f11v-joan.jpg"
@@ -62,7 +62,7 @@ Joan tells the leadership in Barcelona that he is on his way there, but will *ja
 ## Today’s Document 
 - Subject: Joan's communication with the leadership of Barcelona about Pere's grave illness
 - Date: January 3, 1387
-- Day of the Week: Wednesday
+- Day of the Week: Thursday
 - Archival Reference Number: ACA CR R1952 f11v
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12777462)
 - Place: Girona
