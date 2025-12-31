@@ -52,6 +52,7 @@ In a move that appears rather vulturous, Joan asks his brother to secure some of
 - Subject: Joan asks Martí to secure items as Pere is dying [^arl]
 - Date: January 1, 1387 [^dating]
 - Day of the Week: Tuesday
+- Language: Catalan
 - Archival Reference Number: ACA CR R1952 f5r-v
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12777462)
 - Place: Girona

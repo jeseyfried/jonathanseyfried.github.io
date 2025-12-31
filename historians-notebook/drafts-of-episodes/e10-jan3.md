@@ -23,7 +23,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-Joan tells the leadership in Barcelona that he is on his way there, but will *jaure*, rest, in [Bella Donna](https://costabrava.villas/casa-rural-la-belladona-10-habitaciones). He also tells them that he has received their letter dated January 2nd, at the hour of 3:00. 
+Joan tells the leadership in Barcelona that he is on his way there, but will *jaure*, rest, in [Bella Dona](https://costabrava.villas/casa-rural-la-belladona-10-habitaciones). He also tells them that he has received their letter dated January 2nd, at the hour of 3:00. 
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e10-jan3.mp3" title="Episode 10" %}

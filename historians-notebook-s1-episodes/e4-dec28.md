@@ -68,6 +68,7 @@ Letter to the archdiocese of Huesca regarding a vacant bishopric.
 - Subject: Another letter from Joan to an eccesliastical official about a vacancy.
 - Date: December 28, 1387
 - Day of the Week: Friday
+- Language: Latin
 - Archival Reference Number: ACA CR R1675 f20r
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801318)
 - Place: Girona

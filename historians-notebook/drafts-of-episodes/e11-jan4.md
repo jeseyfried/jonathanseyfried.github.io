@@ -65,9 +65,10 @@ Joan tells his brother to ensure that Queen Sibilla does not re-enter Barcelona 
 - Subject: Joan and Martí figuring out how to respond to Queen Sibilla's flight from Barcelona
 - Date: January 4, 1387
 - Day of the Week: Friday
+- Language: Catalan
 - Archival Reference Number: ACA CR R1952 f8r
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12777462)
-- Place: Bella Donna
+- Place: Bella Dona
 - Sender: Joan
 - Recipients: Martí
 
@@ -80,7 +81,7 @@ Joan tells his brother to ensure that Queen Sibilla does not re-enter Barcelona 
 
 - Corroboration: looking at this document in comparison to the one from January 1st, adds to the interpretation that Joan and Martí trust each other very much
 
-- Close-Reading: the last two lines of the letter send a mixed message about Joan's plan to get to Barcelona versus his plan to *jaure* in Bella Donna; I think it's possible to infer from this that the symptoms of his illness have started
+- Close-Reading: the last two lines of the letter send a mixed message about Joan's plan to get to Barcelona versus his plan to *jaure* in Bella Dona; I think it's possible to infer from this that the symptoms of his illness have started
 
 ## What is this document doing?
 - This document reveals a fair amount of anxiety over the possible trouble that Sibilla could cause if she were to re-enter Barcelona

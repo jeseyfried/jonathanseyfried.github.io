@@ -63,6 +63,7 @@ A sentence or two summarizing the document.
 - Subject: 
 - Date: January , 1387
 - Day of the Week: day
+- Language: 
 - Archival Reference Number: ACA CR R
 - [Link to PARES]()
 - Place: 

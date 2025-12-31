@@ -80,6 +80,7 @@ As the current king nears his last day, his son and heir transfers all the prope
 - Subject: A charter granting all of Sibilla de Fortià's properties to Violant
 - Date: December 30, 1387
 - Day of the Week: Sunday
+- Language: Latin
 - Archival Reference Number: ACA CR R1808 f197v-198v
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801946)
 - Place: Girona

@@ -62,6 +62,7 @@ Joan fulfills administrative responsibilities in a region within his portfolio a
 - Subject: The execution of the last will of Andreu de Fenollet
 - Date: December 31, 1387
 - Day of the Week: Monday
+- Language: Latin
 - Archival Reference Number: ACA CR R1752 f23r 2a
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801767)
 - Place: Girona

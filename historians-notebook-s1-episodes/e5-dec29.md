@@ -71,6 +71,7 @@ With a bunch of Joan's letters just ahead, today's document returns to Violant a
 - Subject: A record of a payment to a 'panier' of the queen's household
 - Date: payment for the period of October 1, 1386 to December 29, 1387
 - Day of the Week: Saturday
+- Language: Catalan
 - Archival Reference Number: ACA RP MR, vol. SG, 904, f72v. (image 95)
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/2851528)
 - Place: Barcelona

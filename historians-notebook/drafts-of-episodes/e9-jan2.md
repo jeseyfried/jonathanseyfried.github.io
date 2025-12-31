@@ -69,6 +69,7 @@ Joan informs the Duc de Berry about the troublesome students in Montpellier. In 
 - Subject: Joan asks the Duc de Berry to influence the treatment of the Catalan students
 - Date: January 2, 1387
 - Day of the Week: Wednesday
+- Language: Catalan
 - Archival Reference Number: ACA CR R1648 f109r
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801202)
 - Place: Girona

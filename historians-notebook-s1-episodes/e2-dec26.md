@@ -66,6 +66,7 @@ A recommendation letter for Bernardo Maloll
 - Subject: Joan recommends Bernardo Maloll for an ecclesiastical post
 - Date: December 26, 1387
 - Day of the Week: Wednesday
+- Language: Latin
 - Archival Reference Number: ACA CR R1675 f19v
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801318)
 - Place: Girona

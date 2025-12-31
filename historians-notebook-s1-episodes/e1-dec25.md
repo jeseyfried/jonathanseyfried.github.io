@@ -63,6 +63,7 @@ It's December 25, 1387. Happy New Year!
 - Subject: Aragonese students in trouble with authorities in Montpellier
 - Date: December 25, 1387
 - Day of the Week: Tuesday
+- Language: Catalan
 - Archival Reference Number: ACA CR R1822 f117v
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/description/4801971)
 - Place: Girona
