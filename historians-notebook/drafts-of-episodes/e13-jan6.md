@@ -82,7 +82,7 @@ Joan asks his brother to secure some of their father's objects.
 
 - Corroboration: 
 
-- Close-Reading: 
+- Close-Reading: following Claire Ponsich's close reading of this document, 
 
 ## What is this document doing?
 - This document 

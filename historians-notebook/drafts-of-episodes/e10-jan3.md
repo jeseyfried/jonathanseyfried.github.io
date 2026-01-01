@@ -63,6 +63,7 @@ Joan tells the leadership in Barcelona that he is on his way there, but will *ja
 - Subject: Joan's communication with the leadership of Barcelona about Pere's grave illness
 - Date: January 3, 1387
 - Day of the Week: Thursday
+- Language: Catalan
 - Archival Reference Number: ACA CR R1952 f11v
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12777462)
 - Place: Girona
