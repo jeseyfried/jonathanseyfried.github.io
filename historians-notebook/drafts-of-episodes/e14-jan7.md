@@ -2,29 +2,31 @@
 title: Episode 
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/
-summary: January , 1387 
-date: 2025-12-29
+thumbnail: /historians-notebook-s1-episodes/images/jan-7-aca-cr-r1819-f72r-violant.JPG
+summary: January 7, 1387 
+date: 2026-01-01
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/
+audio: /historians-notebook-s1-episodes/audio/s1e14-jan7.mp3
 tags:
- - Joan
+ - Violant
  - Martí
- - cultural
+ - succession
 
 ---
 
-# Season 1, Episode 
+# Season 1, Episode 14
 <a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
   <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to episodes list" style="width:200px;height:auto; display:block; margin:0 auto;">
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-A sentence or two summarizing the document.
+Violant writes to Martí, telling him to put prisoners from Sibilla's surrender in [the castle of Santa Creu](https://www.catalunya.com/en/continguts/patrimoni-cultural/santa-creu-castle-17-16003-24), but not in chains. [^cp]
+
+[^cp]:partially transcribed by Claire Ponsich, 'De la parole d’apaisement au reproche: un glissement rhétorique du conseil ou l’engagement politique d’une reine d’Aragon?,' *Cahiers d’études Hispaniques Medievales* 31 (2008): 81–117, at 98.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/" title="Episode 10" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e14-jan7.mp3" title="Episode 10" %}
 </div>
 <style>
 .audio-player-card {
@@ -54,48 +56,48 @@ A sentence or two summarizing the document.
 {% include figure.html
   class="right"
   width="40%"
-  caption="ACA CR R1952 f5r [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
+  caption="ACA CR R1818 f72r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)"
+  image-path="/historians-notebook-s1-episodes/images/jan-7-aca-cr-r1819-f72r-violant.JPG"
 %}
 
 
 ## Today’s Document 
-- Subject: 
-- Date: January , 1387
-- Day of the Week: day
-- Archival Reference Number: ACA CR R
-- [Link to PARES]()
-- Place: 
-- Sender: 
-- Recipients: 
+- Subject: Violant coordinates plans for the prisoners from Sibilla's flight
+- Date: January 7, 1387
+- Day of the Week: Monday
+- Archival Reference Number: ACA CR R1819 f72r
+- [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)
+- Place: Barcelona
+- Sender: Violant
+- Recipient: Martí
 
 ## Historical Thinking Notes
-- Sourcing: 
+- Sourcing: one in a series of short letters to a bunch of important people; Violant's purpose here appears to be to take on a coordinating role for all matters in the succession process; Violant, in Barcelona, also has access to all sorts of power brokers and courtiers; Violant's experience growing up in the Parisian court of Charles V, as well as her experience as the Duchess of Girona, has provided her with the skills and cultural capital to understand who to trust
 
-- Contextualization: 
+- Contextualization: Violant's likely number one fear is an insurrection or the emergence of a pretender to the throne; fortunately, Martí's loyalty appears solid; the preceding months seem to have been free of political or economic crises and that also works in favor of Violant's effort to project stability and orderliness in the succession process
 
-- Corroboration: 
+- Corroboration: this is one in a series of documents that Violant wrote about several administrative matters, as well as sending out notices of her ascension to queenship
 
-- Close-Reading: 
+- Close-Reading: this document also appears as an illustrative example in Claire Ponsich's article on Violant that traces the development of her authority through the phrasing of her letters; following Ponsich, I consider the tone of this document authoritative and commanding, operating as a political partner of equal status with Martí
 
 ## What is this document doing?
-- This document 
-- The document 
+- This document furthers Violant's project of assuming administrative authority over the political operations of the Crown of Aragon in a full partnership with Joan and Martí.
+- The document demonstrates the extent to which politically powerful women in the Crown of Aragon could exercise their will over the fates of others (ie. imprisoned political opponents).
+- The document lays a foundation, establishing a record that could operate as a justification, even a tradition, for Violant's political action in the future.
 
 ## Questions
-- Was 
-- How 
-
-## Additional Notes
-Notes
-
-## AI Usage
-
+- How was the relationship between Violant and Martí at this point? Did she see him as a subordinate?
+- Did Violant write this letter with a sense of expanding the boundaries of her political power or did this fit within her longheld expectations for her role as queen?  Did she compose this letter without hesitation?
+- What was the role of the Count of Pallars in helping Sibilla?
+- Is it implied in this letter that Sibilla is to be treated similarly to the Count of Pallars?
+- Who can Violant trust in Barcelona? 
+- How does Martí see Violant? As a partner? A superior?
+- When is Martí expected to return to Barcelona?
 
 
 ## Bibliography
 
-- 
+- Ponsich, Claire. 'De la parole d’apaisement au reproche: un glissement rhétorique du conseil ou l’engagement politique d’une reine d’Aragon?,' *Cahiers d’études Hispaniques Medievales* 31 (2008): 81–117.
 
 
 
