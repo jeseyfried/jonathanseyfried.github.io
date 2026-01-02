@@ -1,5 +1,5 @@
 ---
-title: Episode 16
+title: Episode 15
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/jan-8-aca-cr-r1819-f72v-violant.JPG
@@ -7,7 +7,7 @@ summary: January 9, 1387
 date: 2025-12-29
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/
+audio: /historians-notebook-s1-episodes/audio/s1e15-jan8.mp3
 tags:
  - Violant
  - Majorca
@@ -24,7 +24,7 @@ tags:
 Violant requests that the Governor of Majorca send one of the officials there, Pere d'Amaniyo, to Barcelona.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/" title="Episode 15" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e15-jan8.mp3" title="Episode 15" %}
 </div>
 <style>
 .audio-player-card {

@@ -1,5 +1,5 @@
 ---
-title: Episode 
+title: Episode 16
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/jan-9-aca-cr-r1819-f73r-violant.JPG
@@ -7,7 +7,7 @@ summary: January 9, 1387
 date: 2026-01-01
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/
+audio: /historians-notebook-s1-episodes/audio/s1e16-jan9.mp3
 tags:
  - Violant
  - Maria de Luna
@@ -26,7 +26,7 @@ tags:
 Violant writes to Maria de Luna, her sister-in-law, Martí's wife, asking Maria to come to Barcelona as soon as possible.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/" title="Episode 15" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e16-jan9.mp3" title="Episode 16" %}
 </div>
 <style>
 .audio-player-card {
