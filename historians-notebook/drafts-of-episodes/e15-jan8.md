@@ -23,7 +23,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-Violant requests to Maria de Luna, her sister-in-law, Martí's wife, asking Maria to come to Barcelona as soon as possible.
+Violant writes to Maria de Luna, her sister-in-law, Martí's wife, asking Maria to come to Barcelona as soon as possible.
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/" title="Episode 15" %}
@@ -99,6 +99,8 @@ I'm wasn't sure if I needed AI for this letter, but I wanted to see if I was mis
 
 ## Bibliography
 
+- Bratsch-Prince, Dawn E. “A Reappraisal of the Correspondence of Violant de Bar (1365-1431).” Catalan Review: International Journal of Catalan Culture 8, nos. 1–2 (1994): 295–312.
+- Bratsch-Prince, Dawn. “‘Dones Que Feyan d’homens’: The Construction of Gender in the Writing of Medieval Catalan History.” *La Corónica: A Journal of Medieval Hispanic Languages, Literatures & Cultures* 32, no. 3 (2004): 35–47. 
 - Casteen, Elizabeth. *From She-Wolf to Martyr: The Reign and Disputed Reputation of Johanna I of Naples.* Cornell University Press, 2015. 
 - Earenfight, Theresa. “A Lifetime of Power, Beyond Binaries of Gender.” In *Medieval Elite Women and the Exercise of Power, 1100--1400: Moving beyond the Exceptionalist Debate*, edited by Heather J. Tanner, 271-293. Palgrave Macmillan, 2019. 
 - Kelleher, Marie A. “What Do We Mean by" Women and Power"?” *Medieval Feminist Forum: A Journal of Gender and Sexuality* 51, no. 2 (2016): 104–15.

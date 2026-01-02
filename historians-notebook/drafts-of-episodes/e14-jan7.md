@@ -74,7 +74,9 @@ Violant writes to Martí, telling him to put prisoners from Sibilla's surrender 
 ## Historical Thinking Notes
 - Sourcing: one in a series of short letters to a bunch of important people; Violant's purpose here appears to be to take on a coordinating role for all matters in the succession process; Violant, in Barcelona, also has access to all sorts of power brokers and courtiers; Violant's experience growing up in the Parisian court of Charles V, as well as her experience as the Duchess of Girona, has provided her with the skills and cultural capital to understand who to trust
 
-- Contextualization: Violant's likely number one fear is an insurrection or the emergence of a pretender to the throne; fortunately, Martí's loyalty appears solid; the preceding months seem to have been free of political or economic crises and that also works in favor of Violant's effort to project stability and orderliness in the succession process
+- Contextualization: Violant's likely number one fear is an insurrection or the emergence of a pretender to the throne; fortunately, Martí's loyalty appears solid; the preceding months seem to have been free of political or economic crises and that also works in favor of Violant's effort to project stability and orderliness in the succession process; the exercise of power in this document can also be informed by recent developments in queenship studies, specifically the move 'beyond exceptionalism.' [^tanner]
+
+[^tanner]:Heather J. Tanner ed., *Medieval Elite Women and the Exercise of Power, 1100--1400: Moving beyond the Exceptionalist Debate* (Palgrave Macmillan, 2019).
 
 - Corroboration: this is one in a series of documents that Violant wrote about several administrative matters, as well as sending out notices of her ascension to queenship
 
@@ -97,7 +99,13 @@ Violant writes to Martí, telling him to put prisoners from Sibilla's surrender 
 
 ## Bibliography
 
+- Earenfight, Theresa. “Absent Kings: Queens as Political Partners in the Medieval Crown of Aragon.” In *Queenship and Political Power in Medieval and Early Modern Spain*, edited by Theresa Earenfight. Ashgate, 2005.
+- Earenfight, Theresa. “A Lifetime of Power, Beyond Binaries of Gender.” In *Medieval Elite Women and the Exercise of Power, 1100--1400: Moving beyond the Exceptionalist Debate*, edited by Heather J. Tanner, 271-293. Palgrave Macmillan, 2019. 
+- Kelleher, Marie A. “What Do We Mean by" Women and Power"?” *Medieval Feminist Forum: A Journal of Gender and Sexuality* 51, no. 2 (2016): 104–15.
 - Ponsich, Claire. 'De la parole d’apaisement au reproche: un glissement rhétorique du conseil ou l’engagement politique d’une reine d’Aragon?,' *Cahiers d’études Hispaniques Medievales* 31 (2008): 81–117.
+- Tanner, Heather J., ed. *Medieval Elite Women and the Exercise of Power, 1100--1400: Moving beyond the Exceptionalist Debate.* Palgrave Macmillan, 2019. 
+
+
 
 
 
