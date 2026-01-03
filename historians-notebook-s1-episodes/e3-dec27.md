@@ -4,7 +4,7 @@ author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/dec-27-aca-cr-r1822-f118r-violant.JPG
 summary: December 27, 1387 
-date: 2025-12-26
+date: 2025-12-27
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e3-dec27b.mp3

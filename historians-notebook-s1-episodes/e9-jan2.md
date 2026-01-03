@@ -4,7 +4,7 @@ author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/jan-2-aca-cr-r1648-f109r-joan.JPG
 summary: January 2, 1387 
-date: 2025-12-30
+date: 2026-01-02
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e9-jan2.mp3

@@ -4,7 +4,7 @@ author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/dec-29-aca-rp-mr-vol-sg904-f72v-violant.jpg
 summary: December 29, 1387 
-date: 2025-12-26
+date: 2025-12-29
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e5-dec29.mp3
