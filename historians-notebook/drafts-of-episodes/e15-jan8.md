@@ -12,6 +12,8 @@ tags:
  - Violant
  - Majorca
  - succession
+ - history of the Crown of Aragon
+ - James I
 
 ---
 
@@ -68,7 +70,7 @@ Violant requests that the Governor of Majorca send one of the officials there, P
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)
 - Place: Barcelona
 - Sender: Violant
-- Recipient: Governor of Majorca 
+- Recipient: Governor of Majorca, Francesc de Sagarriga
 
 ## Historical Thinking Notes
 - Sourcing: this appears to be another example of Violant surveying all of the important territories and establishing authority over them
@@ -88,7 +90,7 @@ Violant requests that the Governor of Majorca send one of the officials there, P
 - Violant says that Joan asked her to write to the Governor of Majorca - does this mean that Majorca is in Violant's portfolio? Or is it a temporary measure while Joan is ill?
 
 ## AI Usage
-[ChatGPT](/historians-notebook-s1-episodes/pdfs/e15-chatgpt-majorca.pdf) helped me to identify Francesc de Sagarriga as the recipient of this letter. 
+[ChatGPT](/historians-notebook-s1-episodes/pdfs/e15-chatgpt-majorca.pdf) helped me to identify Francesc de Sagarriga as the recipient of this letter. I later realized that my transcription of this letter had accidentally left out a phrase in the third line. However, after looking closely at that line I am pretty sure that the overall intent of the letter is not affected. 
 
 
 
