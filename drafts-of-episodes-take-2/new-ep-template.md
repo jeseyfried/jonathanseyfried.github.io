@@ -7,7 +7,7 @@ summary: January , 1387
 date: 2026-01-01
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/
+audio: /historians-notebook-s1-episodes/audio/s1e99-jan99.mp3
 tags:
  - Joan
  - Martí
@@ -24,7 +24,7 @@ tags:
 A sentence or two summarizing the document.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/" title="Episode 10" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-jan99.mp3" title="Episode 99" %}
 </div>
 <style>
 .audio-player-card {
@@ -54,7 +54,7 @@ A sentence or two summarizing the document.
 {% include figure.html
   class="right"
   width="40%"
-  caption="ACA CR R1952 f5r [Source: PARES]()"
+  caption="ACA CR R f [Source: PARES]()"
   image-path="/historians-notebook-s1-episodes/images/"
 %}
 
@@ -64,7 +64,7 @@ A sentence or two summarizing the document.
 - Date: January , 1387
 - Day of the Week: day
 - Language: 
-- Archival Reference Number: ACA CR R
+- Archival Reference Number: ACA CR R f
 - [Link to PARES]()
 - Place: 
 - Sender: 
@@ -91,7 +91,7 @@ A sentence or two summarizing the document.
 Notes
 
 ## AI Usage
-
+[ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
 
 
 ## Bibliography
