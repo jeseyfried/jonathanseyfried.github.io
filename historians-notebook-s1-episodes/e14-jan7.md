@@ -1,5 +1,5 @@
 ---
-title: Episode 
+title: Episode 14
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/jan-7-aca-cr-r1819-f72r-violant.JPG
@@ -26,7 +26,7 @@ Violant writes to Martí, telling him to put prisoners from Sibilla's surrender 
 [^cp]:partially transcribed by Claire Ponsich, 'De la parole d’apaisement au reproche: un glissement rhétorique du conseil ou l’engagement politique d’une reine d’Aragon?,' *Cahiers d’études Hispaniques Medievales* 31 (2008): 81–117, at 98.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e14-jan7.mp3" title="Episode 10" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e14-jan7.mp3" title="Episode 14" %}
 </div>
 <style>
 .audio-player-card {
