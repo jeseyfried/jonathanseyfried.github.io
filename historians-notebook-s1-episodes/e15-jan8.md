@@ -3,7 +3,7 @@ title: Episode 15
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/jan-8-aca-cr-r1819-f72v-violant.JPG
-summary: January 9, 1387 
+summary: January 8, 1387 
 date: 2026-01-08
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
