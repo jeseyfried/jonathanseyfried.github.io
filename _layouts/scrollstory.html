@@ -3,11 +3,15 @@
 
   {% include page-header.html %}
 
-  <body>
+  <body{% if page.scrollspy %} data-spy="scroll" data-target="#scrollSpyNav" data-offset="100"{% endif %}>
     
     <div class="page-wrap">
       
-    {% include nav-top.html %}
+    {% if page.course-title != nil %}
+      {% include nav-course-generic.html %}
+    {% else %}
+      {% include nav-top.html %}
+    {% endif %}
 
     {% assign headerimage = page.header-image %}
     {% assign headertitle = page.header-title %}
@@ -15,23 +19,32 @@
     {% assign headerposition = page.header-position %}
     
     {% if headerimage %}
-    
       {% include page-header-image.html
         image-path = headerimage
         title = headertitle
         height = headerheight                
         background-position = headerposition
       %}
-    
     {% endif %}
 
-    
+    {% if page.scrollspy %}
+      <div id="syllabus">
+        <nav class="scroll-spy-nav" id="scrollSpyNav">
+          <h4>Jump to</h4>
+          <nav class="nav nav-pills flex-column"></nav>
+        </nav>
+        <div class="syllabus-container">
+          {{ content }}
+          {% include page-footer.html %}
+        </div>
+      </div>
+    {% else %}
+      <div class="scrollstory-container">
+        {{ content }}
+      </div> <!-- /scrollstory-container -->
 
-    <div class="scrollstory-container">
-      {{ content }}
-    </div> <!-- /scrollstory-container -->
-
-    {% include page-footer.html %}
+      {% include page-footer.html %}
+    {% endif %}
 
     </div> <!-- /page-wrap -->
 

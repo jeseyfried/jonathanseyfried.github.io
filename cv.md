@@ -62,6 +62,10 @@ Forthcoming: 'The Social Networks of Violant de Bar,' *Medieval People*, Vol. 40
 
 2025-2026 **University Innovation Alliance Doctoral Research Fellow** 
 
+2025 **UNM History Graduate Student Association Research Travel Grant**
+
+2025 **Honorable Mention**, Fall 2026 History Graduate Students Association Poster Contest, 'The Social Networks of Joan I of Aragon and Violant de Bar.'
+
 2024 **Alan DuPont Breck Award**, Rocky Mountain Medieval and Renaissance Association. Most distinguished paper given by a junior scholar at the annual conference. 
 
 <br style="clear: both">
