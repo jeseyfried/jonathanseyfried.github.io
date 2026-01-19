@@ -95,7 +95,7 @@ Joan married Violant in 1380. They had several children, but most died within a 
 
 {% include figure.html
   class="figure"
-  width="90%"
+  width="96%"
   caption="This family tree depicts almost all of the royal family members who will be discussed during Season 1 of *The Historian's Notebook* with the notable exception of King Charles VI of France."
   image-path="/historians-notebook-s1-episodes/images/joan-violant-family-tree.png"
 %}
