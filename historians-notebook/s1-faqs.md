@@ -91,6 +91,17 @@ Violant was named Yolande after her grandmother, Yolande of Flanders. Violant, b
 
 Joan married Violant in 1380. They had several children, but most died within a year of their birth. Their son, Jaume, died in 1388. However, at the time of their ascension to the throne in 1387, Jaume appeared a strong three year-old child and a secure heir. Joan died in 1396 under mysterious circumstances(!). Violant lived as a widow until 1431. The one child of theirs who survived into adulthood, Yolande of Aragon, eventually ruled as Queen of Naples. Her daughter, Marie of Anjou, grew up to marry Charles VII of France. Violant lived long enough to see her grand-daughter become queen of France.
 
+<br style="clear: both">
+
+{% include figure.html
+  class="figure"
+  width="90%"
+  caption="This family tree depicts almost all of the royal family members who will be discussed during Season 1 of *The Historian's Notebook* with the notable exception of King Charles VI of France."
+  image-path="/historians-notebook-s1-episodes/images/joan-violant-family-tree.png"
+%}
+
+<br style="clear: both">
+
 ## How did you get interested in this?
 I got interested in Joan and Violant after reading *A Kingdom of Stargazers* by Michael A. Ryan, a professor in the History Department at the University of New Mexico.[^ryan] Ryan examines how Joan, his father, and his brother, all maintained deep interests in astrological knowledge. Unlike his father and brother, though, Joan got heavily criticized for his interest in the subject. Ryan linked this to gender dynamics, identifying how Joan's political opponents saw him as an effeminate king and Violant as too manly. This sparked my curiosity into how gender played out for elites in the Middle Ages. I think that there are many more histories out there waiting to be told of the femme kings and butch queens of the Middle Ages. Joan and Violant are just one example. At the same time, perhaps medieval gender norms were more expansive than we might think, especially for elites. The more I study Joan and Violant, the more intriguing it all becomes. Were they actually transgressive? And, if so, how?
 
