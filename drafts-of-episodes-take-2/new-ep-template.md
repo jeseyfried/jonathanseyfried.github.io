@@ -75,7 +75,7 @@ A sentence or two summarizing the document.
 
 - Contextualization: 
 
-- Corroboration: 
+- Corroboration: the document examined in [Episode 99](historians-notebook-s1-episodes/e99-dec99) corroborates
 
 - Close-Reading: 
 
