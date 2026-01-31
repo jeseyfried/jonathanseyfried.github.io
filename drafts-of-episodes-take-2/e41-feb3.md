@@ -2,7 +2,7 @@
 title: Episode 41
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/
+thumbnail: /historians-notebook-s1-episodes/images/feb-3-aca-cr-r1819-f78v-violant.JPG
 summary: February 2, 1387 
 date: 2026-02-02
 layout: scrollstory
@@ -14,6 +14,10 @@ tags:
  - Martí
  - Gerau de Vullats
  - alguatzar
+ - Muslim Iberia
+ - Pere the Ceremonious
+ - chancery
+ - paper
 
 ---
 
@@ -23,7 +27,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-A sentence or two summarizing the document.
+Violant sends a 'talking telegram' in the form of Gerau Vullats to her friend Charles III of Navarre
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e41-feb3.mp3" title="Episode 41" %}
@@ -56,41 +60,43 @@ A sentence or two summarizing the document.
 {% include figure.html
   class="right"
   width="40%"
-  caption="ACA CR R f [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
+  caption="ACA CR R f [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)"
+  image-path="/historians-notebook-s1-episodes/images/feb-3-aca-cr-r1819-f78v-violant.JPG"
 %}
 
 
 ## Today’s Document 
-- Subject: 
+- Subject: Violant sends a messenger to Navarre
 - Date: February 3, 1387
 - Day of the Week: Sunday
-- Language: 
-- Archival Reference Number: ACA CR R f
-- [Link to PARES]()
-- Place: 
-- Sender: 
-- Recipients: 
+- Language: Catalan
+- Archival Reference Number: ACA CR R1819 f78v
+- [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)
+- Place: Barcelona
+- Sender: Violant
+- Recipient: Charles III of Navarre
 
 ## Historical Thinking Notes
 - Sourcing: 
 
-- Contextualization: 
+- Contextualization: the term 'alguatzir' immediately invokes the legacy of Muslim rule in Iberia; the communication between elites in the Middle Ages took various forms, including sending messengers instead of conveying information in writing; starting in 1387, the Crown of Aragon's relations with Navarre probably were more harmonious compared to other polities in Iberia but this had not always been the case
 
-- Corroboration: 
+- Corroboration: tomorrow's document, in [Episode 42](e42-feb4) offers excellent direct corroboration as we see Joan sending Gerau as a talking telegram for him; we have seen documents used as support for messengers in previous instances, such as with Guillaume de Copons getting sent to Ramon de Perellos in [Episode 35](e35-jan28).
 
-- Close-Reading: 
+- Close-Reading: I got curious about the etymology of word 'alguatzir' and found its entry, under 'algutzir' in [the online dictionary](https://bdlex.iec.cat/scripts/Qorth1av.asp?diccFixat=@DCVB) at the Institut d'Estudis Catalans; I also consulted the Medieval Catalan glossary from *Medieval Catalan Linguistic Texts* by Paul Russell-Gebbett for 'dehiem' and 'dir' [^gloss]; the phrase 'donar creença axi com fi nos les dehiem' almost certainly means 'give credence to these words as if I said them myself' and this perhaps indicates that Gerau is delivering a sensitive message or one that might be taken the wrong way if committed to writing
+
+[^gloss]:Paul Russell-Gebbett, *Mediaeval Catalan Linguistic Texts.* (Dolphin Book Co., 1965), 271.
 
 ## What is this document doing?
-- This document 
-- The document 
+- This document imbues a messenger with the power of a queen's expression.
+- The document also reinforces the legacy of Muslim rule through perpetuating the use of an Arabic word for a particular kind of judicial official.
 
 ## Questions
 - Was 
 - How 
 
 ## Additional Notes
-Notes
+I added a lot of information into this episode about the legacy of centuries of Muslim rule in Iberia, including the technology of paper and many loan words, such as the word alguatzir in this document. 
 
 ## AI Usage
 [ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
@@ -98,7 +104,9 @@ Notes
 
 ## Bibliography
 
-- 
+- Harari, Yuval N. *Nexus: A Brief History of Information Networks from the Stone Age to AI*. Random House, 2024.
+- Russell-Gebbett, Paul. *Mediaeval Catalan Linguistic Texts.* Dolphin Book Co., 1965.
+
 
 
 
