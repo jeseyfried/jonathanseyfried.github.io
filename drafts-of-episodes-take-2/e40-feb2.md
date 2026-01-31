@@ -2,12 +2,12 @@
 title: Episode 40
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/
+thumbnail: /historians-notebook-s1-episodes/images/feb-2-aca-cr-r1923-f19v.jpg
 summary: February 2, 1387 
 date: 2026-02-02
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/s1e99-feb99.mp3
+audio: /historians-notebook-s1-episodes/audio/s1e40-feb2.mp3
 tags:
  - Joan
  - Bishop of Tortosa
@@ -25,7 +25,7 @@ tags:
 A sentence or two summarizing the document.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-feb99.mp3" title="Episode 99" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e40-feb2.mp3" title="Episode 40" %}
 </div>
 <style>
 .audio-player-card {
@@ -53,17 +53,24 @@ A sentence or two summarizing the document.
 <br style="clear: both">
 
 {% include figure.html
-  class="right"
+  class="figure"
   width="40%"
   caption="ACA CR R f [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
+  image-path="/historians-notebook-s1-episodes/images/feb-2-aca-cr-r1923-f19v.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="40%"
+  caption="ACA CR R f [Source: PARES]()"
+  image-path="/historians-notebook-s1-episodes/images/feb-2-aca-cr-r1923-f20r.jpg"
 %}
 
 
 ## Today’s Document 
 - Subject: 
 - Date: February , 1387
-- Day of the Week: day
+- Day of the Week: Saturday
 - Language: 
 - Archival Reference Number: ACA CR R f
 - [Link to PARES]()
