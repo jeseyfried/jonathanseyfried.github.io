@@ -105,7 +105,7 @@ Joan recommends Arnaldo Torrelles for a position connected to the Bishop of Tort
 - Was the governance, secular and ecclesiastical, of Tortosa stable or chaotic at this time?
 
 ## Additional Notes
-Sicily became a territory of the Crown of Aragon in the context of the [War of the Sicilian Vespers](https://en.wikipedia.org/wiki/War_of_the_Sicilian_Vespers) in the late thirteenth century. The role of Sicily in the disagreement between Pere the Ceremonious and Joan about Joan's second marriage was discussed in [Episode 7](historians-notebook-s1-episodes/e7-dec31).
+Sicily became a territory of the Crown of Aragon in the context of the [War of the Sicilian Vespers](https://en.wikipedia.org/wiki/War_of_the_Sicilian_Vespers) in the late thirteenth century. The role of Sicily in the disagreement between Pere the Ceremonious and Joan about Joan's second marriage was discussed in [Episode 7](e7-dec31). 
 
 ## AI Usage
 I used [ChatGPT](/historians-notebook-s1-episodes/pdfs/e40-chatgpt-tortosa.pdf) to figure out that Dertusen was the Latin toponym for Tortosa and also to attempt to find additional information about Arnaldo Torrelles and Raymundo Barbera.

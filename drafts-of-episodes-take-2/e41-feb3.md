@@ -7,7 +7,7 @@ summary: February 2, 1387
 date: 2026-02-02
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/s1e99-feb99.mp3
+audio: /historians-notebook-s1-episodes/audio/s1e41-feb3.mp3
 tags:
  - Violant
  - Charles III of Navarre
@@ -26,7 +26,7 @@ tags:
 A sentence or two summarizing the document.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-feb99.mp3" title="Episode 99" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e41-feb3.mp3" title="Episode 41" %}
 </div>
 <style>
 .audio-player-card {
@@ -63,8 +63,8 @@ A sentence or two summarizing the document.
 
 ## Today’s Document 
 - Subject: 
-- Date: February , 1387
-- Day of the Week: day
+- Date: February 3, 1387
+- Day of the Week: Sunday
 - Language: 
 - Archival Reference Number: ACA CR R f
 - [Link to PARES]()
