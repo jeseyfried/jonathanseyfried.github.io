@@ -4,7 +4,7 @@ author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/feb-3-aca-cr-r1819-f78v-violant.JPG
 summary: February 3, 1387 
-date: 2026-02-02
+date: 2026-02-03
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e41-feb3.mp3
@@ -27,7 +27,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-Violant sends a 'talking telegram' in the form of Gerau Vullats to her friend Charles III of Navarre
+Violant sends a 'talking telegram' in the form of Gerau Vullats to her friend Charles III of Navarre.
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e41-feb3.mp3" title="Episode 41" %}
