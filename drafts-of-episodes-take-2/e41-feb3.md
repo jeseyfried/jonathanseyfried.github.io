@@ -3,7 +3,7 @@ title: Episode 41
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/feb-3-aca-cr-r1819-f78v-violant.JPG
-summary: February 2, 1387 
+summary: February 3, 1387 
 date: 2026-02-02
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
@@ -77,7 +77,7 @@ Violant sends a 'talking telegram' in the form of Gerau Vullats to her friend Ch
 - Recipient: Charles III of Navarre
 
 ## Historical Thinking Notes
-- Sourcing: 
+- Sourcing: Violant's role as queen gave her the resources to send messengers in the place of more lengthy written correspondence; the topic of the message, perhaps too sensitive for the written word, might reflect the intensified stakes of her political role at the apex of state power; the audience of this document, as a fellow monarch, would likely understand the pressures Violant faces; as discussed in [Episode 27](e27-jan20), Violant and Charles III of Navarre likely have a close friendship
 
 - Contextualization: the term 'alguatzir' immediately invokes the legacy of Muslim rule in Iberia; the communication between elites in the Middle Ages took various forms, including sending messengers instead of conveying information in writing; starting in 1387, the Crown of Aragon's relations with Navarre probably were more harmonious compared to other polities in Iberia but this had not always been the case
 
@@ -92,14 +92,17 @@ Violant sends a 'talking telegram' in the form of Gerau Vullats to her friend Ch
 - The document also reinforces the legacy of Muslim rule through perpetuating the use of an Arabic word for a particular kind of judicial official.
 
 ## Questions
-- Was 
-- How 
+- What was the message?
+- How often has Gerau Vullats delivered messages for Violant in the past?
+- Is Violant's choice of messenger, as an alguatzir, somehow indicative of the content of the message?
+- How long would it take for Gerau Vullats to arrive to Pamplona in Navarre?
+- Does Violant frequently use the phrase 'donar creença axi com fi nos les dehiem' and if not does this indicate some level of severity or importance about this message?
 
 ## Additional Notes
 I added a lot of information into this episode about the legacy of centuries of Muslim rule in Iberia, including the technology of paper and many loan words, such as the word alguatzir in this document. 
 
 ## AI Usage
-[ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
+[ChatGPT](/historians-notebook-s1-episodes/pdfs/e41-chatgpt-gerau.pdf) helped me hone in on the tone of this letter and to focus my attention on Violant's word choices. 
 
 
 ## Bibliography
