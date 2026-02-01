@@ -96,7 +96,7 @@ Joan authorizes a personnel change at Perpignan Castle.
 - How often had Joan and Violant stayed in Perpignan Castle before their reign?
 
 ## AI Usage
-I used [ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-perpignan.pdf) to help with the transcription and translation of the Latin in this text. I especially got caught up in trying to figure out the scribe's use of the word "Nora" which begrudgingly I am accepting as an abbreviation for 'nostra.' Without ChatGPT's help, I would probably not have noticed the potential Team NextGen moment in this document. 
+I used [ChatGPT](/historians-notebook-s1-episodes/pdfs/e39-chatgpt-perpignan.pdf) to help with the transcription and translation of the Latin in this text. I especially got caught up in trying to figure out the scribe's use of the word "Nora" which begrudgingly I am accepting as an abbreviation for 'nostra.' Without ChatGPT's help, I would probably not have noticed the potential Team NextGen moment in this document. 
 
 
 ## Bibliography
