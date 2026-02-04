@@ -10,8 +10,7 @@ header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: 
 tags:
  - introductory
- - violant
- - montpellier
+ 
 ---
 
 <div class="scroll-spy-wrapper">
