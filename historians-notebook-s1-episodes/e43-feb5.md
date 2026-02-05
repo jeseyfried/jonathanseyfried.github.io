@@ -24,7 +24,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-Violant sent a letter of thanks to several monasteries whose monks prayed for Joan to recover from illness.
+Violant sends a letter of thanks to several monasteries whose monks prayed for Joan to recover from illness.
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e43-feb5.mp3" title="Episode 43" %}
