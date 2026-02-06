@@ -27,7 +27,7 @@
     <article class="card v-card{% if tag_data %} tag-card{% endif %}"{% if tag_data and page_tags %} data-tags="{{ page_tags }}"{% endif %}>
       <a class="card-link" href="{{site.baseurl}}{{ card_href }}">
         {% if card_image %}
-          {% assign _img = card_image | strip %}
+        {% capture card_image_url %}{% include image-path.html image-path=card_image page-dir=card.dir %}{% endcapture %}
           {% if _img contains '://' %}
             {% assign card_image_url = _img %}
           {% elsif _img contains '/' and _img[0] == '/' %}
