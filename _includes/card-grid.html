@@ -30,7 +30,7 @@
           {% assign _img = card_image | strip %}
           {% if _img contains '://' %}
             {% assign card_image_url = _img %}
-          {% elsif _img startswith '/' %}
+          {% elsif _img contains '/' and _img[0] == '/' %}
             {% assign card_image_url = site.baseurl | append: _img %}
           {% else %}
             {% assign card_image_url = site.baseurl | append: card.dir | append: '/' | append: _img %}
