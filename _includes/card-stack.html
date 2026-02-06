@@ -1,51 +1,49 @@
-{% comment %}
-  Card Stack Component - Horizontal cards for stacked layouts
-  
-  Usage:
-    {% include card-stack.html cards=pages show-tags=true %}
-  
-  Parameters:
-    - cards: array of page/card objects to display
-    - show-tags: (optional, default true) whether to display tags on cards
-    - tag-data: (optional, default false) add data-tags attribute for filtering
-{% endcomment %}
+{% assign cards = include.cards %}
 
-{% assign show_tags = include.show-tags | default: true %}
-{% assign tag_data = include.tag-data | default: false %}
+{% for card in cards %}
+{% if card.title and card.title != "" and card.thumbnail %}
+<div class="card h-card">
+  <a href="{{ site.baseurl }}{{ card.link | default: card.url }}" class="card-link">
+    
+    <!-- Image -->
+    {% capture card_image_url %}
+    {% include image-path.html image-path=card.thumbnail page-dir=card.dir %}
+    {% endcapture %}
+    {% assign card_image_url = card_image_url | strip %}
+    <img src="{{ card_image_url }}" 
+         class="card-img-left" 
+         alt="{{ card.title }}">
+    
+    <!-- Content -->
+    <div class="card-body">
+      <h3>{{ card.title }}</h3>
+      <p class="card-text">{{ card.summary | default: card.description }}</p>
 
-{% for card in include.cards %}
-{% if card.title and card.title != "" %}
-  {% assign card_image = card.thumbnail | default: card.header-image %}
-  {% assign card_summary = card.summary | default: card.description | default: card.excerpt | strip_html | truncate: 160 %}
-  {% if tag_data and card.tags %}
-    {% assign page_tags = card.tags | join: "|" | downcase %}
-  {% endif %}
-  <div class="card h-card{% if tag_data %} tag-card{% endif %}"{% if tag_data and page_tags %} data-tags="{{ page_tags }}"{% endif %}>
-    <a href="{{ site.baseurl }}{{ card.link | default: card.url }}" class="card-link">
-      
-      <!-- Image -->
-      {% if card_image %}
-      {% capture card_image_url %}{% include image-path.html image-path=card_image page-dir=card.dir %}{% endcapture %}
-      <img src="{{ card_image_url | strip }}" class="card-img-left" alt="{{ card.title | escape }}">
-      {% endif %}
-      
-      <!-- Content -->
-      <div class="card-body">
-        <div>
-          <h3>{{ card.title }}</h3>
-          <p class="card-text">{{ card_summary }}</p>
-        </div>
-        
-        {% if show_tags and card.tags %}
-          <div class="tags">
-            {% for tag in card.tags %}
-              <span class="tag-pill">{{ tag }}</span>
-            {% endfor %}
-          </div>
-        {% endif %}
+      <!-- Media player (audio) -->
+      {% if card.audio %}
+      <div class="card-player mt-3">
+        {% capture card_audio_url %}
+        {% include image-path.html image-path=card.audio page-dir=card.dir %}
+        {% endcapture %}
+        {% assign card_audio_url = card_audio_url | strip %}
+        <audio controls preload="none" class="w-100" aria-label="Audio player for {{ card.title }}">
+          <source src="https://media.githubusercontent.com/media/jeseyfried/jonathanseyfried.github.io/main{{ card_audio_url }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
       </div>
-      
-    </a>
-  </div>
+      {% endif %}      
+
+      <!-- Display tags if they exist -->
+      {% if card.tags %}
+      <div class="tags mt-2">
+        {% for tag in card.tags %}
+        <span class="badge bg-secondary me-1">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    
+  </a>
+</div>
 {% endif %}
 {% endfor %}
