@@ -1,5 +1,5 @@
 ---
-title: Episode 
+title: Episode 44
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/feb-6-aca-cr-r1819-f80r-violant.JPG
@@ -59,7 +59,7 @@ Violant provides funds for the repair of a mill in Torroella de Montgri.
 %}
 
 ## Torroella de Montgrí on Google Maps
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2963.0964711406405!2d3.1235572253455777!3d42.04111162122423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12ba59001f01dddb%3A0x2ea52464663e8f64!2sPLA%C3%87A%20DE%20LA%20VILA!5e0!3m2!1sen!2sus!4v1769185621592!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2963.0964711406405!2d3.1235572253455777!3d42.04111162122423!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12ba59001f01dddb%3A0x2ea52464663e8f64!2sPLA%C3%87A%20DE%20LA%20VILA!5e0!3m2!1sen!2sus!4v1769185621592!5m2!1sen!2sus" width="500" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Today’s Document 
 - Subject: Violant helps finance the repair of a mill
