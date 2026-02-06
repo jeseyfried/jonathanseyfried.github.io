@@ -63,7 +63,7 @@ Violant provides funds for the repair of a mill in Torroella de Montgri.
 
 ## Today’s Document 
 - Subject: Violant helps finance the repair of a mill
-- Date: February , 1387
+- Date: February 6, 1387
 - Day of the Week: Wednesday
 - Language: Latin
 - Archival Reference Number: ACA CR R1819 f80r
