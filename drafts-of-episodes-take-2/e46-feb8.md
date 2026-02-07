@@ -23,7 +23,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-Joan intervenes in a situtation with royal officials in Lleida.
+Joan intervenes in a situation with royal officials in Lleida.
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e46-feb8.mp3" title="Episode 46" %}
