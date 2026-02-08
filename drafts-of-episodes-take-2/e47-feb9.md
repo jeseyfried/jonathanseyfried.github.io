@@ -96,7 +96,7 @@ Violant tells someone that she wants them to come to Barcelona.
 
 
 ## AI Usage
-I used [ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf) to help with the medieval Catalan grammar in this document and also to research the person mentioned inside it, Miguel de Novals. This episode also mentions the ethical problems with AI usage, the copyright violation in particular. There are other ethical problems such as environmental impact and labor exploitation. Two books in this page's bibliography, one by Kate Crawford and the other by Ethan Mollick, do a good job of explaining the ethical dimensions of using AI.
+I used [ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-novals.pdf) to help with the medieval Catalan grammar in this document and also to research the person mentioned inside it, Miguel de Novals. This episode also mentions the ethical problems with AI usage, the copyright violation in particular. There are other ethical problems such as environmental impact and labor exploitation. Two books in this page's bibliography, one by Kate Crawford and the other by Ethan Mollick, do a good job of explaining the ethical dimensions of using AI.
 
 ## Bibliography
 - Crawford, Kate. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence.* Yale University Press, 2021. 
