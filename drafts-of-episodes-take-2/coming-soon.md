@@ -1,35 +1,30 @@
 ---
-title: Episode 57
+title: Episode 
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/feb-19-aca-cr-r1827-f31v-joan.jpg
-summary: February 19, 1387 
-date: 2026-02-19
+thumbnail: /historians-notebook-s1-episodes/images/
+summary: February , 1387 
+date: 2026-02-01
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/s1e57-feb19.mp3
+audio: /historians-notebook-s1-episodes/audio/s1e99-feb99.mp3
 tags:
  - Joan
- - Minstrel Jacob de Bar
- - Duchy of Bar
- - troubadours
- - safe conduct
- - reading against the grain
- - music
- - medieval Latin
+ - Martí
+ - cultural
 
 ---
 
-# Season 1, Episode 57
+# Season 1, Episode 
 <a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
   <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to episodes list" style="width:200px;height:auto; display:block; margin:0 auto;">
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-Joan writes a safe conduct letter for a troubadour who will be traveling through France.
+A sentence or two summarizing the document.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e57-feb19.mp3" title="Episode 57" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-feb99.mp3" title="Episode 99" %}
 </div>
 <style>
 .audio-player-card {
@@ -59,25 +54,23 @@ Joan writes a safe conduct letter for a troubadour who will be traveling through
 {% include figure.html
   class="right"
   width="40%"
-  caption="ACA CR R1827 f31v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12751697)"
-  image-path="/historians-notebook-s1-episodes/images/feb-19-aca-cr-r1827-f31v-joan.jpg"
+  caption="ACA CR R f [Source: PARES]()"
+  image-path="/historians-notebook-s1-episodes/images/"
 %}
 
 
 ## Today’s Document 
-- Subject: safe passage letter for a troubadour
-- Date: February 19, 1387
-- Day of the Week: Tuesday
-- Language: Latin
-- Archival Reference Number: ACA CR R1827 f31v
-- [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12751697)
-- Place: Barcelona
-- Sender: Joan
-- Recipients: regional authorities
+- Subject: 
+- Date: February , 1387
+- Day of the Week: day
+- Language: 
+- Archival Reference Number: ACA CR R f
+- [Link to PARES]()
+- Place: 
+- Sender: 
+- Recipients: 
 
 ## Further Notes Coming Soon
-
-
 
 
 
