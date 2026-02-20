@@ -60,7 +60,7 @@ Violant sends a 'talking telegram' in the form of Gerau Vullats to her friend Ch
 {% include figure.html
   class="right"
   width="40%"
-  caption="ACA CR R f [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)"
+  caption="ACA CR R1819 f78v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)"
   image-path="/historians-notebook-s1-episodes/images/feb-3-aca-cr-r1819-f78v-violant.JPG"
 %}
 
