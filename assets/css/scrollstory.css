@@ -140,3 +140,149 @@
     display: block !important;
   }
 }
+
+
+/*****************************************************
+TAG PAGE STYLES (within scrollstory layout)
+*****************************************************/
+
+/* Tag filter badges in scrollstory container */
+.scrollstory-container .tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin: 1.5rem 0 2rem 0;
+  padding: 1rem 0;
+}
+
+.scrollstory-container .tag-badge {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: var(--sand-light);
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  color: var(--mossy-mid-green);
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.15s ease;
+  cursor: pointer;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.scrollstory-container .tag-badge:hover {
+  background: var(--mossy-mid-green);
+  color: var(--warm-candle);
+  border-color: var(--mossy-mid-green);
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.scrollstory-container .tag-badge.active {
+  background: var(--green-teal);
+  color: var(--warm-candle);
+  border-color: var(--green-teal);
+}
+
+.scrollstory-container .tag-clear {
+  background: var(--green-teal);
+  color: var(--warm-candle);
+  border-color: var(--green-teal);
+}
+
+.scrollstory-container .tag-clear:hover {
+  background: var(--mossy-mid-green);
+  border-color: var(--mossy-mid-green);
+}
+
+/* Card grid within scrollstory container */
+.scrollstory-container .card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .scrollstory-container .card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Cards within scrollstory container */
+.scrollstory-container .card {
+  background: var(--sand-light);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.scrollstory-container .card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.scrollstory-container .card a.card-link {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+}
+
+.scrollstory-container .card .card-img-top {
+  width: 100%;
+  height: 15rem;
+  object-fit: cover;
+}
+
+.scrollstory-container .card .card-body {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex: 1;
+}
+
+.scrollstory-container .card h3 {
+  margin: 0.5rem 0 1rem 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2d4a3e;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.scrollstory-container .card .card-text {
+  font-size: 0.95rem;
+  color: #3d5a4c;
+  line-height: 1.5;
+  font-family: 'Lora', serif;
+}
+
+/* Tag pills on cards within scrollstory */
+.scrollstory-container .tag-pill {
+  display: inline-block;
+  padding: 0.3rem 0.65rem;
+  background: var(--mossy-mid-green);
+  color: var(--warm-candle) !important;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.scrollstory-container .tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+/* Empty state message */
+.scrollstory-container .tag-empty {
+  text-align: center;
+  padding: 3rem;
+  color: var(--mossy-mid-green);
+  font-size: 1.1rem;
+}
