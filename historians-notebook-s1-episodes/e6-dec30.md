@@ -11,7 +11,7 @@ audio: /historians-notebook-s1-episodes/audio/s1e6-dec30.mp3
 tags:
  - Violant
  - Joan
- - Succession
+ - succession
  - Sibilla de Fortià
  - portfolio
  - Martí

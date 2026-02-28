@@ -16,7 +16,7 @@ tags:
  - solidis
  - bakery
  - Simon de Fornells
- - Succession
+ - succession
  - Sibilla de Fortià
  - Martí
 ---

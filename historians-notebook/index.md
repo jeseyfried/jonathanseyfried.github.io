@@ -47,7 +47,7 @@ Season 1, *Molt Cara Companyona*, runs daily from December 25, 2025 to December 
 }
 </style>
 
-You can play each episode here on this page or visit the webpage for the episode which contains the audio file as well as a larger image file of that day's document and more shownotes. 
+You can play each episode here on this page or visit the webpage for the episode which contains the audio file as well as a larger image file of that day's document and more shownotes. You can also [browse by tags](tags).
 
 {% assign stories = site.pages | where_exp: "page", "page.path contains 'historians-notebook-s1-episodes/'" | sort: 'date' %}
 
