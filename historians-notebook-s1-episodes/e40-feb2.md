@@ -17,7 +17,7 @@ tags:
  - Sicily
  - Maria of Sicily
  - Pere the Ceremonious
- - Daniel Girona y Llagostera
+ - Daniel Girona i Llagostera
 
 ---
 

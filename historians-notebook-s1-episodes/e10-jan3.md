@@ -11,7 +11,7 @@ audio: /historians-notebook-s1-episodes/audio/s1e10-jan3.mp3
 tags:
  - Joan
  - Barcelona
- - Barcelona Council
+ - Barcelona city council
  - mail delivery
  - illness
 

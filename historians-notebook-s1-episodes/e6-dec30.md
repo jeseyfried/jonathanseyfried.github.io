@@ -15,7 +15,7 @@ tags:
  - Sibilla de Fortià
  - portfolio
  - Martí
- - Pere
+ - Pere the Ceremonious
 ---
 
 # Season 1, Episode 6

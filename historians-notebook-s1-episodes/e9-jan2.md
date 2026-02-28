@@ -11,6 +11,7 @@ audio: /historians-notebook-s1-episodes/audio/s1e9-jan2.mp3
 tags:
  - Joan
  - Montpellier students
+ - Montpellier
  - sexual assault
  - Duc de Berry
  - Ramon de Soler

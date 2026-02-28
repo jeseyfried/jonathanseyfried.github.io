@@ -10,7 +10,7 @@ header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e15-jan8.mp3
 tags:
  - Violant
- - Majorca
+ - Mallorca
  - succession
  - history of the Crown of Aragon
  - James I

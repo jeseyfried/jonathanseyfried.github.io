@@ -11,8 +11,8 @@ audio: /historians-notebook-s1-episodes/audio/s1e42-feb4.mp3
 tags:
  - Joan
  - Violant
- - Gerau Vullats
- - Gaston Febus
+ - Gerau de Vullats
+ - Gaston Fébus
  - crime
  - Navarre
  - Orthez
