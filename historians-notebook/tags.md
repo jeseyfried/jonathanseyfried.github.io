@@ -9,7 +9,7 @@ tag-folders: historians-notebook-s1-episodes
 
 # Browse by Tags
 
-After clicking on a tag, scroll down to see the episodes with that tag. To view all episodes in order, click All or simply return to the [Episode List](index).
+After clicking on a tag, scroll down to see the episodes with that tag. To view all episodes in order, click All or simply return to the [Episode List](historians-notebook/index).
 
 <!-- Parse tag-folders parameter (comma-separated list or single folder) -->
 {% assign folders_raw = page.tag-folders %}
@@ -155,3 +155,11 @@ After clicking on a tag, scroll down to see the episodes with that tag. To view 
     });
   })();
 </script>
+
+<br style="clear: both">
+<br style="clear: both">
+
+<a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
+  <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to episodes list" style="width:200px;height:auto; display:block; margin:0 auto;">
+  <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
+</a>

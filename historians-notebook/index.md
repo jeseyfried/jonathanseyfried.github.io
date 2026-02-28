@@ -14,7 +14,7 @@ tags:
 # The Historian's Notebook
 **Season 1 - Molt Cara Campanyona**
 <br style="clear: both">
-Welcome to the website for *The Historian's Notebook* podcast. You can listen to episodes on any of the major podcast platofrms or listen here on this website. Each episode has its own companion webpage, which you can access through the cards below.
+Welcome to the website for *The Historian's Notebook* podcast. You can listen to episodes on any of the major podcast platofrms or listen here on this website. Each episode has its own companion webpage, which you can access through the cards below, or you can [browse by tags](tags).
 Season 1, *Molt Cara Companyona*, runs daily from December 25, 2025 to December 24, 2026.
 <br style="clear: both">
 <br style="clear: both">
@@ -47,7 +47,7 @@ Season 1, *Molt Cara Companyona*, runs daily from December 25, 2025 to December 
 }
 </style>
 
-You can play each episode here on this page or visit the webpage for the episode which contains the audio file as well as a larger image file of that day's document and more shownotes. You can also [browse by tags](tags).
+You can play each episode here on this page or visit the webpage for the episode which contains the audio file as well as a larger image file of that day's document and more shownotes. 
 
 {% assign stories = site.pages | where_exp: "page", "page.path contains 'historians-notebook-s1-episodes/'" | sort: 'date' %}
 
