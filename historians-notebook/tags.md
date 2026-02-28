@@ -3,7 +3,7 @@ layout: scrollstory
 title: Tags
 summary: Browse by tags
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-permalink: /tags/
+permalink: /historians-notebook/tags/
 tag-folders: historians-notebook-s1-episodes
 ---
 
@@ -37,11 +37,17 @@ tag-folders: historians-notebook-s1-episodes
 {% assign all_tags = all_tags | uniq | sort %}
 
 
+<div class="tag-sort-toggle">
+  <span class="tag-sort-label">Sort tags:</span>
+  <button class="tag-sort-btn active" data-sort="alpha">A–Z</button>
+  <button class="tag-sort-btn" data-sort="count">By count</button>
+</div>
+
 <div class="tag-list" id="tag-list">
-  <a class="tag-badge tag-clear" href="{{ '/tags/' | relative_url }}">All</a>
+  <a class="tag-badge tag-clear" href="{{ '/historians-notebook/tags/' | relative_url }}">All</a>
   {% for tag in all_tags %}
     {% assign tag_count = tag_pages | where_exp: "p", "p.tags contains tag" | size %}
-    <a class="tag-badge" href="{{ '/tags/' | relative_url }}?tag={{ tag | url_encode }}" data-tag="{{ tag | downcase }}">{{ tag }} ({{ tag_count }})</a>
+    <a class="tag-badge" href="{{ '/historians-notebook/tags/' | relative_url }}?tag={{ tag | url_encode }}" data-tag="{{ tag | downcase }}" data-count="{{ tag_count }}">{{ tag }} ({{ tag_count }})</a>
   {% endfor %}
 </div>
 
@@ -64,10 +70,13 @@ tag-folders: historians-notebook-s1-episodes
     const emptyState = document.getElementById('tag-empty');
     const tagLinks = Array.from(document.querySelectorAll('.tag-badge[data-tag]'));
     const clearLink = document.querySelector('.tag-clear');
+    const tagList = document.getElementById('tag-list');
+    const sortButtons = document.querySelectorAll('.tag-sort-btn');
 
     let activeLabel = normalized;
     let shown = 0;
 
+    // Filter cards based on tag
     cards.forEach((card) => {
       const tags = (card.dataset.tags || '').split('|').map((t) => t.trim()).filter(Boolean);
       const match = normalized ? tags.includes(normalized) : true;
@@ -87,10 +96,14 @@ tag-folders: historians-notebook-s1-episodes
       if (clearLink) {
         clearLink.classList.remove('active');
       }
-      heading.textContent = activeLabel ? `Tagged: ${activeLabel}` : 'Tagged results';
-      summary.textContent = shown === 1
-        ? 'Showing 1 ScrollStory with this tag.'
-        : `Showing ${shown} ScrollStories with this tag.`;
+      if (heading) {
+        heading.textContent = activeLabel ? `Tagged: ${activeLabel}` : 'Tagged results';
+      }
+      if (summary) {
+        summary.textContent = shown === 1
+          ? 'Showing 1 ScrollStory with this tag.'
+          : `Showing ${shown} ScrollStories with this tag.`;
+      }
     } else {
       if (clearLink) {
         clearLink.classList.add('active');
@@ -101,7 +114,42 @@ tag-folders: historians-notebook-s1-episodes
       if (emptyState) {
         emptyState.hidden = false;
       }
-      summary.textContent = 'No ScrollStories match this tag.';
+      if (summary) {
+        summary.textContent = 'No ScrollStories match this tag.';
+      }
     }
+
+    // Sort functionality
+    function sortTags(sortType) {
+      const tagsToSort = Array.from(tagLinks);
+      
+      if (sortType === 'alpha') {
+        tagsToSort.sort((a, b) => {
+          const tagA = a.dataset.tag || '';
+          const tagB = b.dataset.tag || '';
+          return tagA.localeCompare(tagB);
+        });
+      } else if (sortType === 'count') {
+        tagsToSort.sort((a, b) => {
+          const countA = parseInt(a.dataset.count, 10) || 0;
+          const countB = parseInt(b.dataset.count, 10) || 0;
+          return countB - countA; // Descending order
+        });
+      }
+
+      // Re-append sorted tags (clearLink stays first)
+      tagsToSort.forEach((tag) => {
+        tagList.appendChild(tag);
+      });
+    }
+
+    // Add click handlers to sort buttons
+    sortButtons.forEach((btn) => {
+      btn.addEventListener('click', function () {
+        sortButtons.forEach((b) => b.classList.remove('active'));
+        this.classList.add('active');
+        sortTags(this.dataset.sort);
+      });
+    });
   })();
 </script>

@@ -146,6 +146,45 @@
 TAG PAGE STYLES (within scrollstory layout)
 *****************************************************/
 
+/* Tag sort toggle */
+.scrollstory-container .tag-sort-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.scrollstory-container .tag-sort-label {
+  color: var(--warm-candle);
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.scrollstory-container .tag-sort-btn {
+  padding: 0.4rem 0.9rem;
+  background: transparent;
+  border: 2px solid var(--mossy-mid-green);
+  color: var(--warm-candle);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  font-family: 'Source Sans 3', sans-serif;
+}
+
+.scrollstory-container .tag-sort-btn:hover {
+  background: var(--mossy-mid-green);
+  border-color: var(--mossy-mid-green);
+}
+
+.scrollstory-container .tag-sort-btn.active {
+  background: var(--green-teal);
+  border-color: var(--green-teal);
+  color: var(--warm-candle);
+}
+
 /* Tag filter badges in scrollstory container */
 .scrollstory-container .tag-list {
   display: flex;
