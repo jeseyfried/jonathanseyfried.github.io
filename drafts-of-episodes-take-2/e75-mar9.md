@@ -3,11 +3,11 @@ title: Episode
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/
-summary: March , 1387 
+summary: February , 1387 
 date: 2026-02-01
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/s1e99-mar99.mp3
+audio: /historians-notebook-s1-episodes/audio/s1e99-feb99.mp3
 tags:
  - Joan
  - Martí
@@ -24,7 +24,7 @@ tags:
 A sentence or two summarizing the document.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-mar99.mp3" title="Episode 99" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-feb99.mp3" title="Episode 99" %}
 </div>
 <style>
 .audio-player-card {
@@ -61,7 +61,7 @@ A sentence or two summarizing the document.
 
 ## Today’s Document 
 - Subject: 
-- Date: March , 1387
+- Date: February , 1387
 - Day of the Week: day
 - Language: 
 - Archival Reference Number: ACA CR R f
