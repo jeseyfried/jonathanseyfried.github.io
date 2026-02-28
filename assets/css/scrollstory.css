@@ -209,20 +209,20 @@ TAG PAGE STYLES (within scrollstory layout)
   }
 }
 
-/* Cards within scrollstory container */
-.scrollstory-container .card {
+/* Cards within card-grid in scrollstory container (tags page only) */
+.scrollstory-container .card-grid .card {
   background: var(--sand-light);
   border-radius: 8px;
   overflow: hidden;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.scrollstory-container .card:hover {
+.scrollstory-container .card-grid .card:hover {
   transform: translateY(-4px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-.scrollstory-container .card a.card-link {
+.scrollstory-container .card-grid .card a.card-link {
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -230,13 +230,13 @@ TAG PAGE STYLES (within scrollstory layout)
   color: inherit;
 }
 
-.scrollstory-container .card .card-img-top {
+.scrollstory-container .card-grid .card .card-img-top {
   width: 100%;
   height: 15rem;
   object-fit: cover;
 }
 
-.scrollstory-container .card .card-body {
+.scrollstory-container .card-grid .card .card-body {
   padding: 1.5rem;
   display: flex;
   flex-direction: column;
@@ -244,7 +244,7 @@ TAG PAGE STYLES (within scrollstory layout)
   flex: 1;
 }
 
-.scrollstory-container .card h3 {
+.scrollstory-container .card-grid .card h3 {
   margin: 0.5rem 0 1rem 0;
   font-size: 1.25rem;
   font-weight: 600;
@@ -252,15 +252,15 @@ TAG PAGE STYLES (within scrollstory layout)
   font-family: 'Source Sans 3', sans-serif;
 }
 
-.scrollstory-container .card .card-text {
+.scrollstory-container .card-grid .card .card-text {
   font-size: 0.95rem;
   color: #3d5a4c;
   line-height: 1.5;
   font-family: 'Lora', serif;
 }
 
-/* Tag pills on cards within scrollstory */
-.scrollstory-container .tag-pill {
+/* Tag pills on cards within card-grid */
+.scrollstory-container .card-grid .tag-pill {
   display: inline-block;
   padding: 0.3rem 0.65rem;
   background: var(--mossy-mid-green);
@@ -272,7 +272,7 @@ TAG PAGE STYLES (within scrollstory layout)
   font-family: 'Source Sans 3', sans-serif;
 }
 
-.scrollstory-container .tags {
+.scrollstory-container .card-grid .tags {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
