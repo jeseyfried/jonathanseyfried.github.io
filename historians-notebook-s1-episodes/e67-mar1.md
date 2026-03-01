@@ -14,6 +14,7 @@ tags:
  - finances
  - pension
  - medieval Latin
+ - AI usage
 
 ---
 
@@ -79,7 +80,38 @@ Joan authorizes an old age pension for a loyal bailiff in Valencia.
 - Sender: Joan
 - Recipient: Dominico Lull
 
-## Further Notes Coming Soon
+## Historical Thinking Notes
+- Sourcing: providing an old age pension to a loyal bailiff would certainly be in Joan's interest, as it would increase the value of positions in the royal administration and help with recruitment of other bailiffs in the future; as king, Joan could direct the expenditures of his treasury to make long-term obligations like pensions
+
+- Contextualization: early in the reign of Pere the Ceremonious, Valencians rose up against the monarchy in a rebellion known as the *Uniónes*; ever since the severe quashing of that rebellion, Valencia remained fully under the authority of the Crown of Aragon
+
+- Corroboration: this document give us another window into the administration of royal authority in Valencia when compared with the documents such as those examined in [Episode 51](e51-feb13) and [Episode 63](e63-feb25); the extension of royal power into Valencia likely depended on a large number of bailiffs such as Dominico Lull; Thomas Bisson's book on the Crown of Aragon offers an excellent summary of the challenges that the House of Barcelona faced in the governance of Valencia throughout the fourteenth century[^tb]
+
+[^tb]:Thomas N. Bisson, *Medieval Crown of Aragon: A Short History* (Clarendon Press, 1986), Chapter 5, 104-132.
+
+- Close-Reading: following the authorship, 'Nos Johannes,' the document starts with the phrase 'Attendentes dominum Petrum recollendem memorie genitorem,' a phrase that roughly translates to a standard honorific for the recently deceased king, something like 'attending to the recalled memory of our father lord Peter'; this is a useful construction to keep in mind for later comparsions because I might later come across a less formulaic reference that Joan makes to his father
+
+## What is this document doing?
+- This document institutes a reward for long-term service to the state.
+- The document guarantees a steady income for the recipient.
+
+## Questions
+- Does Dominico Lull appear elsewhere in the Archives of the Crown of Aragon?
+- What other biographical information exists about Dominico Lull?
+- Did all bailiffs get a similar old age pension or was there anything special about this one for Lull?
+- What other positions of employment would entitle the holder to an old age pension?
+- Was a previous pension being updated or was this a new pension?
+
+## Additional Notes
+One interesting aspect of this document that I forgot to mention in the podcast is that it contains inside it what might be a full copy of an earlier document written by Pere the Ceremonious on November 14, 1386. This earlier document seems to be an earlier commission for Dominico Lull. 
+
+## AI Usage
+For this document, I used the [Claude Project function](/historians-notebook-s1-episodes/pdfs/e67-claude-project-instructions.pdf) in order to get Claude to remember the steps in a process that seemed to work well for the documents examined in the episodes prior to this one. I first got a transcription from [Gemini](/historians-notebook-s1-episodes/pdfs/e67-gemini-dominico-lull.pdf). Then I had Claude do a transcription from scratch. Stage 2 of the process has Claude compare the Gemini transcription to its own, then [reconcile the differences](/historians-notebook-s1-episodes/pdfs/e67-claude-transcribe-compare.pdf). I add some help for trouble spots and then in Stage 3 Claude completed a [translation with annotations](/historians-notebook-s1-episodes/pdfs/e67-claude-dominico-lull-translation.pdf). I like this process because Claude at least makes an earnest attempt to surface ambiguities and uncertainties, unlike Gemini and ChatGPT which seem much more intent on offering definitive conclusions and eliding over ambiguities. For example, Gemini inserted the word 'militi' into this document when nothing in the paleography warranted that.
+
+
+## Bibliography
+
+- Bisson, Thomas N. *Medieval Crown of Aragon: A Short History*. Clarendon Press, 1986.
 
 
 
