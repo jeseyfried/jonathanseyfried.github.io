@@ -9,7 +9,7 @@ tag-folders: historians-notebook-s1-episodes
 
 # Browse by Tags
 
-After clicking on a tag, scroll down to see the episodes with that tag. To view all episodes in order, click All or simply return to the [Episode List](/historians-notebook/).
+After clicking on a tag, scroll down to see the episodes with that tag. To view all episodes, click All, or simply return to the [Episode List](/historians-notebook/).
 
 <!-- Parse tag-folders parameter (comma-separated list or single folder) -->
 {% assign folders_raw = page.tag-folders %}

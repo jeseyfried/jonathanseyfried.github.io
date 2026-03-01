@@ -1,30 +1,32 @@
 ---
-title: Episode 
+title: Episode 67
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/
-summary: March , 1387 
-date: 2026-02-01
+thumbnail: /historians-notebook-s1-episodes/images/mar-1-aca-cr-r1972-f33r-joan.jpg
+summary: March 1, 1387 
+date: 2026-03-01
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/s1e99-mar99.mp3
+audio: /historians-notebook-s1-episodes/audio/s1e67-mar1.mp3
 tags:
  - Joan
- - Martí
- - cultural
+ - Valencia
+ - finances
+ - pension
+ - medieval Latin
 
 ---
 
-# Season 1, Episode 
+# Season 1, Episode 67
 <a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
   <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to episodes list" style="width:200px;height:auto; display:block; margin:0 auto;">
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-A sentence or two summarizing the document.
+Joan authorizes an old age pension for a loyal bailiff in Valencia.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-mar99.mp3" title="Episode 99" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e67-mar1.mp3" title="Episode 67" %}
 </div>
 <style>
 .audio-player-card {
@@ -52,53 +54,32 @@ A sentence or two summarizing the document.
 <br style="clear: both">
 
 {% include figure.html
-  class="right"
+  class="figure"
   width="40%"
-  caption="ACA CR R f [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
+  caption="ACA CR R1972 f33r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12779046)"
+  image-path="/historians-notebook-s1-episodes/images/mar-1-aca-cr-r1972-f33r-joan.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="40%"
+  caption="ACA CR R1972 f33v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12779046)"
+  image-path="/historians-notebook-s1-episodes/images/mar-1-aca-cr-r1972-f33v-joan.jpg"
 %}
 
 
 ## Today’s Document 
-- Subject: 
-- Date: March , 1387
-- Day of the Week: day
-- Language: 
-- Archival Reference Number: ACA CR R f
-- [Link to PARES]()
-- Place: 
-- Sender: 
-- Recipients: 
+- Subject: an old age pension for a state employee
+- Date: March 1, 1387
+- Day of the Week: Friday
+- Language: Latin
+- Archival Reference Number: ACA CR R1972 f33r-v
+- [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12779046)
+- Place: Barcelona
+- Sender: Joan
+- Recipient: Dominico Lull
 
-## Historical Thinking Notes
-- Sourcing: 
-
-- Contextualization: 
-
-- Corroboration: the document examined in [Episode 99](e99-dec99) corroborates
-
-- Close-Reading: 
-
-## What is this document doing?
-- This document 
-- The document 
-
-## Questions
-- Was 
-- How 
-
-## Additional Notes
-Notes
-
-## AI Usage
-[ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
-
-
-## Bibliography
-
-- 
-
-
+## Further Notes Coming Soon
 
 
 
