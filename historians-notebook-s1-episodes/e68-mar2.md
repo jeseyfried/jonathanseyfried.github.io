@@ -72,7 +72,7 @@ Joan summons the Marquis de Villena to Barcelona and awards Alfonso the Younger 
 - Recipient: Alfonso the Elder, the Marquis of Villena
 
 ## Historical Thinking Notes
-- Sourcing: Alfonso the Elder was a grandson of James II of Aragon, Joan's great-grandfather; writing to a member of the royal family, Joan perhaps summons Alfonso to Barcelona in an effort to coordinate the exercise of power stemming from his own authority as king
+- Sourcing: Alfonso the Elder was a grandson of James II of Aragon, Joan's great-grandfather; Alfonso the Elder had supported Pere the Ceremonious in many wars; writing to a member of the royal family, Joan perhaps summons Alfonso to Barcelona in an effort to coordinate the exercise of power stemming from his own authority as king
 
 - Contextualization: kings and queens relied on the loyalty of other members of the royal family as power brokers and administrators in the Late Middle Ages; chivalric orders like the 'empresa' of the Cross of Saint George mentioned in this letter helped to motivate and organize members of the nobility in service of the king
 
@@ -97,7 +97,7 @@ I started with a transcription from [Gemini](/historians-notebook-s1-episodes/pd
 The addressee of this letter, Alfonso the Elder, raised his grandson [Enrique de Villena](https://en.wikipedia.org/wiki/Enrique_de_Villena). Enrique became an author of literature and esoterica. He also wrote the earliest surviving report of the *Jocs Florals* poetry competition that Joan imported from Toulouse to Barcelona in 1391.
 
 ## Bibliography
-
+- Domenge, Joan. “Les divises de Joan I d’Aragó (1350-96).” *Miscel·lània d’art Medieval i Modern* (Rome), 2023, 251–81.
 - Villena, Enrique de. *Arte de trovar.* Edited by F. J. Sánchez Cantón and Alvar Gómez de Castro. Visor Libros, 1993.
 
 
