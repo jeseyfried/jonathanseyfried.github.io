@@ -1,13 +1,13 @@
 ---
-title: Episode 
+title: Episode 75
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/
-summary: February , 1387 
-date: 2026-02-01
+thumbnail: /historians-notebook-s1-episodes/images/mar-9-aca-cr-r1825-f67r-joan.jpg
+summary: March 9, 1387 
+date: 2026-03-09
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/s1e99-feb99.mp3
+audio: /historians-notebook-s1-episodes/audio/s1e75-mar9.mp3
 tags:
  - Joan
  - Martí
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-# Season 1, Episode 
+# Season 1, Episode 75
 <a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
   <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to episodes list" style="width:200px;height:auto; display:block; margin:0 auto;">
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
@@ -24,7 +24,7 @@ tags:
 A sentence or two summarizing the document.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-feb99.mp3" title="Episode 99" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e75-mar9.mp3" title="Episode 75" %}
 </div>
 <style>
 .audio-player-card {
@@ -54,21 +54,21 @@ A sentence or two summarizing the document.
 {% include figure.html
   class="right"
   width="40%"
-  caption="ACA CR R f [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
+  caption="ACA CR R1825 f67r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12751618)"
+  image-path="/historians-notebook-s1-episodes/images/mar-9-aca-cr-r1825-f67r-joan.jpg"
 %}
 
 
 ## Today’s Document 
 - Subject: 
-- Date: February , 1387
-- Day of the Week: day
-- Language: 
-- Archival Reference Number: ACA CR R f
-- [Link to PARES]()
-- Place: 
-- Sender: 
-- Recipients: 
+- Date: March 9, 1387
+- Day of the Week: Saturday
+- Language: Catalan
+- Archival Reference Number: ACA CR R1825 f67r
+- [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12751618)
+- Place: Barcelona
+- Sender: Joan
+- Recipients: Governors of Elx and Crivillent
 
 ## Historical Thinking Notes
 - Sourcing: 
