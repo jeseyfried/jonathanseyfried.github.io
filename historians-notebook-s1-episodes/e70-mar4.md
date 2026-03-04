@@ -100,21 +100,21 @@ Today's document appears on folio 1v of Register 2053 and I wanted to take this 
   class="figure"
   width="40%"
   caption="ACA CR R2053 Archival Record [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12778718)"
-  image-path="/historians-notebook-s1-episodes/images/mar-4-aca-cr-r2053-cover-page.jpg"
+  image-path="/historians-notebook-s1-episodes/images/mar-4-r2053-cover-page.jpg"
 %}
 
 {% include figure.html
   class="figure"
   width="40%"
   caption="ACA CR R2053 Cover Page [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12778718)"
-  image-path="/historians-notebook-s1-episodes/images/mar-4-aca-cr-r2053-cover1.jpg"
+  image-path="/historians-notebook-s1-episodes/images/mar-4-r2053-cover1.jpg"
 %}
 
 {% include figure.html
   class="figure"
   width="40%"
   caption="ACA CR R2053 Cover Page Verso [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12778718)"
-  image-path="/historians-notebook-s1-episodes/images/mar-4-aca-cr-r2053-cover2.jpg"
+  image-path="/historians-notebook-s1-episodes/images/mar-4-r2053-cover2.jpg"
 %}
 
 {% include figure.html
