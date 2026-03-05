@@ -2,7 +2,7 @@
 title: Episode 73
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/mar-7-aca-cr-r1751-f21r-jaume.jpg
+thumbnail: /historians-notebook-s1-episodes/images/mar-7-aca-cr-r1751-f21v-jaume.jpg
 summary: March 7, 1387 
 date: 2026-03-07
 layout: scrollstory
@@ -56,8 +56,8 @@ A sentence or two summarizing the document.
 {% include figure.html
   class="right"
   width="40%"
-  caption="ACA CR R1751 f21r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
-  image-path="/historians-notebook-s1-episodes/images/mar-7-aca-cr-r1751-f21r-jaume.jpg"
+  caption="ACA CR R1751 f21v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-7-aca-cr-r1751-f21v-jaume.jpg"
 %}
 
 
