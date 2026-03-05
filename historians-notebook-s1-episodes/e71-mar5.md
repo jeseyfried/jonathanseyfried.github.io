@@ -10,8 +10,10 @@ header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e71-mar5.mp3
 tags:
  - Violant
- - Martí
- - cultural
+ - Duke of Burgundy
+ - Joan
+ - illness
+ - Duc de Berry
 
 ---
 
@@ -21,7 +23,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-A sentence or two summarizing the document.
+Violant provides her uncle, the Duke of Burgundy, with an upbeat report about Joan's health.
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e71-mar5.mp3" title="Episode 71" %}
@@ -60,7 +62,7 @@ A sentence or two summarizing the document.
 
 
 ## Today’s Document 
-- Subject: 
+- Subject: general pleasantries and Joan's health
 - Date: March 5, 1387
 - Day of the Week: Tuesday
 - Language: Catalan
@@ -70,33 +72,7 @@ A sentence or two summarizing the document.
 - Sender: Violant
 - Recipient: Duke of Burgundy
 
-## Historical Thinking Notes
-- Sourcing: 
-
-- Contextualization: 
-
-- Corroboration: the document examined in [Episode 99](e99-dec99) corroborates
-
-- Close-Reading: 
-
-## What is this document doing?
-- This document 
-- The document 
-
-## Questions
-- Was 
-- How 
-
-## Additional Notes
-Notes
-
-## AI Usage
-[ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
-
-
-## Bibliography
-
-- 
+## Further Notes Coming Soon
 
 
 
