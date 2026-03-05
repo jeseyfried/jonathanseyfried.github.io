@@ -2,7 +2,7 @@
 title: Episode 72
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f17v-joan.jpg
+thumbnail: /historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f18v-joan.jpg
 summary: March 6, 1387 
 date: 2026-03-06
 layout: scrollstory
@@ -10,8 +10,8 @@ header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e72-mar6.mp3
 tags:
  - Joan
- - Martí
- - cultural
+ - Avignon Pope Clement VII
+ - Luchino Scarampi
 
 ---
 
@@ -21,7 +21,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-A sentence or two summarizing the document.
+Joan lays out a long list of demands for his ambassadors to present to the Pope.
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e72-mar6.mp3" title="Episode 72" %}
@@ -54,13 +54,13 @@ A sentence or two summarizing the document.
 {% include figure.html
   class="right"
   width="40%"
-  caption="ACA CR R1751 f17v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
-  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f17v-joan.jpg"
+  caption="ACA CR R1751 f18v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f18v-joan.jpg"
 %}
 
 
 ## Today’s Document 
-- Subject: 
+- Subject: Joan's big plans for diplomacy in Avignon
 - Date: March 6, 1387
 - Day of the Week: Wednesday
 - Language: Latin
@@ -88,7 +88,68 @@ A sentence or two summarizing the document.
 - How 
 
 ## Additional Notes
-Notes
+These folios contain Joan's full list of demands for the Pope. 
+
+{% include figure.html
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f18v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f18v-joan.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f19r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f19r-joan.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f19v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f19v-joan.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f20r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f20r-joan.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f20v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f20v-joan.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f21r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f21r-joan.jpg"
+%}
+
+<br style="clear: both">
+Joan also wrote commissions for Luchino Scarampi
+
+{% include figure.html
+  class="figure"
+  width="40%"
+  caption="ACA CR R1751 f17v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f17v-joan.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="40%"
+  caption="ACA CR R1751 f18r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-6-aca-cr-r1751-f18r-joan.jpg"
+%}
+
+
 
 ## AI Usage
 [ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
