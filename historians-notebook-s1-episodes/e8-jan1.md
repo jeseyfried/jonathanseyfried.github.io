@@ -133,7 +133,7 @@ I asked ChatGPT to confirm that 'los stalabres e quadrans' referred to astrolabe
 ## Bibliography
 
 - Ponsich, Claire. “Des lettres, le livre et les arts dans les relations, vers 1388-1389, de Violant de Bar et Gaston Fébus, autour de 1388.” *In Froissart à la cour de Béarn: l’écrivain, les arts et le pouvoir*, edited by Valérie Fasseur, 277–304. Turnhout: Brepols, 2009.
-- Rubió y Lluch, Antonio and Institut d’Estudis Catalans. *Documents per l’historia de la cultura catalana mig-eval.* Vol. 1. Barcelona: Institut d’Estudis Catalans, 1908. [Full text available on Hathi Trust](https://hdl.handle.net/2027/nnc2.ark:/13960/t0vr1cq5w)
+- Rubió y Lluch, Antonio. *Documents per l’historia de la cultura catalana mig-eval.* Vol. 1. Barcelona: Institut d’Estudis Catalans, 1908. [Full text available on Hathi Trust](https://hdl.handle.net/2027/nnc2.ark:/13960/t0vr1cq5w)
 - Rubió y Lluch, Antonio. *Joan I, humanista: i el primer perióde de l’humanisme català.* Barcelona: Arts Grafiques, S.A., 1919.
 - Ryan, Michael A. *A Kingdom of Stargazers: Astrology and Authority in the Late Medieval Crown of Aragon.* Ithaca: Cornell University Press, 2011.
 - Seyfried, Jonathan. “Medieval Hypebeast: The Conspicuous Consumption of Joan I of Aragon.” [*Quidditas*](https://scholarsarchive.byu.edu/rmmra/vol45/iss1/4/) 45, no. 1 (2024): 4.
