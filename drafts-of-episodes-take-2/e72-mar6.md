@@ -12,6 +12,7 @@ tags:
  - Joan
  - Avignon Pope Clement VII
  - Luchino Scarampi
+ - Great Western Schism
 
 ---
 
@@ -71,24 +72,29 @@ Joan lays out a long list of demands for his ambassadors to present to the Pope.
 - Recipients: the Pope and multiple Cardinals
 
 ## Historical Thinking Notes
-- Sourcing: 
+- Sourcing: with Joan's and Violant's ascension to the throne, many of the details of their support would be expressed in staking out positions on long-held debates; from the length and breadth of the issues addressed in this document, it appears that Joan and Violant consider Avignon Pope Clement VII willing to entertain a large array of reforms and accommodatiosn
 
-- Contextualization: 
+- Contextualization: Joan's father, Pere the Ceremonious, refused to explicitly support either of the sides in the Great Western Schism; the power to control ecclesiastical appointments remained a perennial desire for monarchs during the Middle Ages
 
-- Corroboration: the document examined in [Episode 99](e99-dec99) corroborates
+- Corroboration: the document on f17v corroborates Violant's commission for Luchino Scarampi discussed in [Episode 66](e66-feb28) and the three letters to different ranks of ecclesiastical officials on f18v matches how Violant wrote her letters of reference for Scarampi
 
-- Close-Reading: 
+- Close-Reading: the breadth of topics addressed in these articles indicates a lot of historical understanding about earlier eras, especially in the references to Popes Innocent and Urban; 
 
 ## What is this document doing?
-- This document 
-- The document 
+- This document presumes that the Avignon Papacy will adopt a great many policy changes in exchange for political support.
+- The document, in this range of folios, associates marriage negotiations within a range of diplomatic activities expected to play out in Avignon.
 
 ## Questions
-- Was 
-- How 
+- Was Joan putting as much effort into the marriage negotiation process as Violant?
+- Did Joan expect Clement VII to view all these policy demands favorably? 
+- Who were the ambassadors for the Crown of Aragon? Did they travel with Luchino Scarampi or did Scarampi travel separately?
+- Who were the major power players among the cardinals? 
+- What was Violant's involvement in drafting all of the policy statements in these folios?
+
+<br style="clear: both">
 
 ## Additional Notes
-These folios contain Joan's full list of demands for the Pope. 
+The following folios contain Joan's full list of demands for the Pope. 
 
 {% include figure.html
   class="figure"
@@ -133,6 +139,7 @@ These folios contain Joan's full list of demands for the Pope.
 %}
 
 <br style="clear: both">
+
 Joan also wrote commissions for Luchino Scarampi
 
 {% include figure.html
@@ -157,7 +164,7 @@ Joan also wrote commissions for Luchino Scarampi
 
 ## Bibliography
 
-- 
+- Rollo-Koster, Joëlle, and Thomas M. Izbicki, eds. *A Companion to the Great Western Schism (1378-1417).* Brill, 2009.
 
 
 
