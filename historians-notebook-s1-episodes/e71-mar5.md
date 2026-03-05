@@ -70,9 +70,39 @@ Violant provides her uncle, the Duke of Burgundy, with an upbeat report about Jo
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/12778718)
 - Place: Barcelona
 - Sender: Violant
-- Recipient: Duke of Burgundy
+- Recipient: Duke of Burgundy, Philip the Bold
 
-## Further Notes Coming Soon
+## Historical Thinking Notes
+- Sourcing: the recipient of this letter is one of the de facto rulers of France, as the Duc de Berry and the Duke of Burgundy ruled as regents for Charles VI until 1388; Violant's purpose here seems to continue normal correspondence as a method of diverting attention away from rumors of Joan's ill health; as queen, Violant's power largely derives from her network connections and also from positive perceptions of the king's vitality
+
+- Contextualization: the big background for this document has to do with the importance of networks and state governance in the Crown of Aragon and other medieval European polities; in a forthcoming article, I argue that social networks were not a byproduct or sideshow of the politics and culture of the Middle Ages but rather the driving force for establishing authority and diffusing of culture [^jes]
+
+[^jes]:Jonathan Seyfried, ‘The Social Networks of Violant de Bar,’ *Medieval People*, Vol. 40 (2025).
+
+- Corroboration: this letter from Violant to the Duke of Burgundy corroborates the document examined in [Episode 9](e9-jan2) in that we can see both Joan and Violant corresponding directly with the top power brokers in France; this letter also provides a good comparison to the one examined in [Episode 9](e56-feb18) in which Violant admits that rumors have been circulating through France about Joan's ill health
+
+- Close-Reading: in this letter Violant insists that Joan is convalescing well and writes that she hopes 'dins breu esser guardit perfectament,' that with the grace of god he will soon be perfectly guarded/protected; the word 'guardit' idiomatically means something a bit different than that literal translation, probably something like 'I hope that soon he will be perfectly strong' or even something like 'guarded perfectly by good health'
+
+## What is this document doing?
+- This document reinforces the social network tie between Violant and the French royal family.
+- The document attempts to create a documentary record of Joan as healthy.
+
+## Questions
+- Why did Violant choose to refer to Joan as convalescing?
+- Had the Duke of Burgundy heard similar rumors those that had reached Violant's father? 
+- Is the sole purpose of this letter to bolster the image of Joan's return to health or are there other subtleties that indicate additional purposes?
+- Did the Duke of Burgundy read this letter with skepticism?
+
+## Additional Notes
+The two lines below today's document are the start of the document that will be examined in [Episode 80](e80-mar14) and it looks like the chancery staff realized it should go into that other register after they wrote those first two lines.
+
+## AI Usage
+AI transcripts coming soon!
+
+## Bibliography
+
+- Krötzl, Christian, Katariina Mustakallio, and Jenni Kuuliala, eds. *Infirmity in Antiquity and the Middle Ages: Social and Cultural Approaches to Health, Weakness and Care.* Ashgate, 2015.
+- Seyfried, Jonathan.  ‘The Social Networks of Violant de Bar,’ *Medieval People*, Vol. 40 (2025). 
 
 
 
