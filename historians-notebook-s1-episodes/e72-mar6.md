@@ -13,6 +13,7 @@ tags:
  - Avignon Pope Clement VII
  - Luchino Scarampi
  - Great Western Schism
+ - Bartolomeo Sirvent
 
 ---
 
@@ -72,13 +73,13 @@ Joan lays out a long list of demands for his ambassadors to present to the Pope.
 - Recipients: the Pope and multiple Cardinals
 
 ## Historical Thinking Notes
-- Sourcing: with Joan's and Violant's ascension to the throne, many of the details of their support would be expressed in staking out positions on long-held debates; from the length and breadth of the issues addressed in this document, it appears that Joan and Violant consider Avignon Pope Clement VII willing to entertain a large array of reforms and accommodatiosn
+- Sourcing: with Joan's and Violant's ascension to the throne, many of the details of their support would be expressed in staking out positions on long-held debates; from the length and breadth of the issues addressed in this document, it appears that Joan and Violant consider Avignon Pope Clement VII willing to entertain a large array of reforms and accommodations; the dowry amount listed for Yolande of Aragon in this document, 100,000 florins, would have required someone with deep connections in the regional financial network such as Luchino Scarampi
 
-- Contextualization: Joan's father, Pere the Ceremonious, refused to explicitly support either of the sides in the Great Western Schism; the power to control ecclesiastical appointments remained a perennial desire for monarchs during the Middle Ages
+- Contextualization: Joan's father, Pere the Ceremonious, refused to explicitly support either of the sides in the Great Western Schism; the power to control ecclesiastical appointments remained a perennial desire for monarchs during the Middle Ages; Sicily had gone through quite a lot of changes in its governance in the recent decades, as discussed in [Episode 40](e40-feb2)
 
 - Corroboration: the document on f17v corroborates Violant's commission for Luchino Scarampi discussed in [Episode 66](e66-feb28) and the three letters to different ranks of ecclesiastical officials on f18v matches how Violant wrote her letters of reference for Scarampi
 
-- Close-Reading: the breadth of topics addressed in these articles indicates a lot of historical understanding about earlier eras, especially in the references to Popes Innocent and Urban; 
+- Close-Reading: the breadth of topics addressed in these articles indicates a lot of historical understanding about earlier eras, especially in the references to Popes Innocent and Urban; Bartolomeo Sirvent, Violant's primary scribe, is the name in the probata on f18r within Joan's register, possibly indicating a level of cooperation that Violant had in drafting these documents
 
 ## What is this document doing?
 - This document presumes that the Avignon Papacy will adopt a great many policy changes in exchange for political support.
