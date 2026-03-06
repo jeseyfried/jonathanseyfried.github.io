@@ -97,7 +97,7 @@ Violant provides her uncle, the Duke of Burgundy, with an upbeat report about Jo
 The two lines below today's document are the start of the document that will be examined in [Episode 80](e80-mar14) and it looks like the chancery staff realized it should go into that other register after they wrote those first two lines.
 
 ## AI Usage
-AI transcripts coming soon!
+For this episode I did the routine of getting a transcription from [Gemini](historians-notebook-s1-episodes\pdfs\e71-gemini-transcription.pdf), then having [Claude](historians-notebook-s1-episodes\pdfs\e71-claude-transcribe-compare.pdf) reconcile that with its own. Then, Claude created [a translation with footnotes](historians-notebook-s1-episodes\pdfs\e71-claude-completed-doc.pdf).
 
 ## Bibliography
 

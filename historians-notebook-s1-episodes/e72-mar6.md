@@ -159,7 +159,7 @@ Joan also wrote commissions for Luchino Scarampi
 
 
 ## AI Usage
-[ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
+Since I had eight folios of material for today's episode, I wanted to see if the AI chatbots could handle that amount of transcription and translation. The results were that both Gemini and Claude struggled. [Gemini](/historians-notebook-s1-episodes/pdfs/e72-gemini-transcription.pdf) only offered summaries or transcriptions of some of the text on each folio. Claude did [attempt](/historians-notebook-s1-episodes/pdfs/e72-claude-initial-transcription.pdf) to transcribe everything, but then when at the [reconcilation](/historians-notebook-s1-episodes/pdfs/e72-claude-htr-reconciliation.pdf) phase could only 'remember' three of the eight documents. Although the [final product](/historians-notebook-s1-episodes/pdfs/e72-claude-completed-translation.pdf) from Claude was worth the time it took me to [shepherd it through](/historians-notebook-s1-episodes/pdfs/e72-claude-project-prompts.pdf), if I were to do this again I would not attempt to have the AI chatbots do images of eight folios at once.
 
 
 ## Bibliography
