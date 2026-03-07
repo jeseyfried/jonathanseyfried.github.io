@@ -12,8 +12,7 @@ tags:
  - Joan
  - Violant
  - Jaume
- - Martí
- - cultural
+ - Avignon Pope Clement VII
 
 ---
 
@@ -23,7 +22,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-A sentence or two summarizing the document.
+Joan and Violant's three year-old son, Jaume, writes a letter, in Latin, to the Pope.
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e73-mar7.mp3" title="Episode 73" %}
@@ -54,15 +53,42 @@ A sentence or two summarizing the document.
 <br style="clear: both">
 
 {% include figure.html
-  class="right"
-  width="40%"
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f21r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-7-aca-cr-r1751-f21r-joan.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="30%"
   caption="ACA CR R1751 f21v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
   image-path="/historians-notebook-s1-episodes/images/mar-7-aca-cr-r1751-f21v-jaume.jpg"
 %}
 
+{% include figure.html
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f22r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-7-aca-cr-r1751-f22r-jaume.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f22v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-7-aca-cr-r1751-f22v-jaume.jpg"
+%}
+
+{% include figure.html
+  class="figure"
+  width="30%"
+  caption="ACA CR R1751 f23r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/mar-7-aca-cr-r1751-f23r-jaume.jpg"
+%}
 
 ## Today’s Document 
-- Subject: 
+- Subject: the three year-old Jaume asks the Pope to change policy on admission to the canonry of Girona
 - Date: March 7, 1387
 - Day of the Week: Thursday
 - Language: Latin
@@ -72,34 +98,7 @@ A sentence or two summarizing the document.
 - Sender: Jaume
 - Recipient: Avignon Pope Clement VII
 
-## Historical Thinking Notes
-- Sourcing: 
-
-- Contextualization: 
-
-- Corroboration: the document examined in [Episode 99](e99-dec99) corroborates
-
-- Close-Reading: 
-
-## What is this document doing?
-- This document 
-- The document 
-
-## Questions
-- Was 
-- How 
-
-## Additional Notes
-Notes
-
-## AI Usage
-[ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
-
-
-## Bibliography
-
-- 
-
+## Further Notes Coming Soon
 
 
 
