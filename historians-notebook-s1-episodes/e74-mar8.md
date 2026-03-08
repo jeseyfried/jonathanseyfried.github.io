@@ -10,8 +10,8 @@ header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e74-mar8.mp3
 tags:
  - Violant
- - Martí
- - cultural
+ - Avignon Pope Clement VII
+ - AI usage
 
 ---
 
@@ -21,7 +21,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-A sentence or two summarizing the document.
+Violant recommends to the Pope someone named Petrus for an ecclesiastical role.
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e74-mar8.mp3" title="Episode 74" %}
@@ -60,7 +60,7 @@ A sentence or two summarizing the document.
 
 
 ## Today’s Document 
-- Subject: 
+- Subject: recommendation for yet another Petrus
 - Date: March 8, 1387
 - Day of the Week: Friday
 - Language: Latin
@@ -70,33 +70,7 @@ A sentence or two summarizing the document.
 - Sender: Violant
 - Recipient: Avignon Pope Clement VII
 
-## Historical Thinking Notes
-- Sourcing: 
-
-- Contextualization: 
-
-- Corroboration: the document examined in [Episode 99](e99-dec99) corroborates
-
-- Close-Reading: 
-
-## What is this document doing?
-- This document 
-- The document 
-
-## Questions
-- Was 
-- How 
-
-## Additional Notes
-Notes
-
-## AI Usage
-[ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
-
-
-## Bibliography
-
-- 
+## Further Notes Coming Soon
 
 
 
