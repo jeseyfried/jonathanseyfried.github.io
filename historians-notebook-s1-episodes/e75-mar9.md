@@ -10,8 +10,10 @@ header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
 audio: /historians-notebook-s1-episodes/audio/s1e75-mar9.mp3
 tags:
  - Joan
+ - interfaith encounter
+ - finances
  - Martí
- - cultural
+ - paleography
 
 ---
 
@@ -21,7 +23,7 @@ tags:
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-A sentence or two summarizing the document.
+In a dispute over local taxation, Joan rules in favor of the Muslim communities in Elx and Crivillent.
 
 <div class="audio-player-card">
   {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e75-mar9.mp3" title="Episode 75" %}
@@ -60,7 +62,7 @@ A sentence or two summarizing the document.
 
 
 ## Today’s Document 
-- Subject: 
+- Subject: a favorable decision for the Muslim aljama
 - Date: March 9, 1387
 - Day of the Week: Saturday
 - Language: Catalan
@@ -70,33 +72,7 @@ A sentence or two summarizing the document.
 - Sender: Joan
 - Recipients: Governors of Elx and Crivillent
 
-## Historical Thinking Notes
-- Sourcing: 
-
-- Contextualization: 
-
-- Corroboration: the document examined in [Episode 99](e99-dec99) corroborates
-
-- Close-Reading: 
-
-## What is this document doing?
-- This document 
-- The document 
-
-## Questions
-- Was 
-- How 
-
-## Additional Notes
-Notes
-
-## AI Usage
-[ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
-
-
-## Bibliography
-
-- 
+## Further Notes Coming Soon
 
 
 
