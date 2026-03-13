@@ -70,9 +70,33 @@ Violant recommends to the Pope someone named Petrus for an ecclesiastical role.
 - Sender: Violant
 - Recipient: Avignon Pope Clement VII
 
-## Further Notes Coming Soon
+## Historical Thinking Notes
+- Sourcing: as queen, Violant has the power to elevate the applications of particular individuals higher in the Pope's attention, or at least the attention of those in the papal bureaucracy; since it is not possible from this document alone to figure out 
+
+- Contextualization: the volume of correspondence about vacancies and applications for eccelesiastical posts suggests that the Church wielded immense influence in the political and economic elite class; the Great Western Schism, and its effect on the governance structures within the various European states forms the big background for this document
+
+- Corroboration: this document might be a cover letter for a larger packet of recommendations for Petrus; the tone of this letter might stand out as different when compared to other communications that Violant sends to Avignon Pope Clement VII, such as those examined in [Episode 20](e20-jan13), [Episode 31](e31-jan24), and [Episode 66](e66-feb28); at this point I do not think that the Petrus in this letter is the same as the Petrus Serva discussed in [Episode 54](e54-feb16)
+
+- Close-Reading: the use of the word 'interclusa' conveys that Violant wants nothing to hinder the granting of her request for the said Petrus, but it is not clear to me how the grammar works out to convey this information; perhaps the word has more of an idiomatic meaning at the time and is being deployed as a signal of courtesy, which would complement or perhaps contrast the tone of previous correspondence sent to the Pope from Violant and Joan
+
+## What is this document doing?
+- This document invokes the authority of the queen to influence the decision-making of those in charge of ecclesiastical appointments.
+- The document draws on customary and bureaucratic language in its effort to activate a network of officials for the benefit of an applicant. 
+
+## Questions
+- Who was this Petrus?
+- Did this letter go into a different category of correspondence at the papal court in Avignon? 
+- Would the Pope have ever seen this letter?
+- Do the grammar and word choice in this letter indicate anything about its subject matter?
+- How would a successful outcome for Petrus add to Violant's network connections in the Crown of Aragon?
+
+## AI Usage
+[Gemini](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf) and [Claude](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf) continued to struggle with some paleography that feels easy for the human eye; it was [Claude](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf) that came up with the idea that this was a cover letter for a packet of application documents
 
 
+## Bibliography
+
+- Rollo-Koster, Joëlle, and Thomas M. Izbicki, eds. *A Companion to the Great Western Schism (1378-1417).* Brill, 2009.
 
 
 
