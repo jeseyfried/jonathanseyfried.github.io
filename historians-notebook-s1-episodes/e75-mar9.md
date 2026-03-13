@@ -11,6 +11,7 @@ audio: /historians-notebook-s1-episodes/audio/s1e75-mar9.mp3
 tags:
  - Joan
  - interfaith encounter
+ - Muslim history
  - finances
  - Martí
  - paleography
@@ -72,7 +73,39 @@ In a dispute over local taxation, Joan rules in favor of the Muslim communities 
 - Sender: Joan
 - Recipients: Governors of Elx and Crivillent
 
-## Further Notes Coming Soon
+## Historical Thinking Notes
+- Sourcing: Joan's position as the recipient of revenue streams from Muslim communities certainly influenced his decision to intervene and reassert royal authority over the economic activity of Muslims in the Valencia region; the governors, perhaps more concerned with immediate opportunities for financial benefit in the region itself or pressures from local elites, might have been reluctant to enforce Joan's ruling
+
+- Contextualization: both [Elx](https://en.wikipedia.org/wiki/Elche) and [Crivillent](https://en.wikipedia.org/wiki/Crevillent) had significant Muslim populations in the Late Middle Ages; the big background for this historical situation was the centuries of Muslim rule of the Iberian peninsula which instituted distinct governance traditions for religious minority communities of the Abrahamic faiths of Judaism and Christianity, known as *dhimmis*; 
+
+- Corroboration: the different rules for the religious minority communities is also very apparent in the documents examined in [Episode 1](e1-dec25) and [Episode 85](e85-mar19)
+
+- Close-Reading: the document includes the word 'blada' in the context of the economic activity of the Muslims, which likely means only grain but could also be a general term for agricultural product; the tone of the document makes it difficult to understand the level of economic injury that the Muslims are suffering and a better understanding of medieval Catalan might help to illuminate the severity of the situation from word choices and expressions
+
+## What is this document doing?
+- This document creates a legal barrier that blocks the desires of Christian authorities to get money from religious minorities in region of Valencia.
+- The document activates royal authority and pits it against the interests of local elites.
+
+## Questions
+- Was Joan's ruling followed diligently?
+- How did local Christian elites respond to this order to reduce their control over the economic activities of Muslims?
+- Did the Muslim aljama expect that Joan would rule in their favor? Had Pere the Ceremonious ignored them? Had Martí ignored them?
+- Why were the Muslim aljamas of Elx and Crivillent in Joan's portfolio and not Violant's?
+- What amount of money was at stake in this situation?
+
+## AI Usage
+[Gemini](/historians-notebook-s1-episodes/pdfs/e75-gemini-transcription.pdf) provided an initial transcription, which I then had [Claude](/historians-notebook-s1-episodes/pdfs/e75-claude-reconciliation.pdf) reconcile with its own. [Claude](/historians-notebook-s1-episodes/pdfs/e75-claude-completed-translation.pdf) then provided a translation with footnotes.
+
+
+## Bibliography
+
+- Baer, Yitzhak. *A History of the Jews in Christian Spain*. Jewish Publication Society of America, 1961.
+- Boswell, John. *The Royal Treasure: Muslim Communities under the Crown of Aragon in the Fourteenth Century*. Yale University Press, 1977.
+- Catlos, Brian A. “Contexto y conveniencia en la Corona de Aragón: Propuesta de un modelo de interacción entre grupos etno-religiosos minoritarios y mayoritarios.” *Revista d’història medieval* 12 (for 2001-2002 2002): 259–68.
+- Catlos, Brian A. *Muslims of Latin Christendom, c. 1050-1614*. Cambridge University Press, 2014. 
+- Gampel, Benjamin R. *Anti-Jewish Riots in the Crown of Aragon and the Royal Response, 1391-1392*. Cambridge University Press, 2016.
+- Girona y Llagostera, Daniel. “Itinerari de l’Infant En Joan, Fill Del Rei En Pere III. 1350-1387.” III Congreso de Historia de La Corona de Aragón (Valencia), Hijo de F. Vives Mora, 1923, 169–592. [Available on Google Books](https://books.google.com/books?id=ntJTOjpltb0C), accessed December 26, 2025.
+- Nirenberg, David. *Communities of Violence: Persecution of Minorities in the Middle Ages*. Princeton University Press, 1996.
 
 
 

@@ -91,7 +91,7 @@ Violant recommends to the Pope someone named Petrus for an ecclesiastical role.
 - How would a successful outcome for Petrus add to Violant's network connections in the Crown of Aragon?
 
 ## AI Usage
-[Gemini](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf) and [Claude](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf) continued to struggle with some paleography that feels easy for the human eye; it was [Claude](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf) that came up with the idea that this was a cover letter for a packet of application documents
+[Gemini](/historians-notebook-s1-episodes/pdfs/e74-gemini-transcription.pdf) and [Claude](/historians-notebook-s1-episodes/pdfs/e74-claude-reconciliation-translation.pdf) continued to struggle with some paleography that feels easy for the human eye; it was Claude that came up with the idea that this was a cover letter for a packet of application documents
 
 
 ## Bibliography
