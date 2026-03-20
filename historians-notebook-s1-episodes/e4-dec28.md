@@ -86,7 +86,7 @@ Letter to the archdiocese of Huesca regarding a vacant bishopric.
 
 ## What is this document doing?
 - This document reflects the involvement of secular authorities in ecclesiastical administration.
-- The familly connection between Nicholao Çorica and his father R. Çorica illustrates the importance of network connections for attaining ecclesiastical positions.
+- The family connection between Nicholao Çorica and his father R. Çorica illustrates the importance of network connections for attaining ecclesiastical positions.
 
 ## Questions
 - The basics - who is the recipient?  What are the correct expanded abbreviations in the first four words?
