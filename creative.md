@@ -10,7 +10,7 @@ date: 2025-12-20
 Since starting my PhD graduate work, I haven't had quite as much time for creative pursuits. Below are examples of a mix of my creative things, old and new.
 
 ## Cat Photography
-This is a newfound creative pursuit and more about the fun of spotting street cats than skilled portraiture. For Spring Break of 2026, I visited Morocco and stayed in Marrakech, a city famous for its street cats. I just couldn't stop snapping pictures of them and then tried my hand at vibe coding to make [a website](https://jeseyfried.github.io/cats-of-marrakech/) of the over 200 photos I took of the streetcats of Marrakech. 
+This is a newfound creative pursuit and more about the fun of spotting street cats than skilled portraiture. For Spring Break of 2026, I visited Morocco and stayed in Marrakech, a city famous for its street cats. I just couldn't stop snapping pictures of them and then tried my hand at vibe coding to make [a website](https://jeseyfried.github.io/cats-of-marrakech/) of the over 200 photos I took of the street cats of Marrakech. 
 
 ## Creative Writing
 I've dabbled with a handful of creative forms, but year after year I keep coming back to creative writing. My favorite genre for writing is speculative fiction although I did try my hand at historical fiction once. Below are some of my currently available creative pieces.
