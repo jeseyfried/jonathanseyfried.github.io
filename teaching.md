@@ -10,6 +10,18 @@ date: 2025-08-23
 <br style="clear: both">
 I have a lot to say about teaching and I'm not nearly done.
 
+### AI Literacy
+My dissertation research focuses on the impact of new information technologies on historical narrative and that includes our current moment with the emergence of AI. I wrote [a post on Medium](https://medium.com/@jonathanseyfried/using-ai-for-research-soup-it-up-8bceaf306743) about an acronym I came up with to help students build AI literacy: SOUP
+
+- S: Symmetry - look for as much evidence against your position as that which you find in favor of it
+
+- O: Opposite - in good faith, take extra care to think through and evaluate the strongest arguments of the opposing side
+
+- U: Uncertainty - a series of facts can be interpreted differently depending on how they fit into larger narratives and so answers from AI should always be treated as provisional; resist definitive proclamations
+
+- P: Peer review - the most dependable knowledge emerges from a process of questioning and replication of findings so students should check that a community of experts vouches for the information they have received from AI
+
+
 ### A High School History Teacher Writing About Teaching
 In 2018, I wrote a few posts about teaching on [Medium](https://jonathanseyfried.medium.com/):
 - ['You're a Racist!' Four Steps to Avoid Panic When Someone Calls You a Racist.](https://jonathanseyfried.medium.com/youre-a-racist-four-steps-to-avoid-panic-when-someone-calls-you-a-racist-b1be14aaec0c) June 14, 2018
