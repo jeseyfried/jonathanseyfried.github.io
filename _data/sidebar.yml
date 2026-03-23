@@ -21,3 +21,6 @@ links:
   - title: Bluesky
     url: https://bsky.app/profile/jonathanseyfried.bsky.social
     icon: fas fa-cloud
+  - title: Cats of Marrakech
+    url: https://jeseyfried.github.io/cats-of-marrakech/
+    icon: fas fa-cat
