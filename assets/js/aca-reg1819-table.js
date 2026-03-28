@@ -49,9 +49,6 @@
         normalizeValue(row["Processed Timestamp"])
       ]);
 
-      document.getElementById("aca-row-count").textContent = rows.length;
-      document.getElementById("aca-col-count").textContent = 16;
-
       $(tableEl).removeAttr("hidden");
 
       const table = $(tableEl).DataTable({
