@@ -32,20 +32,20 @@
 
       const rows = results.data.map((row) => [
         normalizeValue(row["Filename"]),
-        normalizeValue(row["Image"]),
-        normalizeValue(row["Folio/Register Ref"]),
         normalizeValue(row["Date"]),
         normalizeValue(row["Document Type"]),
         normalizeValue(row["Issuer"]),
         normalizeValue(row["Recipient"]),
-        normalizeValue(row["Language"]),
-        normalizeValue(row["Subject"]),
-        normalizeValue(row["Quality (Two-Model?)"]),
-        normalizeValue(row["Gemini Stage 1 Transcription"]),
         normalizeValue(row["Reconciled Transcription"]),
         normalizeValue(row["English Translation"]),
         normalizeValue(row["Historical Notes"]),
         normalizeValue(row["Remaining Uncertainties"]),
+        normalizeValue(row["Image"]),
+        normalizeValue(row["Language"]),
+        normalizeValue(row["Subject"]),
+        normalizeValue(row["Folio/Register Ref"]),
+        normalizeValue(row["Quality (Two-Model?)"]),
+        normalizeValue(row["Gemini Stage 1 Transcription"]),
         normalizeValue(row["Processed Timestamp"])
       ]);
 
@@ -63,22 +63,22 @@
         scrollCollapse: true,
         autoWidth: false,
         columns: [
-          { width: "10rem" },
-          { width: "10rem" },
-          { width: "12rem" },
-          { width: "15rem" },
-          { width: "14rem" },
-          { width: "14rem" },
-          { width: "14rem" },
-          { width: "8rem" },
-          { width: "12rem" },
-          { width: "10rem" },
-          { width: "20rem" },
-          { width: "22rem" },
-          { width: "22rem" },
-          { width: "20rem" },
-          { width: "18rem" },
-          { width: "12rem" }
+          { width: "10rem" },  // Filename
+          { width: "15rem" },  // Date
+          { width: "14rem" },  // Document Type
+          { width: "14rem" },  // Issuer
+          { width: "14rem" },  // Recipient
+          { width: "22rem" },  // Reconciled Transcription
+          { width: "22rem" },  // English Translation
+          { width: "20rem" },  // Historical Notes
+          { width: "18rem" },  // Remaining Uncertainties
+          { width: "10rem" },  // Image
+          { width: "8rem" },   // Language
+          { width: "12rem" },  // Subject
+          { width: "12rem" },  // Folio/Register Ref
+          { width: "10rem" },  // Quality (Two-Model?)
+          { width: "20rem" },  // Gemini Stage 1 Transcription
+          { width: "12rem" }   // Processed Timestamp
         ],
         language: {
           search: "Search all columns:",

@@ -36,38 +36,38 @@ hide-sidebar: true
       <thead>
         <tr>
           <th>Filename</th>
-          <th>Image</th>
-          <th>Folio/Register Ref</th>
           <th>Date</th>
           <th>Document Type</th>
           <th>Issuer</th>
           <th>Recipient</th>
-          <th>Language</th>
-          <th>Subject</th>
-          <th>Quality (Two-Model?)</th>
-          <th>Gemini Stage 1 Transcription</th>
           <th>Reconciled Transcription</th>
           <th>English Translation</th>
           <th>Historical Notes</th>
           <th>Remaining Uncertainties</th>
+          <th>Image</th>
+          <th>Language</th>
+          <th>Subject</th>
+          <th>Folio/Register Ref</th>
+          <th>Quality (Two-Model?)</th>
+          <th>Gemini Stage 1 Transcription</th>
           <th>Processed Timestamp</th>
         </tr>
         <tr class="aca-filter-row">
           <th><input type="text" placeholder="Filter filename" /></th>
-          <th><input type="text" placeholder="Filter image" /></th>
-          <th><input type="text" placeholder="Filter folio" /></th>
           <th><input type="text" placeholder="Filter date" /></th>
           <th><input type="text" placeholder="Filter type" /></th>
           <th><input type="text" placeholder="Filter issuer" /></th>
           <th><input type="text" placeholder="Filter recipient" /></th>
-          <th><input type="text" placeholder="Filter language" /></th>
-          <th><input type="text" placeholder="Filter subject" /></th>
-          <th><input type="text" placeholder="Filter quality" /></th>
-          <th><input type="text" placeholder="Filter Gemini" /></th>
           <th><input type="text" placeholder="Filter transcription" /></th>
           <th><input type="text" placeholder="Filter translation" /></th>
           <th><input type="text" placeholder="Filter notes" /></th>
           <th><input type="text" placeholder="Filter uncertainties" /></th>
+          <th><input type="text" placeholder="Filter image" /></th>
+          <th><input type="text" placeholder="Filter language" /></th>
+          <th><input type="text" placeholder="Filter subject" /></th>
+          <th><input type="text" placeholder="Filter folio" /></th>
+          <th><input type="text" placeholder="Filter quality" /></th>
+          <th><input type="text" placeholder="Filter Gemini" /></th>
           <th><input type="text" placeholder="Filter timestamp" /></th>
         </tr>
       </thead>
