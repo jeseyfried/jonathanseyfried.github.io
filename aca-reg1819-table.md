@@ -3,6 +3,7 @@ title: ACA Register 1819 Transcriptions
 layout: base
 date: 2026-03-28
 permalink: /aca-reg1819-transcriptions/
+hide-sidebar: true
 ---
 
 <style>
@@ -12,41 +13,19 @@ permalink: /aca-reg1819-transcriptions/
 </style>
 
 <section class="aca-table-shell">
-  <header class="aca-table-intro container">
+  <header class="aca-table-intro">
     <p class="aca-kicker">Research Dataset</p>
     <h1>ACA Register 1819 Transcriptions</h1>
-    <p class="aca-lede">
-      This table presents 297 records from the ACA Register 1819 transcription workflow.
-      Use the global search, the column filters, and horizontal scrolling to navigate long entries.
-    </p>
-
-    <div class="aca-meta-grid">
-      <div class="aca-meta-card">
-        <span class="aca-meta-label">Rows</span>
-        <strong id="aca-row-count">297</strong>
-      </div>
-      <div class="aca-meta-card">
-        <span class="aca-meta-label">Columns</span>
-        <strong id="aca-col-count">16</strong>
-      </div>
-      <div class="aca-meta-card">
-        <span class="aca-meta-label">Download</span>
-        <a href="/assets/data/ACA_Reg1819_transcriptions.csv" download>CSV file</a>
-      </div>
-    </div>
-
+    <p class="aca-lede">297 records from ACA Register 1819. <a href="/assets/data/ACA_Reg1819_transcriptions.csv" download>Download CSV</a></p>
     <details class="aca-help">
       <summary>How to use this table</summary>
       <div class="aca-help-body">
-        <p><strong>Search:</strong> the search box scans the full table.</p>
-        <p><strong>Filter:</strong> each column has its own filter box under the heading row.</p>
-        <p><strong>Scroll:</strong> the table is intentionally wide so long transcriptions remain readable.</p>
-        <p><strong>Copy:</strong> click into any cell and use your browser's standard copy command.</p>
+        <p><strong>Search:</strong> scans all columns. <strong>Filter:</strong> per-column filters below headers. <strong>Scroll:</strong> horizontal scroll for wide columns.</p>
       </div>
     </details>
   </header>
 
-  <div class="aca-table-frame container">
+  <div class="aca-table-frame">
     <div id="aca-loading" class="aca-loading">Loading table…</div>
     <div id="aca-error" class="aca-error" hidden>
       The table could not be loaded. Make sure the CSV is present at

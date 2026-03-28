@@ -3,7 +3,7 @@
 
   {% include page-header.html %}
 
-  <body>
+  <body{% if page.hide-sidebar %} class="no-sidebar full-width"{% endif %}>
     
     <div class="page-wrap">
       
@@ -29,9 +29,11 @@
       {{ content }}
     </div> <!-- /container -->
 
+    {% unless page.hide-sidebar %}
     <div class="sidebar-wrapper">
       {% include sidebar.html %}
     </div>
+    {% endunless %}
 
     {% include page-footer.html %}
 
