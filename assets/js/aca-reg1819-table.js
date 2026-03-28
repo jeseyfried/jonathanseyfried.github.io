@@ -59,6 +59,8 @@
         orderCellsTop: true,
         fixedHeader: true,
         scrollX: true,
+        scrollY: "65vh",
+        scrollCollapse: true,
         autoWidth: false,
         columns: [
           { width: "10rem" },

@@ -112,7 +112,7 @@ table.dataTable.aca-datatable thead th {
 }
 
 table.dataTable.aca-datatable tbody td {
-  vertical-align: top;
+  vertical-align: top !important;
   font-family: var(--font-body, 'Source Sans 3', sans-serif);
   font-size: 0.96rem;
   line-height: 1.45;
