@@ -157,6 +157,8 @@ Yes, but with some really important caveats and warnings. First, I am using AI f
 
 I also use [Transkribus](https://www.transkribus.org/), a handwritten text recognition application available as a webapp. Transkribus uses AI to power its machine learning of images of handwritten text. I have been steadily working on creating a model for late fourteenth-century Gothic secretarial hand. If the Handwritten Text Recognition (HTR) model works, then I will be able to get an automatic transcription of documents, making them keyword searchable. This could greatly assist in my effort to locate documents by date or by subjects of higher interest.
 
+By March 2026, I have discovered that the LLMs significantly outperform Transkribus. By combining Gemini and Claude, I am able to get usable quality HTR for entire ACA Registers. By usable, I mean that I can discover content through full-text searching. It does not mean that the accuracy of HTR allows me to be sure of full-text search results actually representing the entirety of the content in the Register. Obtaining a large data set of HTR output requires agentic AI and I have developed a workflow with OpenClaw. It takes about 12 hours to generate transcriptions from a 300-page Register. The cost in API fees comes out to about $75 for those 300 pages of HTR and translation into English. 
+
 <br style="clear: both">
 <br style="clear: both">
 <a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
