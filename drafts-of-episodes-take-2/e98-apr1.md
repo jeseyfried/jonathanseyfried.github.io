@@ -1,30 +1,30 @@
 ---
-title: Episode 
+title: Episode 98
 author: Jonathan Seyfried
 location: Albuquerque, NM
-thumbnail: /historians-notebook-s1-episodes/images/
-summary: April , 1387 
+thumbnail: /historians-notebook-s1-episodes/images/apr-1-aca-cr-r1751-f37r-joan.jpg
+summary: April 1, 1387 
 date: 2026-04-01
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/s1e99-apr99.mp3
+audio: /historians-notebook-s1-episodes/audio/s1e98-apr1.mp3
 tags:
  - Joan
- - Martí
- - cultural
+ - Barbastro
+ - medieval Aragonese
 
 ---
 
-# Season 1, Episode 
+# Season 1, Episode 98
 <a href="/historians-notebook/" target="Return to episodes list" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
   <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Return to episodes list" style="width:200px;height:auto; display:block; margin:0 auto;">
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Return to episodes list</span>
 </a>
 
-A sentence or two summarizing the document.
+Joan sends Jaime Pallares back to Barbastro to address the current discord there. 
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-apr99.mp3" title="Episode 99" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e98-apr1.mp3" title="Episode 98" %}
 </div>
 <style>
 .audio-player-card {
@@ -52,51 +52,32 @@ A sentence or two summarizing the document.
 <br style="clear: both">
 
 {% include figure.html
-  class="right"
+  class="figure"
   width="40%"
-  caption="ACA CR R f [Source: PARES]()"
-  image-path="/historians-notebook-s1-episodes/images/"
+  caption="ACA CR R1751 f37r [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/apr-1-aca-cr-r1751-f37r-joan.jpg"
 %}
 
+{% include figure.html
+  class="figure"
+  width="40%"
+  caption="ACA CR R1751 f37v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)"
+  image-path="/historians-notebook-s1-episodes/images/apr-1-aca-cr-r1751-f37v-joan.jpg"
+%}
 
 ## Today’s Document 
-- Subject: 
-- Date: April , 1387
-- Day of the Week: day
-- Language: 
-- Archival Reference Number: ACA CR R f
-- [Link to PARES]()
-- Place: 
-- Sender: 
-- Recipients: 
+- Subject: addressing the ongoing discord in Barbastro
+- Date: April 1, 1387
+- Day of the Week: Monday
+- Language: Aragonese
+- Archival Reference Number: ACA CR R1751 f37r-v
+- [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801766)
+- Place: Barcelona
+- Sender: Joan
+- Recipients: Jaime Pallares and the Prohomens of Barbastro
 
-## Historical Thinking Notes
-- Sourcing: 
+## Further Notes Coming Soon
 
-- Contextualization: 
-
-- Corroboration: the document examined in [Episode 99](e99-dec99) corroborates
-
-- Close-Reading: 
-
-## What is this document doing?
-- This document 
-- The document 
-
-## Questions
-- Was 
-- How 
-
-## Additional Notes
-Notes
-
-## AI Usage
-[ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
-
-
-## Bibliography
-
-- 
 
 
 
