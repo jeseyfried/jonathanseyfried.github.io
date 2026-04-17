@@ -16,6 +16,8 @@ tags:
 # Molt Cara Companyona: 
 ## Gender Nonconformity and Medieval Monarchy
 
+---
+
 ## Access the website at jonathanseyfried.net
 
 ## Or, through this QR code
