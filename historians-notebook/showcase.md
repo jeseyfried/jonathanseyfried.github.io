@@ -23,7 +23,7 @@ tags:
   class="figure"
   width="80%"
   caption=" "
-  image-path="/historians-notebook/images/qr.jpg"
+  image-path="/historians-notebook/images/qr.png"
 %}
 
 # The podcast can by found by doing a Google search for "historian's notebook podcast"
