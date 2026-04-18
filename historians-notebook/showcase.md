@@ -13,17 +13,20 @@ tags:
  
 ---
 
-# Molt Cara Companyona: Gender Nonconformity and Medieval Monarchy
+# Molt Cara Companyona: 
+## Gender Nonconformity and Medieval Monarchy
 
-# Access the website at jonathanseyfried.net
+---
 
-# Or, through this QR code
+## Access the website at jonathanseyfried.net
+
+## Or, through this QR code
 
 {% include figure.html
   class="figure"
-  width="80%"
+  width="50%"
   caption=" "
-  image-path="/historians-notebook/images/qr.png"
+  image-path="/historians-notebook-s1-episodes/images/qr.png"
 %}
 
-# The podcast can by found by doing a Google search for "historian's notebook podcast"
+## The podcast can by found by doing a Google search for "historian's notebook podcast"
