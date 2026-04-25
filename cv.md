@@ -42,6 +42,12 @@ Forthcoming: 'The Social Networks of Violant de Bar,' *Medieval People*, Vol. 40
 
 ### Conference Presentations and Roundtable Participation
 
+'Molt Cara Companyona: Gender Noncomformity and Medieval Monarchy,' University of New Mexico Women, Gender, and Sexuality Studies Grad Showcase for Gender Works-In-Progress, Albuquerque, NM. Friday, April 17th, 2026.
+
+'Year One: Gender Dynamics at the Outset of the Reign of Joan I of Aragon and Violant de Bar,' Medieval Association of the Pacific Biennial Conference, Albuquerque, NM. Satruday, March 7th, 2026.
+
+'Digital Pedagogy Through Sustainable Collaborative Websites,' 3rd Annual Teaching & Learning Summit, Central New Mexico Community College, Albuquerque, NM. Friday, March 6th, 2026.
+
 'Sugar, Emeralds, and Unicorn Horn: Merchants and Spicers as Agents of Medicinal Knowledge Transfer in the Late Middle Ages,' 32nd Annual International Medieval Congress, Leeds, UK. Monday, July 7th, 2025.
 
 'Teaching Premodern Europe in the American Southwest: A Roundtable Discussion,' 32nd Annual International Medieval Congress, Leeds, UK. Monday, July 7th, 2025.
@@ -80,7 +86,9 @@ Forthcoming: 'The Social Networks of Violant de Bar,' *Medieval People*, Vol. 40
 
 ### Assistantships
 
-2025, Spring-Fall: Studio Director, Amaranth Digital Humanities Studio
+2026, Spring: Studio Manager, Amaranth Digital Humanities Studio
+
+2025, Spring-Fall: Studio Manager, Amaranth Digital Humanities Studio
 
 2025, Spring: Graduate Assistant: HIST 1150-003: Western Civilization to 1648
 
