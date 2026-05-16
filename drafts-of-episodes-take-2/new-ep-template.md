@@ -93,6 +93,8 @@ Notes
 ## AI Usage
 [ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
 
+I gave an initial transcription by [Gemini](/historians-notebook-s1-episodes/pdfs/e76-gemini-transcription.pdf) to [Claude](/historians-notebook-s1-episodes/pdfs/e76-claude-project-prompts.pdf) for a reconciliation. [Claude](/historians-notebook-s1-episodes/pdfs/e76-claude-completed-translation.pdf) then produced a translation with footnotes. 
+
 
 ## Bibliography
 
