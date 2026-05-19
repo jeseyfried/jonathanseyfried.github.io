@@ -91,6 +91,9 @@ A sentence or two summarizing the document.
 Notes
 
 ## AI Usage
+The transcription and translation of this document was carried out by my [OpenClaw pipeline](/historians-notebook-s1-episodes/pdfs/e118-openclaw-pipeline.pdf).
+
+
 [ChatGPT](/historians-notebook-s1-episodes/pdfs/e19-chatgpt-cardona.pdf)
 
 I gave an initial transcription by [Gemini](/historians-notebook-s1-episodes/pdfs/e76-gemini-transcription.pdf) to [Claude](/historians-notebook-s1-episodes/pdfs/e76-claude-project-prompts.pdf) for a reconciliation. [Claude](/historians-notebook-s1-episodes/pdfs/e76-claude-completed-translation.pdf) then produced a translation with footnotes. 
