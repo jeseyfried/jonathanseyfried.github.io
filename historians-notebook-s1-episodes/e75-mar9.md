@@ -11,7 +11,7 @@ audio: /historians-notebook-s1-episodes/audio/s1e75-mar9.mp3
 tags:
  - Joan
  - interfaith encounter
- - Muslim history
+ - Muslim History
  - finances
  - Martí
  - paleography
