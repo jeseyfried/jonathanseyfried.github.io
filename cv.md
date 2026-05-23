@@ -36,7 +36,7 @@ date: 2025-12-20
 
 'Medieval Hypebeast: The Conspicuous Consumption of Joan I of Aragon,' *Quidditas*, Vol. 45 (2024). Published in conjunction with the Alan DuPont Breck Award. (6600 words)
 
-Forthcoming: 'The Social Networks of Violant de Bar,' *Medieval People*, Vol. 40 (2025). (9600 words)
+'The Social Networks of Violant de Bar,' *Medieval People*, Vol. 40 (2025). (9600 words)
 
 <br style="clear: both">
 

@@ -75,7 +75,7 @@ Violant provides her uncle, the Duke of Burgundy, with an upbeat report about Jo
 ## Historical Thinking Notes
 - Sourcing: the recipient of this letter is one of the de facto rulers of France, as the Duc de Berry and the Duke of Burgundy ruled as regents for Charles VI until 1388; Violant's purpose here seems to continue normal correspondence as a method of diverting attention away from rumors of Joan's ill health; as queen, Violant's power largely derives from her network connections and also from positive perceptions of the king's vitality
 
-- Contextualization: the big background for this document has to do with the importance of networks and state governance in the Crown of Aragon and other medieval European polities; in a forthcoming article, I argue that social networks were not a byproduct or sideshow of the politics and culture of the Middle Ages but rather the driving force for establishing authority and diffusing of culture [^jes]
+- Contextualization: the big background for this document has to do with the importance of networks and state governance in the Crown of Aragon and other medieval European polities; in an article published this year, I argue that social networks were not a byproduct or sideshow of the politics and culture of the Middle Ages but rather the driving force for establishing authority and diffusing of culture [^jes]
 
 [^jes]:Jonathan Seyfried, ‘The Social Networks of Violant de Bar,’ *Medieval People*, Vol. 40 (2025).
 
