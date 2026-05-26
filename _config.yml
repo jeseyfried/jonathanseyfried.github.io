@@ -3,5 +3,6 @@ description: Personal and academic website for Jonathan Seyfried
 url: https://jonathanseyfried.net
 permalink: :categories/:title
 safe: true
+future: true
 markdown: kramdown
 environment: production
