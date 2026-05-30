@@ -56,7 +56,7 @@ Violant requests that the Governor of Majorca send one of the officials there, P
 {% include figure.html
   class="right"
   width="40%"
-  caption="ACA CR R1819 f72v [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)"
+  caption="ACA CR R1819 f72v, last document on the folio [Source: PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)"
   image-path="/historians-notebook-s1-episodes/images/jan-8-aca-cr-r1819-f72v-violant.JPG"
 %}
 
