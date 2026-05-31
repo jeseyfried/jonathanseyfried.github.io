@@ -3,11 +3,11 @@ title: Episode
 author: Jonathan Seyfried
 location: Albuquerque, NM
 thumbnail: /historians-notebook-s1-episodes/images/
-summary: May , 1387 
-date: 2026-05-01
+summary: June , 1387 
+date: 2026-06-01
 layout: scrollstory
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-audio: /historians-notebook-s1-episodes/audio/s1e99-may99.mp3
+audio: /historians-notebook-s1-episodes/audio/s1e99-jun99.mp3
 tags:
  - Joan
  - Martí
@@ -24,7 +24,7 @@ tags:
 A sentence or two summarizing the document.
 
 <div class="audio-player-card">
-  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-may99.mp3" title="Episode 99" %}
+  {% include audio.html src="/historians-notebook-s1-episodes/audio/s1e99-jun99.mp3" title="Episode 99" %}
 </div>
 <style>
 .audio-player-card {
