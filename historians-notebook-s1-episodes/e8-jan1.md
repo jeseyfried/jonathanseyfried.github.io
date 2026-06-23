@@ -86,7 +86,7 @@ In a move that appears rather vulturous, Joan asks his brother to secure some of
 - Sender: Joan
 - Recipient: Martí
 
-[^arl]:This document was partially transcribed by Antonio Rubió i Lluch and cited by Claire Ponsich. Antonio Rubió y Lluch, Documents per l’historia de la cultura catalana mig-eval (Barcelona: Institut d’Estudis Catalans, 1908), 349 fn1; Claire Ponsich, “Des Lettres, Le Livre et Les Arts Dans Les Relations, Vers 1388-1389, de Violant de Bar et Gaston Fébus, Autour de 1388,” in *Froissart à La Cour de Béarn: L’écrivain*, Les Arts et Le Pouvoir, ed. Valérie Fasseur, 277-304 (Brepols, 2009), 290 fn48.
+[^arl]:This document was partially transcribed by Antonio Rubió i Lluch and cited by Claire Ponsich. Antonio Rubió y Lluch, Documents per l’historia de la cultura catalana mig-eval (Barcelona: Institut d’Estudis Catalans, 1908), 349 fn1; Claire Ponsich, “Des lettres, le livre et les arts dans les relations, vers 1388-1389, de Violant de Bar et Gaston Fébus, autour de 1388.,” in *Froissart à la cour de Béarn: l’écrivain*, Les Arts et Le Pouvoir, ed. Valérie Fasseur, 277-304 (Brepols, 2009), 290 fn48.
 
 [^dating]:This document lacks a dating clause. The previous document is dated January 1 and the following document is dated December 30. Rubió i Lluch identified this letter as written on January 1, and I trust his judgment on that.
 
