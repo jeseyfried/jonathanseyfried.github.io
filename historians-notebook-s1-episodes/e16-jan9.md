@@ -65,6 +65,7 @@ Violant writes to Maria de Luna, her sister-in-law, Martí's wife, asking Maria 
 - Subject: Violant asks Maria de Luna to come to Barcelona
 - Date: January 9, 1387
 - Day of the Week: Wednesday
+- Language: Catalan
 - Archival Reference Number: ACA CR R1819 f73r
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)
 - Place: Barcelona

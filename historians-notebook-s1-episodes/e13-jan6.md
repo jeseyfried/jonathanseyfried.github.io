@@ -67,6 +67,7 @@ Violant informs Joan of communication to the Count of Empúries about the succes
 - Subject: Violant coordinating succession plans in Barcelona
 - Date: January 6, 1387
 - Day of the Week: Sunday
+- Language: Catalan
 - Archival Reference Number: ACA CR R1819 f71v
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)
 - Place: Barcelona

@@ -66,6 +66,7 @@ Violant writes to Martí, telling him to put prisoners from Sibilla's surrender 
 - Subject: Violant coordinates plans for the prisoners from Sibilla's flight
 - Date: January 7, 1387
 - Day of the Week: Monday
+- Language: Catalan
 - Archival Reference Number: ACA CR R1819 f72r
 - [Link to PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)
 - Place: Barcelona
