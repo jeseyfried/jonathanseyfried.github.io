@@ -11,7 +11,7 @@ tags:
 
 ---
 
-# The Historian's Notebook Season 
+# The Historian's Notebook Season 2
 **Season 2 - The Maximum of Information**
 
 <div class="audio-player-card">

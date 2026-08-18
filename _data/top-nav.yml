@@ -10,7 +10,6 @@
     - title: "Overview"
       url: "/podcasts"
     - title: "The Historian's Notebook"
-      url: "/historians-notebook"
       items:
         - title: "Historian's Notebook Overview"
           url: "/historians-notebook"
