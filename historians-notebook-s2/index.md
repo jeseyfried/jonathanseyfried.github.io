@@ -13,3 +13,25 @@ tags:
 
 # The Historian's Notebook Season 
 **Season 2 - The Maximum of Information**
+
+<div class="audio-player-card">
+  {% include audio.html src="/historians-notebook-s2/audio/s2-trailer.mp3" title="Season 2 Trailer" %}
+</div>
+<style>
+.audio-player-card {
+  border: 1px solid #212529;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+  background-color: #355145ff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.audio-player-card .audio-title {
+  margin: 0 0 10px 0;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.audio-player-card audio {
+  width: 100%;
+}
+</style>

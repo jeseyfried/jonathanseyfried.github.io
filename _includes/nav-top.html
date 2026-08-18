@@ -16,6 +16,21 @@
                 {% for subitem in item.items %}
                   {% if subitem.divider %}
                     <li><hr class="dropdown-divider"></li>
+                  {% elsif subitem.items %}
+                    <li class="dropdown-submenu dropend">
+                      <a class="dropdown-item dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        {{ subitem.title }}
+                      </a>
+                      <ul class="dropdown-menu">
+                        {% for subsubitem in subitem.items %}
+                          {% if subsubitem.divider %}
+                            <li><hr class="dropdown-divider"></li>
+                          {% else %}
+                            <li><a class="dropdown-item" href="{{site.baseurl}}{{ subsubitem.url }}">{{ subsubitem.title }}</a></li>
+                          {% endif %}
+                        {% endfor %}
+                      </ul>
+                    </li>
                   {% else %}
                     <li><a class="dropdown-item" href="{{site.baseurl}}{{ subitem.url }}">{{ subitem.title }}</a></li>
                   {% endif %}
