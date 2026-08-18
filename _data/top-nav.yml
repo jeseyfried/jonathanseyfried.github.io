@@ -11,6 +11,11 @@
       url: "/podcasts"
     - title: "The Historian's Notebook"
       url: "/historians-notebook"
+      items:
+        - title: "Season 1 - Molt Cara Companyona"
+          url: "/historians-notebook-s1"
+        - title: "Season 2 - The Maximum of Information"
+          url: "/historians-notebook-s2"
     - title: "A Socialist Reads Atlas Shrugged"
       url: "/atlas"
       
