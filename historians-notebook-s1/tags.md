@@ -3,13 +3,13 @@ layout: scrollstory
 title: Tags
 summary: Browse by tags
 header-image: /historians-notebook-s1-episodes/images/molt-cara-companyona2.png
-permalink: /historians-notebook/tags/
+permalink: /historians-notebook-s1/tags/
 tag-folders: historians-notebook-s1-episodes
 ---
 
 # Browse by Tags
 
-After clicking on a tag, scroll down to see the episodes with that tag. To view all episodes, click All, or simply return to the [Episode List](/historians-notebook/).
+After clicking on a tag, scroll down to see the episodes with that tag. To view all episodes, click All, or simply return to the [Episode List](/historians-notebook-s1/).
 
 <!-- Parse tag-folders parameter (comma-separated list or single folder) -->
 {% assign folders_raw = page.tag-folders %}

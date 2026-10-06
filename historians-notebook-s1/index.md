@@ -14,11 +14,11 @@ tags:
 # The Historian's Notebook Season 1
 **Season 1 - Molt Cara Campanyona**
 <br style="clear: both">
-Welcome to the website for Season 1 of *The Historian's Notebook* podcast. You can listen to episodes on any of the major podcast platofrms or listen here on this website. Each episode has its own companion webpage, which you can access through the cards below, or you can [browse by tags](tags). Teachers and instructors interested in using the content of *Molt Cara Companyona* in their classrooms may consult [this sample lesson plan](s1-lesson-plan).
+Welcome to the website for Season 1 of *The Historian's Notebook* podcast. You can listen to episodes on any of the major podcast platofrms or listen here on this website. Each episode has its own companion webpage, which you can access through the cards below, or you can [browse by tags](historians-notebook-s1/tags.md). Teachers and instructors interested in using the content of *Molt Cara Companyona* in their classrooms may consult [this sample lesson plan](s1-lesson-plan).
 Season 1, *Molt Cara Companyona*, runs daily from December 25, 2025 to December 24, 2026.
 <br style="clear: both">
 <br style="clear: both">
-<a href="/historians-notebook/s1-faqs" target="faqs" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
+<a href="/historians-notebook-s1/s1-faqs" target="faqs" style="float:right; margin-left:20px; margin-bottom:20px; text-align:center; max-width:300px; border:2px solid #212529; border-radius:12px; padding:15px; background-color:#355145ff; box-shadow:0 2px 8px  #E6E3C8; text-decoration:none; display:block; transition:transform 0.2s, box-shadow 0.2s;">
   <img src="/historians-notebook-s1-episodes/images/molt-cara-companyona-image.jpg" alt="Season 1 FAQs" style="width:200px;height:auto; display:block; margin:0 auto;">
   <span style="font-size:0.9em; color: #E6E3C8; margin-top:10px; display:block;">Season 1 FAQs</span>
 </a>
