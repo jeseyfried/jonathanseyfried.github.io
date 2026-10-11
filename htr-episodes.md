@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: scrollstory
 title: HTR Episodes
 subtitle: 
 author: Jonathan Seyfried
