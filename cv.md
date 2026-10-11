@@ -9,7 +9,7 @@ date: 2025-12-20
 ## Jonathan Seyfried Curriculum Vitae
 <br style="clear: both">
 ### Education
-**Doctor of Philosophy (expected 2028)**, Public History, Department of History, University of New Mexico, Albuquerque, NM, – Advisor Dr. Fred Gibbs
+**Doctor of Philosophy (expected 2028)**, Digital Humanities, Department of History, University of New Mexico, Albuquerque, NM, – Advisor Dr. Fred Gibbs
 
 **Master of Arts in Education**, Stanford University, Stanford, CA. June 2010.
 
@@ -24,7 +24,6 @@ date: 2025-12-20
 **Library Information Specialist**, 2000-2009 and 2022-2025. University of California, San Francisco, Kalmanovitz Health Sciences Library, Brandeis Day School in San Francisco, and the University of New Mexico Health Sciences Library and Informatics Center in Albuquerque.
 
 ### Areas of Research Interest
-- Public History
 - Digital Humanities
 - Gender and Sexuality
 - Medieval Iberia, Provençal, and Italy
@@ -42,6 +41,8 @@ date: 2025-12-20
 <br style="clear: both">
 
 ### Conference Presentations and Roundtable Participation
+
+'There's Drama in the Probata: Scribes in Crisis in the Late Fourteenth-Century Crown of Aragon,' 58th Annual Rocky Mountain Medieval and Renaissance Association Conference, Albuquerque, NM. Friday, September 18th, 2026.
 
 'Molt Cara Companyona: Gender Noncomformity and Medieval Monarchy,' University of New Mexico Women, Gender, and Sexuality Studies Grad Showcase for Gender Works-In-Progress, Albuquerque, NM. Friday, April 17th, 2026.
 
@@ -79,6 +80,10 @@ date: 2025-12-20
 
 ### Professional Skills Seminars
 
+'Reading Medieval Catalan,' 2026 Mediterranean Summer Skills Seminar, *The Mediterranean Seminar*, Instructor: John Dagenais
+
+'AI Literacy,' 2026 Digital Humanities Summer Institute, Université de Montréal, Instructor: DJ Hopkins
+
 'Reading Aljamiado Texts,' 2025 Mediterranean Summer Skills Seminar, *The Mediterranean Seminar*, Instructor: Nuria de Castilla.
 
 'Reading Archival Latin,' 2024 Mediterranean Summer Skills Seminar, *The Mediterranean Seminar*, Instructor: Brian A. Catlos. 
@@ -87,7 +92,7 @@ date: 2025-12-20
 
 ### Assistantships
 
-2026, Spring: Studio Manager, Amaranth Digital Humanities Studio
+2026, Spring-Fall: Studio Manager, Amaranth Digital Humanities Studio
 
 2025, Spring-Fall: Studio Manager, Amaranth Digital Humanities Studio
 
