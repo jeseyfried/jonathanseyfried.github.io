@@ -7,10 +7,10 @@ date: 2025-12-20
 ---
 
 # Two Datasets Generated Using Agentic AI
-These two datasets were created by using agentic AI to bulk process handwritten text recognition using both Gemini and Claude. 
+These two datasets were created by using agentic AI to bulk process handwritten text recognition using both Gemini and Claude. At the time, in March 2026, the agentic AI application I used was OpenClaw, which I do not recommend now that Claude Cowork is available.
 
 ### First CSV File Generated - Register 1819
-- [CSV created for Register 1819](aca-reg2053-transcriptions) on March 27, 2026
+- [CSV created for Register 1819](aca-reg1819-table) on March 27, 2026
 - [Link to the original images on PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/show/4801968)
 
 ### Second CSV File Generated - Register 2053
